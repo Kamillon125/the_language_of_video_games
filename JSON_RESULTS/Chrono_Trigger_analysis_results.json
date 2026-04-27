@@ -1,0 +1,369 @@
+{
+    "game_info": {
+        "title": "Chrono Trigger",
+        "series": "Chrono Trigger",
+        "year": 1995,
+        "source": "https://www.chronocompendium.com/Term/Retranslation.html",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 4313
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 102.94,
+            "flesch_kincaid_grade": -0.34,
+            "smog_index": 4.84,
+            "dale_chall_score": 7.01,
+            "word_count": 39007
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0795,
+            "subordinate_clauses_per_sentence": 0.1254,
+            "conditionals_per_sentence": 0.0169
+        },
+        "register": {
+            "slang_density_percentage": 0.6504
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.5673,
+            "top_20_lemmas": {
+                "come": 170,
+                "go": 153,
+                "like": 149,
+                "let": 147,
+                "yes": 144,
+                "time": 144,
+                "get": 112,
+                "right": 102,
+                "think": 95,
+                "know": 94,
+                "find": 92,
+                "oh": 88,
+                "good": 85,
+                "look": 84,
+                "want": 75,
+                "hey": 74,
+                "leave": 72,
+                "power": 71,
+                "thank": 68,
+                "strong": 67
+            },
+            "top_15_bigrams": {
+                "it 's": 203,
+                "do n't": 132,
+                "you 're": 132,
+                "i 'm": 131,
+                "to the": 127,
+                "this is": 100,
+                "of the": 97,
+                "in the": 95,
+                "let 's": 82,
+                "i 'll": 79,
+                "ca n't": 78,
+                "yes no": 66,
+                "we 're": 63,
+                "are you": 62,
+                "that 's": 61
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 36,
+                    "look for": 19,
+                    "return to": 13,
+                    "think of": 12,
+                    "look like": 12,
+                    "wait for": 11,
+                    "come from": 11,
+                    "come to": 11,
+                    "work on": 10,
+                    "take of": 10,
+                    "talk about": 9,
+                    "hear of": 9,
+                    "take to": 9,
+                    "live in": 9,
+                    "take with": 9
+                },
+                "top_15_adjective_noun": {
+                    "old man": 10,
+                    "long time": 8,
+                    "enough money": 7,
+                    "good morning": 5,
+                    "red stone": 5,
+                    "black portal": 5,
+                    "enough cash": 4,
+                    "last round": 4,
+                    "new friend": 4,
+                    "only hope": 4,
+                    "good stuff": 4,
+                    "thou art": 4,
+                    "red rock": 4,
+                    "last night": 4,
+                    "mysterious energy": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 22,
+                    "give up": 19,
+                    "go on": 13,
+                    "check out": 11,
+                    "wake up": 6,
+                    "pick up": 6,
+                    "grow up": 5,
+                    "lock up": 5,
+                    "hang on": 4,
+                    "take off": 4,
+                    "bring forth": 4,
+                    "break through": 4,
+                    "let through": 3,
+                    "beat up": 3,
+                    "get in": 3
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0854,
+            "mtld": 58.87,
+            "avg_sentence_length": 5.82,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.31,
+            "top_10_oov": {
+                "musicsymbol": 32,
+                "Lavos": 24,
+                "Reptites": 16,
+                "Gyah": 3,
+                "gribbit": 2,
+                "xR": 2,
+                "ziena": 2,
+                "zieber": 2,
+                "Unghh": 2,
+                "airduct": 2
+            },
+            "true_oov_list": [
+                "Aaaaack",
+                "Bbburp",
+                "Buurp",
+                "Cyruuus",
+                "Dreamstone",
+                "Eeeeeeek",
+                "Errgh",
+                "GRAAAACK",
+                "GRIBBIT",
+                "Gyah",
+                "HAAhahahaha",
+                "Harharharhar",
+                "Kiiiiiiiiino",
+                "Kikka",
+                "Ladeedadeeda",
+                "Lavos",
+                "Mwee",
+                "Oohga",
+                "Porre",
+                "Reptites",
+                "Retinite",
+                "Riiiiiiiiibit",
+                "Snooore",
+                "Tyrano",
+                "Unghh",
+                "Unngaaa",
+                "Uwa",
+                "Uwahahaha",
+                "airduct",
+                "broooother",
+                "crononick",
+                "evanesced",
+                "gribbit",
+                "groundling",
+                "grribbit",
+                "haveth",
+                "lacketh",
+                "metheus",
+                "musicsymbol",
+                "oweth",
+                "playeth",
+                "polywog",
+                "possesseth",
+                "refuseth",
+                "rrrribit",
+                "slayeth",
+                "szzzzzz",
+                "xR",
+                "zieber",
+                "ziena"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 49.92,
+            "density_excluding_proper_nouns": 39.64,
+            "proper_noun_density_contribution": 7.6366
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 25598,
+                    "unique_amount": 1368,
+                    "total_percentage": 0.7832,
+                    "unique_percentage": 0.3087
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 3377,
+                    "unique_amount": 1021,
+                    "total_percentage": 0.1033,
+                    "unique_percentage": 0.2304
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1691,
+                    "unique_amount": 824,
+                    "total_percentage": 0.0517,
+                    "unique_percentage": 0.1859
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 927,
+                    "unique_amount": 537,
+                    "total_percentage": 0.0284,
+                    "unique_percentage": 0.1212
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 110,
+                    "unique_amount": 67,
+                    "total_percentage": 0.0034,
+                    "unique_percentage": 0.0151
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 770,
+                    "unique_amount": 500,
+                    "total_percentage": 0.0236,
+                    "unique_percentage": 0.1128
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 211,
+                    "unique_amount": 115,
+                    "total_percentage": 0.0065,
+                    "unique_percentage": 0.0259
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 32684,
+                    "unique_amount": 4432,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "energy": 46,
+                "troop": 24,
+                "seal": 21,
+                "glow": 16,
+                "odd": 13,
+                "legendary": 12
+            },
+            "c1_learned_vocab": {
+                "thou": 12
+            },
+            "c2_learned_vocab": {
+                "pendant": 41,
+                "epoch": 23,
+                "hath": 17
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3642,
+                    "learned": 248,
+                    "unique": 681,
+                    "top_repeated_lemmas": {
+                        "the": 1704,
+                        "you": 1310,
+                        "be": 1271,
+                        "to": 920,
+                        "i": 775
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1149,
+                    "learned": 75,
+                    "unique": 653,
+                    "top_repeated_lemmas": {
+                        "power": 73,
+                        "human": 55,
+                        "more": 51,
+                        "need": 50,
+                        "shall": 48
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0234,
+                    "learned": 15,
+                    "unique": 641,
+                    "top_repeated_lemmas": {
+                        "sword": 36,
+                        "monster": 34,
+                        "rest": 29,
+                        "weapon": 27,
+                        "defeat": 26
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0129,
+                    "learned": 6,
+                    "unique": 466,
+                    "top_repeated_lemmas": {
+                        "energy": 46,
+                        "troop": 24,
+                        "seal": 21,
+                        "glow": 16,
+                        "odd": 13
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0169,
+                    "learned": 1,
+                    "unique": 59,
+                    "top_repeated_lemmas": {
+                        "thou": 12
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0068,
+                    "learned": 3,
+                    "unique": 439,
+                    "top_repeated_lemmas": {
+                        "pendant": 41,
+                        "epoch": 23,
+                        "hath": 17
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 4734,
+                "A2": 2864,
+                "B1": 282,
+                "C1": 2
+            },
+            "percentages": {
+                "A1": 0.6006,
+                "A2": 0.3634,
+                "B1": 0.0358,
+                "C1": 0.0003
+            }
+        }
+    }
+}

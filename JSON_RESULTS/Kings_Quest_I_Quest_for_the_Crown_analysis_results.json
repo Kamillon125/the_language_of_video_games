@@ -1,0 +1,263 @@
+{
+    "game_info": {
+        "title": "King's Quest I: Quest for the Crown",
+        "series": "King's Quest",
+        "year": 1987,
+        "source": "https://kingsquest.fandom.com/wiki/KQ1SCI_transcript",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": false,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 101
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 99.38,
+            "flesch_kincaid_grade": 1.07,
+            "smog_index": 5.47,
+            "dale_chall_score": 6.52,
+            "word_count": 1369
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0435,
+            "subordinate_clauses_per_sentence": 0.205,
+            "conditionals_per_sentence": 0.0186
+        },
+        "register": {
+            "slang_density_percentage": 0.8445
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 4.2224,
+            "top_20_lemmas": {
+                "little": 16,
+                "bridge": 9,
+                "thank": 9,
+                "guess": 8,
+                "go": 7,
+                "year": 7,
+                "close": 7,
+                "think": 6,
+                "right": 6,
+                "come": 6,
+                "treasure": 6,
+                "magic": 5,
+                "time": 5,
+                "be": 5,
+                "dinner": 5,
+                "quest": 4,
+                "ye": 4,
+                "to": 4,
+                "cross": 4,
+                "especially": 4
+            },
+            "top_15_bigrams": {
+                "sir graham": 17,
+                "you sir": 10,
+                "sir knight": 9,
+                "i am": 8,
+                "to you": 7,
+                "you 're": 7,
+                "thank you": 7,
+                "a little": 6,
+                "years and": 6,
+                "i can": 5,
+                "ai n't": 5,
+                "you to": 5,
+                "graham i": 4,
+                "your quest": 4,
+                "here you": 4
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "be for": 3,
+                    "pass across": 3,
+                    "pass without": 3,
+                    "take as": 2,
+                    "watch over": 1,
+                    "have on": 1,
+                    "have for": 1,
+                    "think in": 1,
+                    "think of": 1,
+                    "give to": 1,
+                    "aid on": 1,
+                    "return with": 1,
+                    "succeed in": 1,
+                    "talk to": 1,
+                    "go through": 1
+                },
+                "top_15_adjective_noun": {
+                    "little chatterbox": 3,
+                    "puny knight": 3,
+                    "little knight": 3,
+                    "magic mirror": 2,
+                    "small token": 2,
+                    "cackle cackle": 2,
+                    "little aid": 1,
+                    "protective spell": 1,
+                    "effective spell": 1,
+                    "little while": 1,
+                    "little trinket": 1,
+                    "wee bit": 1,
+                    "much entertainment": 1,
+                    "sharp intellect": 1,
+                    "ordinary bean": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "find out": 2,
+                    "come in": 2,
+                    "work out": 1,
+                    "heat up": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.2766,
+            "mtld": 56.12,
+            "avg_sentence_length": 8.83,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.2815,
+            "top_10_oov": {
+                "lemmee": 3,
+                "capishe": 1
+            },
+            "true_oov_list": [
+                "capishe",
+                "lemmee"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 48.14,
+            "density_excluding_proper_nouns": 41.1,
+            "proper_noun_density_contribution": 3.7298
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 904,
+                    "unique_amount": 218,
+                    "total_percentage": 0.7465,
+                    "unique_percentage": 0.5142
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 157,
+                    "unique_amount": 101,
+                    "total_percentage": 0.1296,
+                    "unique_percentage": 0.2382
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 49,
+                    "unique_amount": 40,
+                    "total_percentage": 0.0405,
+                    "unique_percentage": 0.0943
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 36,
+                    "unique_amount": 25,
+                    "total_percentage": 0.0297,
+                    "unique_percentage": 0.059
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 3,
+                    "unique_amount": 3,
+                    "total_percentage": 0.0025,
+                    "unique_percentage": 0.0071
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 40,
+                    "unique_amount": 27,
+                    "total_percentage": 0.033,
+                    "unique_percentage": 0.0637
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 22,
+                    "unique_amount": 10,
+                    "total_percentage": 0.0182,
+                    "unique_percentage": 0.0236
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 1211,
+                    "unique_amount": 424,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.1086,
+                    "learned": 19,
+                    "unique": 175,
+                    "top_repeated_lemmas": {
+                        "you": 74,
+                        "be": 54,
+                        "i": 35,
+                        "my": 35,
+                        "to": 33
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 91,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 39,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 24,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 3,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 25,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 67,
+                "A2": 85,
+                "B1": 20
+            },
+            "percentages": {
+                "A1": 0.3895,
+                "A2": 0.4942,
+                "B1": 0.1163
+            }
+        }
+    }
+}

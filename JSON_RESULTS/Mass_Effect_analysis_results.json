@@ -1,0 +1,282 @@
+{
+    "game_info": {
+        "title": "Mass Effect",
+        "series": "Mass Effect",
+        "year": 2007,
+        "source": "http://www.masseffectlore.com/transcripts/mass-effect-1-transcripts/",
+        "source_features": null,
+        "total_lines_extracted": 419
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 93.68,
+            "flesch_kincaid_grade": 1.74,
+            "smog_index": 6.13,
+            "dale_chall_score": 7.22,
+            "word_count": 6611
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0875,
+            "subordinate_clauses_per_sentence": 0.171,
+            "conditionals_per_sentence": 0.0268
+        },
+        "register": {
+            "slang_density_percentage": 0.4299
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 12.8977,
+            "top_20_lemmas": {
+                "know": 48,
+                "beacon": 41,
+                "think": 35,
+                "tell": 34,
+                "like": 32,
+                "go": 29,
+                "need": 28,
+                "come": 22,
+                "attack": 22,
+                "good": 21,
+                "ship": 20,
+                "get": 20,
+                "geth": 19,
+                "see": 19,
+                "want": 18,
+                "mission": 15,
+                "turian": 15,
+                "happen": 15,
+                "human": 14,
+                "run": 13
+            },
+            "top_15_bigrams": {
+                "do n't": 38,
+                "it 's": 28,
+                "the beacon": 28,
+                "of the": 27,
+                "to the": 23,
+                "you 're": 22,
+                "i 'm": 22,
+                "eden prime": 20,
+                "in the": 19,
+                "it was": 18,
+                "he 's": 17,
+                "tell me": 17,
+                "about the": 17,
+                "that 's": 16,
+                "we 're": 16
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "tell about": 14,
+                    "happen to": 7,
+                    "think about": 6,
+                    "keep for": 5,
+                    "know about": 5,
+                    "send on": 3,
+                    "sound like": 3,
+                    "go to": 3,
+                    "come from": 3,
+                    "see in": 3,
+                    "hide in": 3,
+                    "do with": 3,
+                    "bring to": 3,
+                    "meet in": 2,
+                    "base on": 2
+                },
+                "top_15_adjective_noun": {
+                    "stealth system": 4,
+                    "mass relay": 3,
+                    "good luck": 3,
+                    "good soldier": 3,
+                    "official story": 2,
+                    "additional scene": 2,
+                    "galactic civilization": 2,
+                    "prothean beacon": 2,
+                    "heavy casualty": 2,
+                    "scientific discovery": 2,
+                    "good place": 2,
+                    "few hour": 2,
+                    "other platform": 2,
+                    "other turian": 2,
+                    "minor throbbing": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "go on": 5,
+                    "show up": 5,
+                    "come down": 3,
+                    "check out": 3,
+                    "touch down": 2,
+                    "keep up": 2,
+                    "end up": 2,
+                    "bring in": 2,
+                    "wipe out": 2,
+                    "come along": 2,
+                    "dig up": 2,
+                    "land over": 2,
+                    "sneak off": 2,
+                    "wake up": 2,
+                    "take down": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1624,
+            "mtld": 73.07,
+            "avg_sentence_length": 7.19,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1146,
+            "top_10_oov": {
+                "Nihlus": 8
+            },
+            "true_oov_list": [
+                "Nihlus"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.12,
+            "density_excluding_proper_nouns": 40.69,
+            "proper_noun_density_contribution": 2.9808
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 4606,
+                    "unique_amount": 570,
+                    "total_percentage": 0.7515,
+                    "unique_percentage": 0.3961
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 765,
+                    "unique_amount": 400,
+                    "total_percentage": 0.1248,
+                    "unique_percentage": 0.278
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 376,
+                    "unique_amount": 245,
+                    "total_percentage": 0.0613,
+                    "unique_percentage": 0.1703
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 182,
+                    "unique_amount": 141,
+                    "total_percentage": 0.0297,
+                    "unique_percentage": 0.098
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 52,
+                    "unique_amount": 8,
+                    "total_percentage": 0.0085,
+                    "unique_percentage": 0.0056
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 114,
+                    "unique_amount": 62,
+                    "total_percentage": 0.0186,
+                    "unique_percentage": 0.0431
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 34,
+                    "unique_amount": 13,
+                    "total_percentage": 0.0055,
+                    "unique_percentage": 0.009
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 6129,
+                    "unique_amount": 1439,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C1",
+                "unique_95": "B2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {
+                "beacon": 41
+            },
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2121,
+                    "learned": 77,
+                    "unique": 363,
+                    "top_repeated_lemmas": {
+                        "the": 353,
+                        "be": 236,
+                        "to": 172,
+                        "i": 169,
+                        "you": 164
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0256,
+                    "learned": 8,
+                    "unique": 312,
+                    "top_repeated_lemmas": {
+                        "need": 28,
+                        "attack": 22,
+                        "other": 17,
+                        "human": 16,
+                        "captain": 12
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0093,
+                    "learned": 2,
+                    "unique": 214,
+                    "top_repeated_lemmas": {
+                        "mission": 15,
+                        "colony": 12
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 125,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.125,
+                    "learned": 1,
+                    "unique": 8,
+                    "top_repeated_lemmas": {
+                        "beacon": 41
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 60,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 501,
+                "A2": 444,
+                "B1": 60,
+                "B2": 2
+            },
+            "percentages": {
+                "A1": 0.4975,
+                "A2": 0.4409,
+                "B1": 0.0596,
+                "B2": 0.002
+            }
+        }
+    }
+}

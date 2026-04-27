@@ -1,0 +1,485 @@
+{
+    "game_info": {
+        "title": "The Elder Scrolls II: Daggerfall",
+        "series": "The Elder Scrolls",
+        "year": 1996,
+        "source": "https://github.com/Interkarma/daggerfall-unity",
+        "source_features": {
+            "type": "game data",
+            "completeness": "high",
+            "dialogueOrder": false,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 1271
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 93.87,
+            "flesch_kincaid_grade": 2.48,
+            "smog_index": 6.73,
+            "dale_chall_score": 7.16,
+            "word_count": 46179
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1156,
+            "subordinate_clauses_per_sentence": 0.3176,
+            "conditionals_per_sentence": 0.0599
+        },
+        "register": {
+            "slang_density_percentage": 0.529
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 6.1473,
+            "top_20_lemmas": {
+                "(=": 323,
+                "day": 266,
+                "gold": 258,
+                "know": 224,
+                "g": 202,
+                "need": 202,
+                "good": 188,
+                "find": 185,
+                "contact": 156,
+                "want": 128,
+                "qgiver": 123,
+                "tell": 110,
+                "time": 107,
+                "bring": 106,
+                "pay": 102,
+                "kill": 98,
+                "item": 96,
+                "like": 94,
+                "piece": 94,
+                "reward": 92
+            },
+            "top_15_bigrams": {
+                "if you": 194,
+                "do n't": 154,
+                "of the": 138,
+                "i have": 120,
+                "i am": 114,
+                "i 'll": 113,
+                "in (=": 110,
+                "you are": 102,
+                "you 're": 98,
+                "you have": 96,
+                "i will": 95,
+                "to be": 93,
+                "is a": 88,
+                "i 'm": 87,
+                "in the": 83
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 55,
+                    "look for": 50,
+                    "find in": 38,
+                    "bring to": 32,
+                    "get to": 30,
+                    "get out": 22,
+                    "take in": 19,
+                    "wait for": 19,
+                    "take to": 18,
+                    "go in": 17,
+                    "ask for": 17,
+                    "have in": 17,
+                    "talk to": 15,
+                    "give to": 14,
+                    "get in": 14
+                },
+                "top_15_adjective_noun": {
+                    "good luck": 48,
+                    "(= contact": 12,
+                    "less day": 11,
+                    "wilt thou": 8,
+                    "good day": 8,
+                    "few day": 8,
+                    "enough time": 8,
+                    "dangerous mission": 6,
+                    "only way": 6,
+                    "great grandmother": 6,
+                    "knightly order": 6,
+                    "wouldst thou": 6,
+                    "eternal ruin": 6,
+                    "great power": 5,
+                    "great grandfather": 5
+                },
+                "top_15_phrasal_verbs": {
+                    "get over": 11,
+                    "hand over": 10,
+                    "find out": 9,
+                    "take up": 9,
+                    "send out": 8,
+                    "track down": 8,
+                    "pass on": 5,
+                    "go on": 5,
+                    "turn over": 5,
+                    "hole up": 5,
+                    "take on": 5,
+                    "get out": 5,
+                    "shove off": 4,
+                    "put up": 4,
+                    "go out": 4
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0754,
+            "mtld": 66.01,
+            "avg_sentence_length": 9.27,
+            "median_sentence_length": 8
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 1.1563,
+            "top_10_oov": {
+                "qgiver": 123,
+                "mondung": 91,
+                "qgfriend": 43,
+                "missingperson": 18,
+                "itemdung": 10,
+                "magicitem": 9,
+                "religitem": 8,
+                "bloodfather": 7,
+                "pickupregion": 6,
+                "mitem": 6
+            },
+            "true_oov_list": [
+                "Aubk",
+                "Gruh",
+                "Meanwhilst",
+                "Mortalcreature",
+                "Mundal",
+                "Wayrest",
+                "accounters",
+                "agentuk",
+                "alchemyshop",
+                "atronachy",
+                "auguries",
+                "aurielsbow",
+                "aurielshield",
+                "besmeared",
+                "betrothedhome",
+                "bloodfather",
+                "caddish",
+                "casfort",
+                "castfort",
+                "catburglars",
+                "chancred",
+                "childhouse",
+                "childlocale",
+                "circinate",
+                "conhouse",
+                "contactdung",
+                "createth",
+                "daedrae",
+                "darkb",
+                "darkbmember",
+                "dbguild",
+                "defiers",
+                "desacrilized",
+                "dragonling",
+                "dragonlings",
+                "escapetime",
+                "evilfocus",
+                "evilitem",
+                "executiondelay",
+                "fakeplace",
+                "fatherdung",
+                "feastin",
+                "finddaughter",
+                "foscarium",
+                "frostflesh",
+                "gallous",
+                "gettraitor",
+                "goldgoth",
+                "gramdaddy",
+                "graywings",
+                "greel",
+                "hidingplace",
+                "hintdung",
+                "hookerhouse",
+                "innerested",
+                "itemdung",
+                "itemplace",
+                "keydung",
+                "keytime",
+                "lessgold",
+                "lordsmail",
+                "lovgold",
+                "mageling",
+                "magesguild",
+                "magicitem",
+                "marknpc",
+                "meetingplace",
+                "melonhead",
+                "mettlesome",
+                "mguild",
+                "missingperson",
+                "mitem",
+                "mollycoddles",
+                "mondun",
+                "mondung",
+                "myndung",
+                "necs",
+                "newdung",
+                "nightblade",
+                "noblehouse",
+                "nonsisters",
+                "nrn",
+                "oracletemple",
+                "outerself",
+                "pickuplocal",
+                "pickupregion",
+                "prophouse",
+                "qgfriend",
+                "qgiver",
+                "qgiverhome",
+                "qtime",
+                "queenreward",
+                "questg",
+                "questtime",
+                "realmummy",
+                "rebelhouse",
+                "relartifact",
+                "religiousitem",
+                "religitem",
+                "ripperhouse",
+                "rippername",
+                "sanctimonius",
+                "scholardung",
+                "scholarreward",
+                "scried",
+                "sleepingmage",
+                "sparkcaster",
+                "spellslingers",
+                "spellsword",
+                "targethouse",
+                "tavernkeep",
+                "tetched",
+                "thewy",
+                "thickwitted",
+                "thiefhouse",
+                "timeLimit",
+                "timeforq",
+                "traitorreward",
+                "ukcrypt",
+                "unbrothers",
+                "unconfuted",
+                "ungallant",
+                "vampitem",
+                "vampleader",
+                "vampreward",
+                "vamprival",
+                "victimhouse",
+                "warted",
+                "wereBrother",
+                "werebeast",
+                "werebeasty",
+                "wereboar",
+                "whatsamajig",
+                "widowhouse",
+                "wrongdung",
+                "yapow"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 49.43,
+            "density_excluding_proper_nouns": 45.86,
+            "proper_noun_density_contribution": 2.806
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 32343,
+                    "unique_amount": 1268,
+                    "total_percentage": 0.756,
+                    "unique_percentage": 0.2594
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 4434,
+                    "unique_amount": 1052,
+                    "total_percentage": 0.1036,
+                    "unique_percentage": 0.2152
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 2349,
+                    "unique_amount": 900,
+                    "total_percentage": 0.0549,
+                    "unique_percentage": 0.1841
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1310,
+                    "unique_amount": 669,
+                    "total_percentage": 0.0306,
+                    "unique_percentage": 0.1368
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 225,
+                    "unique_amount": 90,
+                    "total_percentage": 0.0053,
+                    "unique_percentage": 0.0184
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1316,
+                    "unique_amount": 710,
+                    "total_percentage": 0.0308,
+                    "unique_percentage": 0.1452
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 802,
+                    "unique_amount": 200,
+                    "total_percentage": 0.0187,
+                    "unique_percentage": 0.0409
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 42779,
+                    "unique_amount": 4889,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "willing": 41,
+                "traitor": 32,
+                "god": 22,
+                "contract": 20,
+                "quest": 18,
+                "noble": 18,
+                "knight": 17,
+                "haunt": 16,
+                "mansion": 16,
+                "prophet": 15,
+                "mine": 14,
+                "client": 14,
+                "duel": 13
+            },
+            "c1_learned_vocab": {
+                "guild": 37,
+                "mage": 27,
+                "thou": 18
+            },
+            "c2_learned_vocab": {
+                "dungeon": 34,
+                "slay": 32,
+                "gem": 32,
+                "artifact": 30,
+                "orc": 24,
+                "thou": 21,
+                "thy": 18,
+                "ransom": 18,
+                "lich": 17,
+                "assassin": 17,
+                "kidnapper": 16,
+                "vampire": 14,
+                "courier": 14,
+                "wilt": 13,
+                "forfeit": 12,
+                "tavern": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3558,
+                    "learned": 238,
+                    "unique": 669,
+                    "top_repeated_lemmas": {
+                        "you": 2054,
+                        "be": 1797,
+                        "to": 1651,
+                        "the": 1470,
+                        "i": 1135
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1339,
+                    "learned": 92,
+                    "unique": 687,
+                    "top_repeated_lemmas": {
+                        "need": 202,
+                        "contact": 156,
+                        "gold": 149,
+                        "more": 77,
+                        "send": 57
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0499,
+                    "learned": 34,
+                    "unique": 681,
+                    "top_repeated_lemmas": {
+                        "reward": 91,
+                        "monster": 47,
+                        "victim": 34,
+                        "suppose": 34,
+                        "deliver": 33
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.023,
+                    "learned": 13,
+                    "unique": 565,
+                    "top_repeated_lemmas": {
+                        "willing": 41,
+                        "traitor": 32,
+                        "god": 22,
+                        "contract": 20,
+                        "quest": 18
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.039,
+                    "learned": 3,
+                    "unique": 77,
+                    "top_repeated_lemmas": {
+                        "guild": 37,
+                        "mage": 27,
+                        "thou": 18
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.026,
+                    "learned": 16,
+                    "unique": 616,
+                    "top_repeated_lemmas": {
+                        "dungeon": 34,
+                        "slay": 32,
+                        "gem": 32,
+                        "artifact": 30,
+                        "orc": 24
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1893,
+                "A2": 2555,
+                "B1": 769,
+                "B2": 18,
+                "C1": 11,
+                "C2": 6
+            },
+            "percentages": {
+                "A1": 0.3604,
+                "A2": 0.4865,
+                "B1": 0.1464,
+                "B2": 0.0034,
+                "C1": 0.0021,
+                "C2": 0.0011
+            }
+        }
+    }
+}

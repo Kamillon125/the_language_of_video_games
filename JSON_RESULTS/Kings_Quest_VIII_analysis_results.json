@@ -1,0 +1,382 @@
+{
+    "game_info": {
+        "title": "King's Quest VIII",
+        "series": "King's Quest",
+        "year": 1998,
+        "source": "https://kingsquest.fandom.com/wiki/KQ8_transcript#Connor",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": false,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 1595
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 95.16,
+            "flesch_kincaid_grade": 1.48,
+            "smog_index": 6.11,
+            "dale_chall_score": 7.44,
+            "word_count": 18242
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1439,
+            "subordinate_clauses_per_sentence": 0.155,
+            "conditionals_per_sentence": 0.0106
+        },
+        "register": {
+            "slang_density_percentage": 1.5802
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 1.9415,
+            "top_20_lemmas": {
+                "good": 119,
+                "ye": 118,
+                "shall": 88,
+                "gold": 80,
+                "find": 63,
+                "sir": 62,
+                "thank": 57,
+                "thou": 54,
+                "coin": 54,
+                "come": 50,
+                "weapon": 49,
+                "know": 44,
+                "content": 42,
+                "need": 41,
+                "service": 39,
+                "thee": 38,
+                "tell": 37,
+                "return": 37,
+                "piece": 37,
+                "seek": 32
+            },
+            "top_15_bigrams": {
+                "of the": 94,
+                "i have": 89,
+                "i shall": 61,
+                "the mask": 59,
+                "i can": 53,
+                "gold coins": 53,
+                "i am": 49,
+                "thank you": 48,
+                "to the": 41,
+                "of a": 34,
+                "to you": 31,
+                "mask of": 30,
+                "of eternity": 30,
+                "can be": 30,
+                "sir i": 30
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "present to": 19,
+                    "base on": 18,
+                    "return to": 15,
+                    "present on": 8,
+                    "interact with": 8,
+                    "look at": 8,
+                    "combine with": 7,
+                    "belong to": 6,
+                    "restore to": 6,
+                    "care for": 6,
+                    "explain in": 6,
+                    "save from": 5,
+                    "come to": 5,
+                    "sell to": 5,
+                    "use for": 5
+                },
+                "top_15_adjective_noun": {
+                    "black diamond": 13,
+                    "possible interest": 12,
+                    "thou hast": 11,
+                    "thou art": 10,
+                    "good sir": 9,
+                    "good merchant": 9,
+                    "good wisp": 8,
+                    "old weapon": 8,
+                    "personal aspect": 8,
+                    "poisonous water": 7,
+                    "other website": 7,
+                    "good wizard": 6,
+                    "good creature": 6,
+                    "blue adamant": 6,
+                    "dead hero": 6
+                },
+                "top_15_phrasal_verbs": {
+                    "stand out": 3,
+                    "welcome back": 2,
+                    "give up": 2,
+                    "log in": 2,
+                    "give in": 1,
+                    "take for": 1,
+                    "break down": 1,
+                    "love on": 1,
+                    "pass through": 1,
+                    "turn over": 1,
+                    "bounce off": 1,
+                    "take up": 1,
+                    "carry around": 1,
+                    "hold out": 1,
+                    "cut off": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1188,
+            "mtld": 54.13,
+            "avg_sentence_length": 8.21,
+            "median_sentence_length": 7.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.302,
+            "top_10_oov": {
+                "amberglow": 9,
+                "Seekest": 5,
+                "gryph": 4,
+                "tradeswoman": 3,
+                "gryphs": 3,
+                "seekest": 2,
+                "tremblor": 2,
+                "terracosmic": 2,
+                "varlet": 2,
+                "goodwife": 1
+            },
+            "true_oov_list": [
+                "AAIIIIEEEEEEEEHHHHHH",
+                "BRIGID",
+                "Foresooth",
+                "Seekest",
+                "Wofefully",
+                "Wreched",
+                "abhorreth",
+                "afortened",
+                "agone",
+                "amberglow",
+                "broter",
+                "castlekeep",
+                "flamebow",
+                "gainest",
+                "goodwife",
+                "gryph",
+                "gryphs",
+                "hearest",
+                "manifestor",
+                "mrghah",
+                "purgatives",
+                "ratsbane",
+                "revealment",
+                "seekest",
+                "terracosmic",
+                "terramancer",
+                "terromancer",
+                "tradeswoman",
+                "tradeswomen",
+                "tremblor",
+                "varlet",
+                "woudst",
+                "yher"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 52.63,
+            "density_excluding_proper_nouns": 44.73,
+            "proper_noun_density_contribution": 5.0534
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 10765,
+                    "unique_amount": 778,
+                    "total_percentage": 0.6632,
+                    "unique_percentage": 0.2876
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 2267,
+                    "unique_amount": 603,
+                    "total_percentage": 0.1397,
+                    "unique_percentage": 0.2229
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1368,
+                    "unique_amount": 522,
+                    "total_percentage": 0.0843,
+                    "unique_percentage": 0.193
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 766,
+                    "unique_amount": 318,
+                    "total_percentage": 0.0472,
+                    "unique_percentage": 0.1176
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 178,
+                    "unique_amount": 64,
+                    "total_percentage": 0.011,
+                    "unique_percentage": 0.0237
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 780,
+                    "unique_amount": 370,
+                    "total_percentage": 0.0481,
+                    "unique_percentage": 0.1368
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 109,
+                    "unique_amount": 50,
+                    "total_percentage": 0.0067,
+                    "unique_percentage": 0.0185
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 16233,
+                    "unique_amount": 2705,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "C1",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "mortal": 30,
+                "profile": 22,
+                "evil": 20,
+                "crystal": 20,
+                "foul": 18,
+                "knight": 15,
+                "purchase": 15,
+                "realm": 14,
+                "user": 14,
+                "flame": 13,
+                "mask": 13,
+                "quest": 12,
+                "torch": 12,
+                "ash": 12,
+                "hail": 12,
+                "datum": 12
+            },
+            "c1_learned_vocab": {
+                "thou": 57,
+                "dragon": 15,
+                "witch": 14,
+                "pike": 12
+            },
+            "c2_learned_vocab": {
+                "tis": 27,
+                "vile": 20,
+                "boatman": 18,
+                "behold": 17,
+                "tradesman": 16,
+                "hath": 15,
+                "naught": 15,
+                "hast": 14,
+                "scepter": 13,
+                "thy": 12,
+                "swamp": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.264,
+                    "learned": 127,
+                    "unique": 481,
+                    "top_repeated_lemmas": {
+                        "the": 708,
+                        "be": 623,
+                        "i": 561,
+                        "a": 505,
+                        "of": 485
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1129,
+                    "learned": 49,
+                    "unique": 434,
+                    "top_repeated_lemmas": {
+                        "shall": 88,
+                        "gold": 80,
+                        "coin": 54,
+                        "such": 47,
+                        "yer": 43
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0534,
+                    "learned": 22,
+                    "unique": 412,
+                    "top_repeated_lemmas": {
+                        "weapon": 49,
+                        "content": 44,
+                        "service": 39,
+                        "sacred": 26,
+                        "present": 24
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0593,
+                    "learned": 16,
+                    "unique": 270,
+                    "top_repeated_lemmas": {
+                        "mortal": 30,
+                        "profile": 22,
+                        "evil": 20,
+                        "crystal": 20,
+                        "foul": 18
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0727,
+                    "learned": 4,
+                    "unique": 55,
+                    "top_repeated_lemmas": {
+                        "thou": 57,
+                        "dragon": 15,
+                        "witch": 14,
+                        "pike": 12
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0356,
+                    "learned": 11,
+                    "unique": 309,
+                    "top_repeated_lemmas": {
+                        "tis": 27,
+                        "vile": 20,
+                        "boatman": 18,
+                        "behold": 17,
+                        "tradesman": 16
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1413,
+                "A2": 789,
+                "B1": 205,
+                "B2": 17,
+                "C1": 3,
+                "C2": 2
+            },
+            "percentages": {
+                "A1": 0.5817,
+                "A2": 0.3248,
+                "B1": 0.0844,
+                "B2": 0.007,
+                "C1": 0.0012,
+                "C2": 0.0008
+            }
+        }
+    }
+}

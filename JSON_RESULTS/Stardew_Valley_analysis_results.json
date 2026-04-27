@@ -1,0 +1,313 @@
+{
+    "game_info": {
+        "title": "Stardew Valley",
+        "series": "Stardew Valley",
+        "year": 2016,
+        "source": "https://drive.google.com/drive/folders/0BwyXuxAqGS7ueVdFX2dQSUVzcUk",
+        "source_features": {
+            "type": "game data",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 1372
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 100.88,
+            "flesch_kincaid_grade": 0.39,
+            "smog_index": 5.41,
+            "dale_chall_score": 6.09,
+            "word_count": 15760
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0547,
+            "subordinate_clauses_per_sentence": 0.2606,
+            "conditionals_per_sentence": 0.0607
+        },
+        "register": {
+            "slang_density_percentage": 0.5195
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 6.0903,
+            "top_20_lemmas": {
+                "like": 121,
+                "good": 76,
+                "know": 74,
+                "think": 72,
+                "day": 61,
+                "time": 58,
+                "work": 53,
+                "feel": 52,
+                "want": 49,
+                "go": 49,
+                "nice": 48,
+                "look": 48,
+                "oh": 45,
+                "hi": 43,
+                "hey": 42,
+                "tell": 41,
+                "friend": 41,
+                "new": 40,
+                "old": 40,
+                "little": 40
+            },
+            "top_15_bigrams": {
+                "i 'm": 169,
+                "it 's": 149,
+                "do n't": 102,
+                "in the": 68,
+                "i 'll": 57,
+                "you 're": 56,
+                "if you": 51,
+                "i 've": 50,
+                "i do": 47,
+                "but i": 45,
+                "'s a": 40,
+                "do you": 37,
+                "of the": 33,
+                "that 's": 32,
+                "a lot": 32
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "talk to": 17,
+                    "think about": 13,
+                    "stop by": 10,
+                    "feel like": 7,
+                    "go to": 7,
+                    "use to": 7,
+                    "see in": 7,
+                    "live in": 7,
+                    "look for": 7,
+                    "seem like": 6,
+                    "live on": 6,
+                    "have in": 6,
+                    "get in": 6,
+                    "work on": 6,
+                    "stay on": 5
+                },
+                "top_15_adjective_noun": {
+                    "last night": 9,
+                    "new house": 7,
+                    "fresh air": 5,
+                    "hard time": 5,
+                    "new farmer": 5,
+                    "young people": 4,
+                    "small town": 4,
+                    "old farm": 3,
+                    "good day": 3,
+                    "much time": 3,
+                    "poor thing": 3,
+                    "good friend": 3,
+                    "old life": 3,
+                    "local economy": 3,
+                    "most people": 3
+                },
+                "top_15_phrasal_verbs": {
+                    "hang out": 9,
+                    "go on": 7,
+                    "warm up": 4,
+                    "help out": 4,
+                    "end up": 4,
+                    "hold up": 4,
+                    "grow up": 4,
+                    "check out": 3,
+                    "throw around": 2,
+                    "take off": 2,
+                    "let in": 2,
+                    "go out": 2,
+                    "wash up": 2,
+                    "wake up": 2,
+                    "close down": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1155,
+            "mtld": 68.75,
+            "avg_sentence_length": 8.48,
+            "median_sentence_length": 8.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1075,
+            "top_10_oov": {
+                "noturn": 5,
+                "Stardew": 1,
+                "rhizosphere": 1,
+                "elliottApol": 1,
+                "HaleyClothes": 1,
+                "haleySeagull": 1,
+                "linusVandal": 1,
+                "PamDrunk": 1,
+                "pierreJoja": 1,
+                "pierreBlue": 1
+            },
+            "true_oov_list": [
+                "HaleyClothes",
+                "PamDrunk",
+                "RobinSeb",
+                "SOOOOoo",
+                "ShaneJOSH",
+                "Stardew",
+                "elliottApol",
+                "haleySeagull",
+                "joja",
+                "linusVandal",
+                "noturn",
+                "pierreBlue",
+                "pierreJoja",
+                "rhizosphere"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.52,
+            "density_excluding_proper_nouns": 44.08,
+            "proper_noun_density_contribution": 1.5882
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 11741,
+                    "unique_amount": 1003,
+                    "total_percentage": 0.8119,
+                    "unique_percentage": 0.4197
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1560,
+                    "unique_amount": 606,
+                    "total_percentage": 0.1079,
+                    "unique_percentage": 0.2536
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 637,
+                    "unique_amount": 380,
+                    "total_percentage": 0.044,
+                    "unique_percentage": 0.159
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 275,
+                    "unique_amount": 206,
+                    "total_percentage": 0.019,
+                    "unique_percentage": 0.0862
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 15,
+                    "unique_amount": 14,
+                    "total_percentage": 0.001,
+                    "unique_percentage": 0.0059
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 202,
+                    "unique_amount": 152,
+                    "total_percentage": 0.014,
+                    "unique_percentage": 0.0636
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 32,
+                    "unique_amount": 29,
+                    "total_percentage": 0.0022,
+                    "unique_percentage": 0.0121
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 14462,
+                    "unique_amount": 2390,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "saloon": 19
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2814,
+                    "learned": 168,
+                    "unique": 597,
+                    "top_repeated_lemmas": {
+                        "i": 653,
+                        "to": 541,
+                        "you": 541,
+                        "be": 503,
+                        "the": 481
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0562,
+                    "learned": 26,
+                    "unique": 463,
+                    "top_repeated_lemmas": {
+                        "so": 79,
+                        "ever": 35,
+                        "more": 34,
+                        "lot": 32,
+                        "need": 30
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0116,
+                    "learned": 4,
+                    "unique": 346,
+                    "top_repeated_lemmas": {
+                        "sometimes": 31,
+                        "though": 24,
+                        "sigh": 16,
+                        "suppose": 12
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 187,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 13,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0067,
+                    "learned": 1,
+                    "unique": 149,
+                    "top_repeated_lemmas": {
+                        "saloon": 19
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 660,
+                "A2": 1292,
+                "B1": 175,
+                "B2": 1,
+                "C1": 1
+            },
+            "percentages": {
+                "A1": 0.31,
+                "A2": 0.6069,
+                "B1": 0.0822,
+                "B2": 0.0005,
+                "C1": 0.0005
+            }
+        }
+    }
+}

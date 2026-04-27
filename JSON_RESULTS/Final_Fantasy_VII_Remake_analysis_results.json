@@ -1,0 +1,404 @@
+{
+    "game_info": {
+        "title": "Final Fantasy VII Remake",
+        "series": "Final Fantasy",
+        "year": 2020,
+        "source": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake_script",
+        "source_features": {
+            "type": "wiki",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 8904
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 102.58,
+            "flesch_kincaid_grade": 0.01,
+            "smog_index": 5.21,
+            "dale_chall_score": 6.56,
+            "word_count": 86780
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0586,
+            "subordinate_clauses_per_sentence": 0.1687,
+            "conditionals_per_sentence": 0.0275
+        },
+        "register": {
+            "slang_density_percentage": 1.1465
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 12.1134,
+            "top_20_lemmas": {
+                "know": 502,
+                "get": 488,
+                "go": 422,
+                "right": 421,
+                "come": 414,
+                "like": 385,
+                "think": 384,
+                "to": 378,
+                "let": 332,
+                "look": 315,
+                "good": 299,
+                "time": 281,
+                "need": 276,
+                "way": 268,
+                "yeah": 259,
+                "hey": 259,
+                "okay": 224,
+                "oh": 221,
+                "huh": 215,
+                "tell": 190
+            },
+            "top_15_bigrams": {
+                "do n't": 512,
+                "it 's": 441,
+                "i 'm": 429,
+                "you 're": 378,
+                "that 's": 288,
+                "let 's": 234,
+                "gon na": 212,
+                "we 're": 201,
+                "i 'll": 200,
+                "of the": 189,
+                "in the": 187,
+                "to the": 181,
+                "if you": 173,
+                "got ta": 166,
+                "ca n't": 163
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look for": 66,
+                    "get to": 49,
+                    "talk about": 46,
+                    "look at": 33,
+                    "get in": 32,
+                    "look like": 31,
+                    "wait for": 30,
+                    "take of": 28,
+                    "think about": 28,
+                    "talk to": 25,
+                    "go to": 22,
+                    "deal with": 22,
+                    "come with": 21,
+                    "worry about": 21,
+                    "do with": 20
+                },
+                "top_15_adjective_noun": {
+                    "next time": 23,
+                    "good luck": 13,
+                    "other side": 12,
+                    "long time": 10,
+                    "little bit": 8,
+                    "old dude": 7,
+                    "central terminal": 7,
+                    "good thing": 6,
+                    "last time": 6,
+                    "new materia": 6,
+                    "big boy": 6,
+                    "first time": 6,
+                    "little girl": 6,
+                    "next match": 6,
+                    "damn thing": 5
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 94,
+                    "go on": 35,
+                    "help out": 28,
+                    "check out": 23,
+                    "give up": 19,
+                    "hold on": 19,
+                    "shut up": 17,
+                    "take down": 17,
+                    "hold up": 16,
+                    "get out": 15,
+                    "look out": 15,
+                    "find out": 15,
+                    "figure out": 14,
+                    "go down": 13,
+                    "keep up": 13
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0521,
+            "mtld": 71.63,
+            "avg_sentence_length": 6.37,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0789,
+            "top_10_oov": {
+                "airbuster": 9,
+                "doomrats": 5,
+                "kweh": 4,
+                "Corneo": 3,
+                "wererats": 2,
+                "Wutai": 2,
+                "backstabbin": 1,
+                "plateside": 1,
+                "caaan": 1,
+                "proje": 1
+            },
+            "true_oov_list": [
+                "Awha",
+                "Corneo",
+                "Deeelicious",
+                "Garroted",
+                "Hngk",
+                "Hrah",
+                "Melphie",
+                "Reinitializing",
+                "Rememberin",
+                "Reowr",
+                "Wutai",
+                "Wutaians",
+                "aboutchya",
+                "airbuster",
+                "backstabbin",
+                "caaan",
+                "compens",
+                "destryoing",
+                "dillydally",
+                "doomrats",
+                "dourest",
+                "droople",
+                "escapin",
+                "exfil",
+                "fesity",
+                "fiigure",
+                "fishbot",
+                "greqt",
+                "hasslin",
+                "hooraaay",
+                "inspir",
+                "intenions",
+                "kweh",
+                "lanche",
+                "mormal",
+                "plaaate",
+                "plateside",
+                "proje",
+                "proyd",
+                "researchin",
+                "scumbug",
+                "smuh",
+                "stinkpots",
+                "swaggerin",
+                "tankbuster",
+                "terpsicolt",
+                "testudinarious",
+                "tournmanet",
+                "trespassin",
+                "uhk",
+                "underplate",
+                "vaaa",
+                "warking",
+                "wererats"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.12,
+            "density_excluding_proper_nouns": 42.08,
+            "proper_noun_density_contribution": 2.8257
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 64054,
+                    "unique_amount": 1871,
+                    "total_percentage": 0.8152,
+                    "unique_percentage": 0.2724
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 6931,
+                    "unique_amount": 1543,
+                    "total_percentage": 0.0882,
+                    "unique_percentage": 0.2246
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3461,
+                    "unique_amount": 1326,
+                    "total_percentage": 0.044,
+                    "unique_percentage": 0.193
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1996,
+                    "unique_amount": 905,
+                    "total_percentage": 0.0254,
+                    "unique_percentage": 0.1318
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 251,
+                    "unique_amount": 122,
+                    "total_percentage": 0.0032,
+                    "unique_percentage": 0.0178
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1466,
+                    "unique_amount": 864,
+                    "total_percentage": 0.0187,
+                    "unique_percentage": 0.1258
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 420,
+                    "unique_amount": 238,
+                    "total_percentage": 0.0053,
+                    "unique_percentage": 0.0346
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 78579,
+                    "unique_amount": 6869,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "hell": 108,
+                "materia": 61,
+                "damn": 58,
+                "ass": 57,
+                "tough": 27,
+                "suck": 18,
+                "intruder": 17,
+                "route": 16,
+                "sigh": 16,
+                "datum": 16,
+                "initiate": 16,
+                "combat": 14,
+                "mister": 14,
+                "audition": 14,
+                "candidate": 12,
+                "energy": 12
+            },
+            "c1_learned_vocab": {
+                "shit": 51,
+                "pillar": 22
+            },
+            "c2_learned_vocab": {
+                "slum": 32,
+                "bastard": 31,
+                "asshole": 25,
+                "gil": 21,
+                "bitch": 18,
+                "dammit": 16,
+                "bullshit": 16,
+                "bro": 16,
+                "ai": 15,
+                "avalanche": 15,
+                "topside": 15,
+                "hideout": 14,
+                "keycard": 13,
+                "colosseum": 13,
+                "champ": 13,
+                "bodyguard": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4712,
+                    "learned": 385,
+                    "unique": 817,
+                    "top_repeated_lemmas": {
+                        "you": 3499,
+                        "the": 2938,
+                        "be": 2711,
+                        "to": 2533,
+                        "i": 1943
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1725,
+                    "learned": 157,
+                    "unique": 910,
+                    "top_repeated_lemmas": {
+                        "more": 216,
+                        "still": 114,
+                        "even": 105,
+                        "need": 100,
+                        "enough": 97
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.05,
+                    "learned": 48,
+                    "unique": 960,
+                    "top_repeated_lemmas": {
+                        "chuckle": 83,
+                        "though": 42,
+                        "rest": 39,
+                        "bet": 38,
+                        "security": 36
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0222,
+                    "learned": 16,
+                    "unique": 722,
+                    "top_repeated_lemmas": {
+                        "hell": 108,
+                        "materia": 61,
+                        "damn": 58,
+                        "ass": 57,
+                        "tough": 27
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0202,
+                    "learned": 2,
+                    "unique": 99,
+                    "top_repeated_lemmas": {
+                        "shit": 51,
+                        "pillar": 22
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0216,
+                    "learned": 16,
+                    "unique": 741,
+                    "top_repeated_lemmas": {
+                        "slum": 32,
+                        "bastard": 31,
+                        "asshole": 25,
+                        "gil": 21,
+                        "bitch": 18
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 8362,
+                "A2": 6747,
+                "B1": 780,
+                "B2": 19,
+                "C1": 2,
+                "C2": 3
+            },
+            "percentages": {
+                "A1": 0.5255,
+                "A2": 0.424,
+                "B1": 0.049,
+                "B2": 0.0012,
+                "C1": 0.0001,
+                "C2": 0.0002
+            }
+        }
+    }
+}

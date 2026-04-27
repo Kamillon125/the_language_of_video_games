@@ -1,0 +1,347 @@
+{
+    "game_info": {
+        "title": "Persona 3",
+        "series": "Persona",
+        "year": 2006,
+        "source": "https://lparchive.org/Persona-3/",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "sample",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 2685
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 100.55,
+            "flesch_kincaid_grade": 0.26,
+            "smog_index": 5.39,
+            "dale_chall_score": 6.47,
+            "word_count": 44478
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1068,
+            "subordinate_clauses_per_sentence": 0.2961,
+            "conditionals_per_sentence": 0.0429
+        },
+        "register": {
+            "slang_density_percentage": 0.752
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.2879,
+            "top_20_lemmas": {
+                "know": 276,
+                "like": 259,
+                "think": 220,
+                "go": 184,
+                "come": 179,
+                "time": 146,
+                "want": 146,
+                "right": 135,
+                "get": 118,
+                "let": 115,
+                "tell": 113,
+                "oh": 107,
+                "look": 104,
+                "mean": 102,
+                "yeah": 94,
+                "thing": 89,
+                "good": 84,
+                "school": 84,
+                "say": 80,
+                "okay": 77
+            },
+            "top_15_bigrams": {
+                "i 'm": 353,
+                "do n't": 318,
+                "it 's": 285,
+                "that 's": 156,
+                "you 're": 153,
+                "i 'll": 144,
+                "i do": 123,
+                "i was": 115,
+                "in the": 111,
+                "but i": 103,
+                "to be": 102,
+                "have to": 96,
+                "ca n't": 96,
+                "are you": 90,
+                "i 've": 89
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 45,
+                    "think about": 34,
+                    "talk about": 32,
+                    "come to": 25,
+                    "talk to": 25,
+                    "look for": 19,
+                    "wait for": 18,
+                    "worry about": 17,
+                    "think of": 16,
+                    "look at": 12,
+                    "take of": 12,
+                    "tell about": 11,
+                    "happen to": 11,
+                    "forget about": 11,
+                    "go for": 11
+                },
+                "top_15_adjective_noun": {
+                    "long time": 10,
+                    "first time": 9,
+                    "full moon": 9,
+                    "last night": 7,
+                    "other day": 7,
+                    "last time": 7,
+                    "many people": 6,
+                    "next time": 6,
+                    "few day": 5,
+                    "new member": 5,
+                    "high school": 5,
+                    "many thing": 4,
+                    "4th floor": 4,
+                    "long story": 4,
+                    "first place": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "find out": 17,
+                    "go on": 13,
+                    "come on": 11,
+                    "make up": 10,
+                    "hang out": 9,
+                    "give up": 8,
+                    "wake up": 7,
+                    "end up": 7,
+                    "come up": 7,
+                    "figure out": 6,
+                    "go out": 5,
+                    "catch up": 5,
+                    "ask out": 5,
+                    "calm down": 5,
+                    "turn out": 5
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0703,
+            "mtld": 63.63,
+            "avg_sentence_length": 8.52,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0969,
+            "top_10_oov": {
+                "Takeba": 3,
+                "Kirijo": 2,
+                "gerberas": 2,
+                "eeheehee": 2,
+                "mashite": 1,
+                "enocunter": 1,
+                "motviated": 1,
+                "ureshii": 1,
+                "nozing": 1,
+                "elping": 1
+            },
+            "true_oov_list": [
+                "Kirijo",
+                "MwahAHaHhaHa",
+                "Onegaishimasu",
+                "Supressants",
+                "Takeba",
+                "choies",
+                "concentratin",
+                "continnue",
+                "corageous",
+                "eeheehee",
+                "elped",
+                "elping",
+                "enocunter",
+                "everyady",
+                "exerpeience",
+                "gerberas",
+                "goldfarmers",
+                "hether",
+                "hoenst",
+                "hosues",
+                "maens",
+                "mashite",
+                "motviated",
+                "movign",
+                "nozing",
+                "otuta",
+                "pizzed",
+                "practiice",
+                "proefssional",
+                "reuinted",
+                "signiatures",
+                "somezing",
+                "spenai",
+                "strainin",
+                "subarashii",
+                "tooe",
+                "ureshii",
+                "urry",
+                "wtiches",
+                "xpensive",
+                "yakoyaki"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 43.27,
+            "density_excluding_proper_nouns": 39.83,
+            "proper_noun_density_contribution": 2.5086
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 33395,
+                    "unique_amount": 1483,
+                    "total_percentage": 0.8259,
+                    "unique_percentage": 0.3265
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 3715,
+                    "unique_amount": 1121,
+                    "total_percentage": 0.0919,
+                    "unique_percentage": 0.2468
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1741,
+                    "unique_amount": 859,
+                    "total_percentage": 0.0431,
+                    "unique_percentage": 0.1891
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 741,
+                    "unique_amount": 479,
+                    "total_percentage": 0.0183,
+                    "unique_percentage": 0.1055
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 84,
+                    "unique_amount": 66,
+                    "total_percentage": 0.0021,
+                    "unique_percentage": 0.0145
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 469,
+                    "unique_amount": 339,
+                    "total_percentage": 0.0116,
+                    "unique_percentage": 0.0746
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 290,
+                    "unique_amount": 195,
+                    "total_percentage": 0.0072,
+                    "unique_percentage": 0.0429
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 40435,
+                    "unique_amount": 4542,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "dorm": 28,
+                "user": 17,
+                "rite": 12,
+                "hell": 12
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3829,
+                    "learned": 286,
+                    "unique": 747,
+                    "top_repeated_lemmas": {
+                        "be": 1829,
+                        "you": 1656,
+                        "i": 1476,
+                        "to": 1428,
+                        "the": 1306
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0997,
+                    "learned": 72,
+                    "unique": 722,
+                    "top_repeated_lemmas": {
+                        "even": 93,
+                        "still": 80,
+                        "since": 70,
+                        "more": 70,
+                        "need": 63
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0279,
+                    "learned": 19,
+                    "unique": 680,
+                    "top_repeated_lemmas": {
+                        "though": 36,
+                        "dude": 31,
+                        "able": 27,
+                        "defeat": 25,
+                        "enemy": 20
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0098,
+                    "learned": 4,
+                    "unique": 409,
+                    "top_repeated_lemmas": {
+                        "dorm": 28,
+                        "user": 17,
+                        "rite": 12,
+                        "hell": 12
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 63,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 296,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1845,
+                "A2": 3470,
+                "B1": 620,
+                "B2": 10,
+                "C1": 1
+            },
+            "percentages": {
+                "A1": 0.3103,
+                "A2": 0.5836,
+                "B1": 0.1043,
+                "B2": 0.0017,
+                "C1": 0.0002
+            }
+        }
+    }
+}

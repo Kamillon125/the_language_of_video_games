@@ -1,0 +1,403 @@
+{
+    "game_info": {
+        "title": "Final Fantasy XIV",
+        "series": "Final Fantasy",
+        "year": 2010,
+        "source": "https://ffxiv.gamerescape.com",
+        "source_features": {
+            "type": "wiki",
+            "completeness": "sample",
+            "dialogueOrder": true,
+            "choices": "partial"
+        },
+        "total_lines_extracted": 1767
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 99.45,
+            "flesch_kincaid_grade": 0.26,
+            "smog_index": 5.19,
+            "dale_chall_score": 6.99,
+            "word_count": 15494
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0996,
+            "subordinate_clauses_per_sentence": 0.1726,
+            "conditionals_per_sentence": 0.0377
+        },
+        "register": {
+            "slang_density_percentage": 0.2983
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 4.4119,
+            "top_20_lemmas": {
+                "come": 62,
+                "shall": 57,
+                "time": 55,
+                "let": 54,
+                "know": 52,
+                "like": 44,
+                "good": 34,
+                "end": 34,
+                "right": 31,
+                "way": 31,
+                "leave": 28,
+                "quest": 27,
+                "fight": 25,
+                "long": 25,
+                "look": 24,
+                "want": 24,
+                "thing": 23,
+                "go": 23,
+                "place": 23,
+                "eat": 23
+            },
+            "top_15_bigrams": {
+                "of the": 62,
+                "to the": 51,
+                "it 's": 47,
+                "i 'm": 35,
+                "do n't": 34,
+                "in the": 34,
+                "you 're": 32,
+                "we must": 32,
+                "ca n't": 26,
+                "i 've": 25,
+                "i 'll": 23,
+                "do you": 23,
+                "to be": 23,
+                "there 's": 21,
+                "i do": 21
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "have at": 9,
+                    "have in": 8,
+                    "scan for": 8,
+                    "come to": 7,
+                    "proceed with": 7,
+                    "see to": 6,
+                    "take to": 6,
+                    "sound like": 5,
+                    "speak of": 5,
+                    "count on": 5,
+                    "do for": 5,
+                    "leave to": 5,
+                    "happen to": 5,
+                    "find in": 4,
+                    "know of": 4
+                },
+                "top_15_adjective_noun": {
+                    "fresh fish": 4,
+                    "such strength": 3,
+                    "poor thing": 3,
+                    "only thing": 2,
+                    "first time": 2,
+                    "little time": 2,
+                    "unassuming carrot": 2,
+                    "blue carrot": 2,
+                    "vibrant carrot": 2,
+                    "yellow carrot": 2,
+                    "ominous carrot": 2,
+                    "terrible beast": 2,
+                    "fair city": 2,
+                    "bad one": 2,
+                    "old man": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "go on": 4,
+                    "hold on": 4,
+                    "keep up": 4,
+                    "carry on": 2,
+                    "pick up": 2,
+                    "warm up": 2,
+                    "come on": 2,
+                    "watch out": 2,
+                    "cut down": 2,
+                    "give up": 2,
+                    "cast out": 2,
+                    "put on": 1,
+                    "labor in": 1,
+                    "hold off": 1,
+                    "hold back": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1604,
+            "mtld": 72.54,
+            "avg_sentence_length": 6.39,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.7457,
+            "top_10_oov": {
+                "voidsent": 4,
+                "archfiends": 4,
+                "Halone": 3,
+                "ceruleum": 3,
+                "Unnnh": 3,
+                "Netherlings": 2,
+                "Vrtra": 2,
+                "Brayflox": 2,
+                "Hhhschoooaaak": 2,
+                "Eeeeeegh": 2
+            },
+            "true_oov_list": [
+                "Aieeeeeeeeeghhh",
+                "Azdaja",
+                "Brayflox",
+                "Bweee",
+                "DoCuMeNtS",
+                "Drakespur",
+                "Eeeeeegh",
+                "Eorzea",
+                "Eorzean",
+                "Forename",
+                "Gahaha",
+                "Gobbies",
+                "Golbez",
+                "Graaah",
+                "Graaand",
+                "Graaarrrghhh",
+                "Graagh",
+                "Gragnghhh",
+                "Gwoooh",
+                "Halone",
+                "Hhhngh",
+                "Hhhschoooaaak",
+                "Hissssss",
+                "Hnnnh",
+                "Mamool",
+                "Meteion",
+                "Netherlings",
+                "Nyunkrepf",
+                "Pssshkoh",
+                "Raaargh",
+                "Thancred",
+                "Thavnair",
+                "Theodoric",
+                "Unnnh",
+                "Uplander",
+                "Uwaaaaaah",
+                "Uwah",
+                "Vrtra",
+                "Woooaaagh",
+                "aetherochemistry",
+                "aetherological",
+                "alarum",
+                "almasties",
+                "archfiends",
+                "beholdeth",
+                "busydeal",
+                "cUrReNtLy",
+                "ceruleum",
+                "deathpit",
+                "drakespur",
+                "dwear",
+                "entelechies",
+                "exissst",
+                "feassst",
+                "filleth",
+                "firebooms",
+                "gaelicats",
+                "gigantoad",
+                "gobbietreats",
+                "godsspeed",
+                "goobbue",
+                "goodygoods",
+                "haveth",
+                "heeeaaarlggghhhp",
+                "hurggghhh",
+                "iyl",
+                "lemoncakes",
+                "lentfists",
+                "lingereth",
+                "maaaaaagh",
+                "magitek",
+                "manbull",
+                "meaaarrrghhh",
+                "memoriates",
+                "meol",
+                "morbol",
+                "netherlings",
+                "oVeR",
+                "pLeAsE",
+                "philters",
+                "reminissscent",
+                "resideth",
+                "sHaLl",
+                "sTaRt",
+                "scholarch",
+                "shmamra",
+                "tHeRe",
+                "tastyfresh",
+                "thews",
+                "unpleseant",
+                "unstrong",
+                "uplanders",
+                "voidsent",
+                "whensoever",
+                "yummyeat"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 48.49,
+            "density_excluding_proper_nouns": 42.63,
+            "proper_noun_density_contribution": 3.3244
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 10391,
+                    "unique_amount": 951,
+                    "total_percentage": 0.7285,
+                    "unique_percentage": 0.3042
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1617,
+                    "unique_amount": 688,
+                    "total_percentage": 0.1134,
+                    "unique_percentage": 0.2201
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 848,
+                    "unique_amount": 545,
+                    "total_percentage": 0.0595,
+                    "unique_percentage": 0.1743
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 608,
+                    "unique_amount": 367,
+                    "total_percentage": 0.0426,
+                    "unique_percentage": 0.1174
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 91,
+                    "unique_amount": 59,
+                    "total_percentage": 0.0064,
+                    "unique_percentage": 0.0189
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 547,
+                    "unique_amount": 399,
+                    "total_percentage": 0.0383,
+                    "unique_percentage": 0.1276
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 162,
+                    "unique_amount": 117,
+                    "total_percentage": 0.0114,
+                    "unique_percentage": 0.0374
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 14264,
+                    "unique_amount": 3126,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "quest": 27,
+                "intruder": 16,
+                "mortal": 14,
+                "god": 12
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "pant": 14,
+                "aether": 13
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2664,
+                    "learned": 142,
+                    "unique": 533,
+                    "top_repeated_lemmas": {
+                        "the": 638,
+                        "be": 560,
+                        "to": 424,
+                        "you": 399,
+                        "i": 357
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0505,
+                    "learned": 25,
+                    "unique": 495,
+                    "top_repeated_lemmas": {
+                        "shall": 56,
+                        "more": 46,
+                        "far": 28,
+                        "so": 27,
+                        "complete": 23
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0023,
+                    "learned": 1,
+                    "unique": 444,
+                    "top_repeated_lemmas": {
+                        "protect": 14
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0123,
+                    "learned": 4,
+                    "unique": 325,
+                    "top_repeated_lemmas": {
+                        "quest": 27,
+                        "intruder": 16,
+                        "mortal": 14,
+                        "god": 12
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 52,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0055,
+                    "learned": 2,
+                    "unique": 362,
+                    "top_repeated_lemmas": {
+                        "pant": 14,
+                        "aether": 13
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1505,
+                "A2": 1075,
+                "B1": 208,
+                "B2": 14,
+                "C1": 11
+            },
+            "percentages": {
+                "A1": 0.535,
+                "A2": 0.3822,
+                "B1": 0.0739,
+                "B2": 0.005,
+                "C1": 0.0039
+            }
+        }
+    }
+}

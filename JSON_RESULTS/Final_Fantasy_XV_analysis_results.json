@@ -1,0 +1,373 @@
+{
+    "game_info": {
+        "title": "Final Fantasy XV",
+        "series": "Final Fantasy",
+        "year": 2016,
+        "source": "https://thelifestream.net/final-fantasy-xv-lore/final-fantasy-xv-chapter-by-chapter-lore-exposition-and-development/",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "partial"
+        },
+        "total_lines_extracted": 7879
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 103.22,
+            "flesch_kincaid_grade": 0.11,
+            "smog_index": 5.15,
+            "dale_chall_score": 6.45,
+            "word_count": 61263
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0686,
+            "subordinate_clauses_per_sentence": 0.1855,
+            "conditionals_per_sentence": 0.0301
+        },
+        "register": {
+            "slang_density_percentage": 0.7599
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 10.3567,
+            "top_20_lemmas": {
+                "like": 326,
+                "get": 325,
+                "yeah": 322,
+                "let": 294,
+                "know": 259,
+                "look": 235,
+                "go": 233,
+                "come": 231,
+                "think": 231,
+                "good": 231,
+                "time": 210,
+                "way": 204,
+                "right": 197,
+                "to": 160,
+                "find": 159,
+                "hey": 147,
+                "oh": 146,
+                "guy": 138,
+                "sure": 137,
+                "need": 128
+            },
+            "top_15_bigrams": {
+                "it 's": 365,
+                "do n't": 303,
+                "i 'm": 270,
+                "let 's": 194,
+                "you 're": 174,
+                "that 's": 168,
+                "ca n't": 164,
+                "of the": 149,
+                "i 'll": 125,
+                "in the": 122,
+                "we 're": 121,
+                "'s a": 114,
+                "gon na": 103,
+                "what 's": 103,
+                "there 's": 95
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look at": 34,
+                    "look like": 21,
+                    "go to": 19,
+                    "sound like": 19,
+                    "think about": 17,
+                    "talk about": 17,
+                    "take of": 17,
+                    "go on": 16,
+                    "get to": 16,
+                    "make for": 16,
+                    "get on": 15,
+                    "wait for": 15,
+                    "come to": 15,
+                    "have in": 15,
+                    "go with": 14
+                },
+                "top_15_adjective_noun": {
+                    "old man": 14,
+                    "first time": 13,
+                    "big guy": 12,
+                    "next time": 12,
+                    "only way": 10,
+                    "royal tomb": 10,
+                    "good luck": 10,
+                    "nice work": 8,
+                    "high commander": 8,
+                    "good shot": 7,
+                    "big deal": 7,
+                    "imperial army": 7,
+                    "long time": 7,
+                    "good thing": 7,
+                    "long way": 6
+                },
+                "top_15_phrasal_verbs": {
+                    "check out": 29,
+                    "find out": 25,
+                    "go on": 20,
+                    "take down": 15,
+                    "shut up": 10,
+                    "make out": 10,
+                    "keep on": 10,
+                    "hurry up": 10,
+                    "take out": 9,
+                    "look out": 9,
+                    "wake up": 9,
+                    "keep up": 9,
+                    "come on": 9,
+                    "pick up": 9,
+                    "hold up": 9
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0635,
+            "mtld": 72.71,
+            "avg_sentence_length": 6.67,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1103,
+            "top_10_oov": {
+                "magitek": 9,
+                "adamantoise": 5,
+                "Noooct": 3,
+                "sylleblossoms": 3,
+                "coeurl": 3,
+                "Altissia": 2,
+                "scrapheaps": 2,
+                "gysahl": 2,
+                "Magitek": 2,
+                "tinkerin": 2
+            },
+            "true_oov_list": [
+                "Aaaaaagh",
+                "Altissia",
+                "Beeeans",
+                "Bloodhorn",
+                "CHOCOBOS",
+                "Countersign",
+                "Guuuh",
+                "Izunia",
+                "Magitek",
+                "Meldacio",
+                "Melu",
+                "Noooct",
+                "Pyreburner",
+                "Unprogrammed",
+                "Wheresoever",
+                "adamantoise",
+                "apologi",
+                "catoblepas",
+                "cherrycomb",
+                "chocoboback",
+                "cident",
+                "codeprints",
+                "coeurl",
+                "dawdlin",
+                "dearies",
+                "demandin",
+                "dualhorn",
+                "dualhorns",
+                "fetchin",
+                "foppery",
+                "funambulism",
+                "gigantoads",
+                "grandons",
+                "gysahl",
+                "ingrdient",
+                "magitek",
+                "megafortress",
+                "patricidal",
+                "photographin",
+                "purlieus",
+                "replacin",
+                "rummagin",
+                "sabertusk",
+                "sabertusks",
+                "scrapheaps",
+                "sylleblossoms",
+                "tinkerin",
+                "upcomin",
+                "wrassled"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.52,
+            "density_excluding_proper_nouns": 41.61,
+            "proper_noun_density_contribution": 2.7441
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 45054,
+                    "unique_amount": 1689,
+                    "total_percentage": 0.8092,
+                    "unique_percentage": 0.2917
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 5390,
+                    "unique_amount": 1390,
+                    "total_percentage": 0.0968,
+                    "unique_percentage": 0.24
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 2361,
+                    "unique_amount": 997,
+                    "total_percentage": 0.0424,
+                    "unique_percentage": 0.1722
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1391,
+                    "unique_amount": 712,
+                    "total_percentage": 0.025,
+                    "unique_percentage": 0.1229
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 134,
+                    "unique_amount": 90,
+                    "total_percentage": 0.0024,
+                    "unique_percentage": 0.0155
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 987,
+                    "unique_amount": 703,
+                    "total_percentage": 0.0177,
+                    "unique_percentage": 0.1214
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 360,
+                    "unique_amount": 210,
+                    "total_percentage": 0.0065,
+                    "unique_percentage": 0.0363
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 55677,
+                    "unique_amount": 5791,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "hell": 49,
+                "legend": 39,
+                "imperial": 35,
+                "god": 24,
+                "marshal": 22,
+                "tomb": 22,
+                "paw": 21,
+                "chancellor": 18,
+                "tough": 17,
+                "ass": 15,
+                "reckon": 14,
+                "damn": 14,
+                "await": 14
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "daemon": 58,
+                "ai": 15
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4168,
+                    "learned": 323,
+                    "unique": 775,
+                    "top_repeated_lemmas": {
+                        "the": 2329,
+                        "you": 2071,
+                        "be": 1963,
+                        "to": 1608,
+                        "it": 1458
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1435,
+                    "learned": 120,
+                    "unique": 836,
+                    "top_repeated_lemmas": {
+                        "need": 128,
+                        "more": 125,
+                        "still": 99,
+                        "even": 91,
+                        "off": 90
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0348,
+                    "learned": 27,
+                    "unique": 775,
+                    "top_repeated_lemmas": {
+                        "empire": 62,
+                        "though": 47,
+                        "bet": 35,
+                        "rest": 33,
+                        "least": 30
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0228,
+                    "learned": 13,
+                    "unique": 570,
+                    "top_repeated_lemmas": {
+                        "hell": 49,
+                        "legend": 39,
+                        "imperial": 35,
+                        "god": 24,
+                        "marshal": 22
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 76,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0032,
+                    "learned": 2,
+                    "unique": 625,
+                    "top_repeated_lemmas": {
+                        "daemon": 58,
+                        "ai": 15
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 5579,
+                "A2": 5007,
+                "B1": 527,
+                "B2": 3,
+                "C1": 2,
+                "C2": 2
+            },
+            "percentages": {
+                "A1": 0.5017,
+                "A2": 0.4503,
+                "B1": 0.0474,
+                "B2": 0.0003,
+                "C1": 0.0002,
+                "C2": 0.0002
+            }
+        }
+    }
+}

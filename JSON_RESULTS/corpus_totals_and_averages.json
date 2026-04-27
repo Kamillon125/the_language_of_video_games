@@ -1,0 +1,302 @@
+{
+    "corpus_global_metrics": {
+        "total_lines_extracted": {
+            "mean": 11336.4839,
+            "median": 3674.0,
+            "sum": 702862
+        },
+        "readability_medians": {
+            "flesch_reading_ease": 100.545,
+            "flesch_kincaid_grade": 0.305,
+            "smog_index": 5.279999999999999,
+            "dale_chall_score": 6.625,
+            "word_count": 45328.5
+        },
+        "word_count_total_sum": 9029776,
+        "syntactic_complexity": {
+            "passives_per_sentence": {
+                "mean": 0.0853,
+                "median": 0.08565
+            },
+            "subordinate_clauses_per_sentence": {
+                "mean": 0.1988,
+                "median": 0.18585000000000002
+            },
+            "conditionals_per_sentence": {
+                "mean": 0.0289,
+                "median": 0.027700000000000002
+            }
+        },
+        "slang_density": {
+            "mean": 0.6285,
+            "median": 0.6448499999999999
+        },
+        "pv_density": {
+            "mean": 7.3003,
+            "median": 7.3875
+        },
+        "diversity_syntax": {
+            "ttr": {
+                "mean": 0.1013,
+                "median": 0.0697
+            },
+            "mtld": {
+                "mean": 60.6039,
+                "median": 60.46
+            },
+            "avg_sentence_length": {
+                "mean": 7.2574,
+                "median": 7.3149999999999995
+            },
+            "median_sentence_length": {
+                "mean": 6.2903,
+                "median": 6.0
+            }
+        },
+        "oov_rate": {
+            "mean": 0.2728,
+            "median": 0.16275
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": {
+                "mean": 46.0056,
+                "median": 46.36
+            },
+            "density_excluding_proper_nouns": {
+                "mean": 40.0518,
+                "median": 40.38
+            },
+            "proper_noun_density_contribution": {
+                "mean": 4.2158,
+                "median": 4.20655
+            }
+        },
+        "cefr_vocab_distribution": {
+            "A1": {
+                "total_percentage": {
+                    "mean": 0.7891,
+                    "median": 0.7992
+                },
+                "unique_percentage": {
+                    "mean": 0.3226,
+                    "median": 0.2977
+                }
+            },
+            "A2": {
+                "total_percentage": {
+                    "mean": 0.1033,
+                    "median": 0.1005
+                },
+                "unique_percentage": {
+                    "mean": 0.2276,
+                    "median": 0.2303
+                }
+            },
+            "B1": {
+                "total_percentage": {
+                    "mean": 0.0501,
+                    "median": 0.0487
+                },
+                "unique_percentage": {
+                    "mean": 0.173,
+                    "median": 0.1799
+                }
+            },
+            "B2": {
+                "total_percentage": {
+                    "mean": 0.026,
+                    "median": 0.0249
+                },
+                "unique_percentage": {
+                    "mean": 0.116,
+                    "median": 0.1176
+                }
+            },
+            "C1": {
+                "total_percentage": {
+                    "mean": 0.0037,
+                    "median": 0.003
+                },
+                "unique_percentage": {
+                    "mean": 0.0165,
+                    "median": 0.0159
+                }
+            },
+            "C2": {
+                "total_percentage": {
+                    "mean": 0.0212,
+                    "median": 0.0186
+                },
+                "unique_percentage": {
+                    "mean": 0.1132,
+                    "median": 0.1104
+                }
+            },
+            "UNKNOWN": {
+                "total_percentage": {
+                    "mean": 0.0066,
+                    "median": 0.0052
+                },
+                "unique_percentage": {
+                    "mean": 0.031,
+                    "median": 0.0291
+                }
+            }
+        },
+        "threshold_modes": {
+            "total_95": "B1",
+            "total_98": "B2",
+            "unique_95": "C2",
+            "unique_98": "C2"
+        },
+        "learning_utility": {
+            "A1": {
+                "utility_score": {
+                    "mean": 0.3852,
+                    "median": 0.39944999999999997
+                },
+                "learned": {
+                    "mean": 307.7097,
+                    "median": 272.0
+                },
+                "unique": {
+                    "mean": 670.7581,
+                    "median": 679.0
+                }
+            },
+            "A2": {
+                "utility_score": {
+                    "mean": 0.1613,
+                    "median": 0.1187
+                },
+                "learned": {
+                    "mean": 172.871,
+                    "median": 80.0
+                },
+                "unique": {
+                    "mean": 713.2581,
+                    "median": 684.5
+                }
+            },
+            "B1": {
+                "utility_score": {
+                    "mean": 0.0816,
+                    "median": 0.03135
+                },
+                "learned": {
+                    "mean": 118.3226,
+                    "median": 20.5
+                },
+                "unique": {
+                    "mean": 759.3871,
+                    "median": 654.5
+                }
+            },
+            "B2": {
+                "utility_score": {
+                    "mean": 0.047,
+                    "median": 0.0187
+                },
+                "learned": {
+                    "mean": 62.0161,
+                    "median": 9.5
+                },
+                "unique": {
+                    "mean": 605.1774,
+                    "median": 439.5
+                }
+            },
+            "C1": {
+                "utility_score": {
+                    "mean": 0.0364,
+                    "median": 0.015300000000000001
+                },
+                "learned": {
+                    "mean": 8.9194,
+                    "median": 1.0
+                },
+                "unique": {
+                    "mean": 106.5484,
+                    "median": 61.0
+                }
+            },
+            "C2": {
+                "utility_score": {
+                    "mean": 0.0248,
+                    "median": 0.01075
+                },
+                "learned": {
+                    "mean": 44.9355,
+                    "median": 4.0
+                },
+                "unique": {
+                    "mean": 774.6774,
+                    "median": 388.0
+                }
+            }
+        },
+        "cefr_sentences": {
+            "A1": {
+                "counts": {
+                    "mean": 9388.871,
+                    "median": 3131.5
+                },
+                "percentages": {
+                    "mean": 0.4634,
+                    "median": 0.4799
+                }
+            },
+            "A2": {
+                "counts": {
+                    "mean": 9924.1613,
+                    "median": 3258.0
+                },
+                "percentages": {
+                    "mean": 0.4429,
+                    "median": 0.44095
+                }
+            },
+            "B1": {
+                "counts": {
+                    "mean": 2109.0161,
+                    "median": 420.5
+                },
+                "percentages": {
+                    "mean": 0.0745,
+                    "median": 0.06905
+                }
+            },
+            "B2": {
+                "counts": {
+                    "mean": 52.2419,
+                    "median": 5.0
+                },
+                "percentages": {
+                    "mean": 0.0018,
+                    "median": 0.0005499999999999999
+                }
+            },
+            "C1": {
+                "counts": {
+                    "mean": 27.1935,
+                    "median": 1.0
+                },
+                "percentages": {
+                    "mean": 0.001,
+                    "median": 0.0001
+                }
+            },
+            "C2": {
+                "counts": {
+                    "mean": 10.7903,
+                    "median": 0.0
+                },
+                "percentages": {
+                    "mean": 0.0003,
+                    "median": 0.0
+                }
+            }
+        },
+        "grand_total_sentences_sum": 1333761
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "game_info": {
+        "title": "Kingdom Hearts 3D: Dream Drop Distance",
+        "series": "Kingdom Hearts",
+        "year": 2012,
+        "source": "https://gamefaqs.gamespot.com/3ds/997779-kingdom-hearts-3d-dream-drop-distance/faqs/65008",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 1749
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 103.79,
+            "flesch_kincaid_grade": -0.05,
+            "smog_index": 4.98,
+            "dale_chall_score": 6.43,
+            "word_count": 18530
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0957,
+            "subordinate_clauses_per_sentence": 0.1767,
+            "conditionals_per_sentence": 0.02
+        },
+        "register": {
+            "slang_density_percentage": 0.8126
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.5863,
+            "top_20_lemmas": {
+                "world": 113,
+                "right": 106,
+                "know": 105,
+                "heart": 83,
+                "get": 76,
+                "go": 71,
+                "like": 70,
+                "time": 69,
+                "come": 65,
+                "darkness": 65,
+                "to": 57,
+                "oh": 56,
+                "friend": 55,
+                "dream": 54,
+                "let": 52,
+                "yeah": 51,
+                "need": 50,
+                "hey": 47,
+                "find": 47,
+                "look": 45
+            },
+            "top_15_bigrams": {
+                "it 's": 106,
+                "i 'm": 100,
+                "do n't": 72,
+                "that 's": 64,
+                "in the": 59,
+                "you 're": 54,
+                "are you": 52,
+                "he 's": 44,
+                "i 'll": 41,
+                "of the": 38,
+                "to the": 36,
+                "gon na": 34,
+                "this is": 33,
+                "i know": 32,
+                "i do": 32
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look at": 10,
+                    "return to": 10,
+                    "look for": 8,
+                    "get to": 8,
+                    "happen to": 6,
+                    "see in": 6,
+                    "turn into": 6,
+                    "do for": 6,
+                    "bring to": 5,
+                    "make of": 5,
+                    "take of": 5,
+                    "wake from": 5,
+                    "trap in": 5,
+                    "find in": 4,
+                    "guide to": 4
+                },
+                "top_15_adjective_noun": {
+                    "good friend": 8,
+                    "black coat": 6,
+                    "pure light": 6,
+                    "other people": 5,
+                    "outside world": 5,
+                    "bad guy": 5,
+                    "other side": 4,
+                    "real world": 4,
+                    "true master": 3,
+                    "many time": 3,
+                    "young man": 3,
+                    "parallel world": 3,
+                    "pure heart": 3,
+                    "weird name": 2,
+                    "first journey": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 11,
+                    "wake up": 11,
+                    "hold on": 9,
+                    "give up": 5,
+                    "end up": 5,
+                    "help out": 4,
+                    "get out": 4,
+                    "go on": 4,
+                    "make up": 3,
+                    "run off": 3,
+                    "come in": 3,
+                    "split up": 2,
+                    "turn out": 2,
+                    "stand up": 2,
+                    "give in": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.094,
+            "mtld": 59.67,
+            "avg_sentence_length": 6.64,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1329,
+            "top_10_oov": {
+                "Gawrsh": 5,
+                "recompleted": 3,
+                "Namin\u00e9": 2,
+                "Furl": 1,
+                "dearies": 1,
+                "Rikuuu": 1,
+                "wakeless": 1,
+                "wakelessness": 1,
+                "jackamules": 1,
+                "fibbin": 1
+            },
+            "true_oov_list": [
+                "Bwaaah",
+                "Furl",
+                "Gawrsh",
+                "Namin\u00e9",
+                "Rikuuu",
+                "Stopza",
+                "datascape",
+                "dearies",
+                "fibbin",
+                "inaugurary",
+                "jackamules",
+                "lacklustrious",
+                "lightenin",
+                "millicycle",
+                "recompleted",
+                "reservated",
+                "unhooded",
+                "wakeless",
+                "wakelessness"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 43.96,
+            "density_excluding_proper_nouns": 37.22,
+            "proper_noun_density_contribution": 4.9014
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 13514,
+                    "unique_amount": 949,
+                    "total_percentage": 0.8243,
+                    "unique_percentage": 0.388
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1595,
+                    "unique_amount": 639,
+                    "total_percentage": 0.0973,
+                    "unique_percentage": 0.2612
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 652,
+                    "unique_amount": 386,
+                    "total_percentage": 0.0398,
+                    "unique_percentage": 0.1578
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 308,
+                    "unique_amount": 221,
+                    "total_percentage": 0.0188,
+                    "unique_percentage": 0.0904
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 30,
+                    "unique_amount": 27,
+                    "total_percentage": 0.0018,
+                    "unique_percentage": 0.011
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 246,
+                    "unique_amount": 182,
+                    "total_percentage": 0.015,
+                    "unique_percentage": 0.0744
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 49,
+                    "unique_amount": 42,
+                    "total_percentage": 0.003,
+                    "unique_percentage": 0.0172
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 16394,
+                    "unique_amount": 2446,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "master": 19
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "gypsy": 13
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3471,
+                    "learned": 176,
+                    "unique": 507,
+                    "top_repeated_lemmas": {
+                        "you": 771,
+                        "be": 737,
+                        "the": 658,
+                        "to": 502,
+                        "i": 451
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0471,
+                    "learned": 21,
+                    "unique": 446,
+                    "top_repeated_lemmas": {
+                        "so": 76,
+                        "need": 50,
+                        "other": 35,
+                        "still": 35,
+                        "even": 35
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0061,
+                    "learned": 2,
+                    "unique": 326,
+                    "top_repeated_lemmas": {
+                        "darkness": 65,
+                        "protect": 14
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0053,
+                    "learned": 1,
+                    "unique": 190,
+                    "top_repeated_lemmas": {
+                        "master": 19
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 25,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0059,
+                    "learned": 1,
+                    "unique": 169,
+                    "top_repeated_lemmas": {
+                        "gypsy": 13
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1684,
+                "A2": 1267,
+                "B1": 234,
+                "B2": 4,
+                "C1": 2
+            },
+            "percentages": {
+                "A1": 0.5277,
+                "A2": 0.3971,
+                "B1": 0.0733,
+                "B2": 0.0013,
+                "C1": 0.0006
+            }
+        }
+    }
+}

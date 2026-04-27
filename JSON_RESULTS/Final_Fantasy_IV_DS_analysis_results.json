@@ -1,0 +1,329 @@
+{
+    "game_info": {
+        "title": "Final Fantasy IV",
+        "series": "Final Fantasy",
+        "year": 1991,
+        "source": "https://gamefaqs.gamespot.com/ds/939425-final-fantasy-iv/faqs/53978",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 1738
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 103.17,
+            "flesch_kincaid_grade": -0.03,
+            "smog_index": 4.85,
+            "dale_chall_score": 6.35,
+            "word_count": 17859
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0968,
+            "subordinate_clauses_per_sentence": 0.1675,
+            "conditionals_per_sentence": 0.018
+        },
+        "register": {
+            "slang_density_percentage": 0.4447
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 4.2325,
+            "top_20_lemmas": {
+                "come": 79,
+                "know": 73,
+                "right": 56,
+                "man": 47,
+                "let": 47,
+                "need": 44,
+                "oh": 44,
+                "think": 42,
+                "time": 42,
+                "thank": 34,
+                "like": 33,
+                "tell": 32,
+                "way": 31,
+                "go": 30,
+                "leave": 30,
+                "fight": 29,
+                "ha": 29,
+                "strength": 27,
+                "old": 27,
+                "return": 26
+            },
+            "top_15_bigrams": {
+                "it 's": 61,
+                "you 're": 59,
+                "to the": 57,
+                "of the": 57,
+                "i 'm": 53,
+                "do n't": 48,
+                "you 've": 45,
+                "i 've": 39,
+                "this is": 35,
+                "i will": 33,
+                "i am": 33,
+                "n't you": 32,
+                "in the": 30,
+                "we must": 29,
+                "what 's": 29
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 9,
+                    "take of": 7,
+                    "return to": 7,
+                    "speak of": 6,
+                    "happen to": 6,
+                    "worry about": 6,
+                    "leave in": 6,
+                    "go with": 6,
+                    "wait for": 6,
+                    "take to": 5,
+                    "take with": 5,
+                    "come for": 5,
+                    "aid in": 5,
+                    "speak to": 5,
+                    "become of": 4
+                },
+                "top_15_adjective_noun": {
+                    "old man": 9,
+                    "dark sword": 7,
+                    "dark knight": 7,
+                    "hallowed light": 3,
+                    "little boy": 3,
+                    "own defense": 2,
+                    "good man": 2,
+                    "little face": 2,
+                    "grown man": 2,
+                    "true evil": 2,
+                    "magical prodigy": 2,
+                    "great sage": 2,
+                    "royal guard": 2,
+                    "old fool": 2,
+                    "old brother": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 4,
+                    "go on": 3,
+                    "hold on": 3,
+                    "take in": 2,
+                    "set out": 2,
+                    "run off": 2,
+                    "take up": 2,
+                    "take over": 2,
+                    "set down": 2,
+                    "cut down": 1,
+                    "send off": 1,
+                    "fight back": 1,
+                    "burn out": 1,
+                    "check in": 1,
+                    "share out": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1013,
+            "mtld": 62.63,
+            "avg_sentence_length": 6.84,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1982,
+            "top_10_oov": {
+                "archfiends": 3,
+                "Uhhn": 2,
+                "Golbez": 2,
+                "overrrun": 1,
+                "octomammoth": 1,
+                "ofour": 1,
+                "Alow": 1,
+                "foolishnees": 1,
+                "ahllowed": 1,
+                "gatesss": 1
+            },
+            "true_oov_list": [
+                "Alow",
+                "Eblan",
+                "Esuna",
+                "Golbez",
+                "Impressssive",
+                "Lunarians",
+                "Mysidia",
+                "Uhhn",
+                "YEOUCH",
+                "acqaintance",
+                "ahllowed",
+                "archfiends",
+                "burdern",
+                "byfoot",
+                "chimerae",
+                "darkend",
+                "feassst",
+                "fleetmaster",
+                "foolishnees",
+                "fortresss",
+                "gaaaaah",
+                "gatesss",
+                "leastwise",
+                "limitles",
+                "livded",
+                "metamorphosize",
+                "octomammoth",
+                "ofour",
+                "overrrun",
+                "sruvived",
+                "sssmite",
+                "ssstrength",
+                "toadspittle"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 44.51,
+            "density_excluding_proper_nouns": 37.17,
+            "proper_noun_density_contribution": 5.7005
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 12705,
+                    "unique_amount": 859,
+                    "total_percentage": 0.7955,
+                    "unique_percentage": 0.3447
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1679,
+                    "unique_amount": 601,
+                    "total_percentage": 0.1051,
+                    "unique_percentage": 0.2412
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 778,
+                    "unique_amount": 437,
+                    "total_percentage": 0.0487,
+                    "unique_percentage": 0.1754
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 392,
+                    "unique_amount": 279,
+                    "total_percentage": 0.0245,
+                    "unique_percentage": 0.112
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 41,
+                    "unique_amount": 28,
+                    "total_percentage": 0.0026,
+                    "unique_percentage": 0.0112
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 314,
+                    "unique_amount": 234,
+                    "total_percentage": 0.0197,
+                    "unique_percentage": 0.0939
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 62,
+                    "unique_amount": 54,
+                    "total_percentage": 0.0039,
+                    "unique_percentage": 0.0217
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 15971,
+                    "unique_amount": 2492,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3398,
+                    "learned": 158,
+                    "unique": 465,
+                    "top_repeated_lemmas": {
+                        "you": 854,
+                        "be": 759,
+                        "the": 652,
+                        "to": 550,
+                        "i": 510
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0861,
+                    "learned": 36,
+                    "unique": 418,
+                    "top_repeated_lemmas": {
+                        "so": 69,
+                        "need": 44,
+                        "more": 31,
+                        "even": 30,
+                        "strength": 27
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0227,
+                    "learned": 8,
+                    "unique": 352,
+                    "top_repeated_lemmas": {
+                        "forgive": 25,
+                        "rest": 23,
+                        "able": 20,
+                        "aid": 17,
+                        "sword": 13
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 238,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 24,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 217,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1532,
+                "A2": 1310,
+                "B1": 232,
+                "B2": 5,
+                "C1": 1
+            },
+            "percentages": {
+                "A1": 0.4974,
+                "A2": 0.4253,
+                "B1": 0.0753,
+                "B2": 0.0016,
+                "C1": 0.0003
+            }
+        }
+    }
+}

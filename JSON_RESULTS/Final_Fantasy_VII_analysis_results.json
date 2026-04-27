@@ -1,0 +1,430 @@
+{
+    "game_info": {
+        "title": "Final Fantasy VII",
+        "series": "Final Fantasy",
+        "year": 1997,
+        "source": "http://www.yinza.com/Fandom/Script/",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 9248
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 104.26,
+            "flesch_kincaid_grade": -0.64,
+            "smog_index": 4.76,
+            "dale_chall_score": 6.45,
+            "word_count": 114753
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0697,
+            "subordinate_clauses_per_sentence": 0.171,
+            "conditionals_per_sentence": 0.0301
+        },
+        "register": {
+            "slang_density_percentage": 1.2604
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 9.8679,
+            "top_20_lemmas": {
+                "go": 771,
+                "right": 669,
+                "like": 616,
+                "know": 553,
+                "come": 521,
+                "let": 520,
+                "oh": 496,
+                "get": 456,
+                "hey": 447,
+                "want": 417,
+                "look": 397,
+                "time": 372,
+                "think": 359,
+                "to": 344,
+                "good": 320,
+                "way": 297,
+                "thing": 258,
+                "yeah": 240,
+                "tell": 220,
+                "ha": 214
+            },
+            "top_15_bigrams": {
+                "do n't": 912,
+                "i 'm": 726,
+                "it 's": 709,
+                "that 's": 465,
+                "you 're": 410,
+                "let 's": 352,
+                "i 'll": 338,
+                "of the": 337,
+                "ca n't": 329,
+                "i do": 294,
+                "if you": 270,
+                "in the": 267,
+                "this is": 265,
+                "to the": 264,
+                "all right": 260
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 77,
+                    "look at": 54,
+                    "get to": 53,
+                    "talk to": 51,
+                    "take of": 50,
+                    "talk about": 50,
+                    "look like": 49,
+                    "happen to": 42,
+                    "get in": 41,
+                    "do with": 40,
+                    "go after": 38,
+                    "look for": 37,
+                    "worry about": 35,
+                    "go with": 35,
+                    "listen to": 34
+                },
+                "top_15_adjective_noun": {
+                    "legendary hero": 45,
+                    "long time": 34,
+                    "old man": 22,
+                    "first time": 20,
+                    "good luck": 15,
+                    "new hero": 15,
+                    "next time": 14,
+                    "other way": 13,
+                    "more time": 10,
+                    "many thing": 10,
+                    "normal self": 10,
+                    "outer space": 10,
+                    "last time": 9,
+                    "only way": 9,
+                    "directional button": 8
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 98,
+                    "go on": 69,
+                    "shut up": 44,
+                    "find out": 31,
+                    "give up": 28,
+                    "hurry up": 24,
+                    "come in": 23,
+                    "hold on": 21,
+                    "wake up": 19,
+                    "make up": 18,
+                    "take off": 17,
+                    "get out": 17,
+                    "keep up": 13,
+                    "come down": 13,
+                    "grow up": 13
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0377,
+            "mtld": 49.37,
+            "avg_sentence_length": 6.28,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1018,
+            "top_10_oov": {
+                "Valvados": 12,
+                "Gya": 10,
+                "Eyaaah": 3,
+                "Ulp": 3,
+                "hohi": 3,
+                "Uuuuuuurrrrgghh": 3,
+                "Gaaaaaaaaaaaahh": 3,
+                "Urrrrgh": 2,
+                "poik": 2,
+                "eagghh": 2
+            },
+            "true_oov_list": [
+                "Aaaaaaaaaa",
+                "Attaaaack",
+                "BRATBRATBRATBRAT",
+                "Cheeeeese",
+                "Eaaggh",
+                "Eaayy",
+                "Eagggggh",
+                "Eaggggghh",
+                "Eagggghh",
+                "Eaygh",
+                "Errrrggh",
+                "Eyaaaa",
+                "Eyaaah",
+                "Eyyaaaaaa",
+                "GOGAH",
+                "GOOGO",
+                "Gaaaaaaaaaaaahh",
+                "Ggggh",
+                "Ghaa",
+                "Guuagh",
+                "Gwah",
+                "Gya",
+                "Haeey",
+                "Hohi",
+                "Junon",
+                "Nngaaaaaahhhh",
+                "Numskulls",
+                "Nyum",
+                "Ooouugh",
+                "RAPPS",
+                "Reun",
+                "Tristoners",
+                "URGHHHH",
+                "URRGRAAAAGH",
+                "Ublk",
+                "Uhhhnn",
+                "Ulp",
+                "Unn",
+                "Urrggggggh",
+                "Urrrp",
+                "Urrrrgh",
+                "Uurrgh",
+                "Uuuuuuuh",
+                "Uuuuuuurrrrgghh",
+                "Uuuuuuurrrrrgh",
+                "Valvados",
+                "Wheeel",
+                "Yaagghh",
+                "aaaaaghh",
+                "alluva",
+                "apologizin",
+                "beddah",
+                "besid",
+                "blipppp",
+                "blubberin",
+                "ccommodate",
+                "codeC",
+                "codeZ",
+                "dognap",
+                "drainin",
+                "eagghh",
+                "executin",
+                "heebeebeebee",
+                "heebeebeeheebee",
+                "hohi",
+                "hsattered",
+                "laun",
+                "lifesource",
+                "lusion",
+                "mergency",
+                "nghh",
+                "nyum",
+                "pipapopupo",
+                "poik",
+                "pologize",
+                "psstpsst",
+                "scil",
+                "sleeky",
+                "snorin",
+                "surprisin",
+                "tunin",
+                "urggh",
+                "urrrgh",
+                "urrrrgh",
+                "urrrrrrg",
+                "waltzin",
+                "woudda"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.57,
+            "density_excluding_proper_nouns": 38.52,
+            "proper_noun_density_contribution": 6.143
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 82234,
+                    "unique_amount": 1842,
+                    "total_percentage": 0.841,
+                    "unique_percentage": 0.2977
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 8091,
+                    "unique_amount": 1460,
+                    "total_percentage": 0.0827,
+                    "unique_percentage": 0.2359
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3587,
+                    "unique_amount": 1113,
+                    "total_percentage": 0.0367,
+                    "unique_percentage": 0.1799
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1955,
+                    "unique_amount": 706,
+                    "total_percentage": 0.02,
+                    "unique_percentage": 0.1141
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 177,
+                    "unique_amount": 93,
+                    "total_percentage": 0.0018,
+                    "unique_percentage": 0.015
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1087,
+                    "unique_amount": 621,
+                    "total_percentage": 0.0111,
+                    "unique_percentage": 0.1004
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 646,
+                    "unique_amount": 353,
+                    "total_percentage": 0.0066,
+                    "unique_percentage": 0.057
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 97777,
+                    "unique_amount": 6188,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "hell": 105,
+                "materia": 96,
+                "energy": 74,
+                "damn": 71,
+                "legendary": 47,
+                "rocket": 38,
+                "select": 37,
+                "tough": 28,
+                "equip": 23,
+                "gauge": 23,
+                "barrier": 21,
+                "profound": 21,
+                "tattoo": 19,
+                "god": 16,
+                "ass": 15,
+                "troop": 15,
+                "tickle": 15,
+                "mess": 14,
+                "dock": 14,
+                "suck": 13,
+                "mansion": 13,
+                "sniff": 13,
+                "nightmare": 13,
+                "cannon": 13,
+                "wipe": 12,
+                "mate": 12
+            },
+            "c1_learned_vocab": {
+                "coupon": 14
+            },
+            "c2_learned_vocab": {
+                "gil": 66,
+                "slum": 25,
+                "condor": 20,
+                "crap": 14
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.5311,
+                    "learned": 418,
+                    "unique": 787,
+                    "top_repeated_lemmas": {
+                        "you": 4378,
+                        "the": 4228,
+                        "be": 4125,
+                        "to": 3260,
+                        "i": 3093
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.2,
+                    "learned": 164,
+                    "unique": 820,
+                    "top_repeated_lemmas": {
+                        "even": 210,
+                        "more": 162,
+                        "still": 158,
+                        "off": 137,
+                        "ever": 132
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0809,
+                    "learned": 66,
+                    "unique": 816,
+                    "top_repeated_lemmas": {
+                        "battle": 93,
+                        "able": 82,
+                        "enemy": 78,
+                        "weapon": 78,
+                        "rest": 75
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0475,
+                    "learned": 26,
+                    "unique": 547,
+                    "top_repeated_lemmas": {
+                        "hell": 105,
+                        "materia": 96,
+                        "energy": 74,
+                        "damn": 71,
+                        "legendary": 47
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0132,
+                    "learned": 1,
+                    "unique": 76,
+                    "top_repeated_lemmas": {
+                        "coupon": 14
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0074,
+                    "learned": 4,
+                    "unique": 537,
+                    "top_repeated_lemmas": {
+                        "gil": 66,
+                        "slum": 25,
+                        "condor": 20,
+                        "crap": 14
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 11578,
+                "A2": 9290,
+                "B1": 631,
+                "B2": 2,
+                "C1": 1
+            },
+            "percentages": {
+                "A1": 0.5385,
+                "A2": 0.4321,
+                "B1": 0.0293,
+                "B2": 0.0001,
+                "C1": 0.0
+            }
+        }
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "game_info": {
+        "title": "Final Fantasy",
+        "series": "Final Fantasy",
+        "year": 1987,
+        "source": "https://archive.rpgamer.com/games/ff/ff1/info/ff1_script.txt",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "complete",
+            "dialogueOrder": true,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 245
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 96.29,
+            "flesch_kincaid_grade": 1.48,
+            "smog_index": 5.82,
+            "dale_chall_score": 6.87,
+            "word_count": 3385
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1636,
+            "subordinate_clauses_per_sentence": 0.1935,
+            "conditionals_per_sentence": 0.03
+        },
+        "register": {
+            "slang_density_percentage": 0.4073
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 2.0367,
+            "top_20_lemmas": {
+                "year": 25,
+                "warrior": 21,
+                "note": 17,
+                "light": 14,
+                "world": 14,
+                "ago": 13,
+                "save": 11,
+                "thank": 11,
+                "courage": 11,
+                "warriors": 10,
+                "live": 10,
+                "true": 10,
+                "time": 9,
+                "fiend": 9,
+                "revive": 8,
+                "town": 8,
+                "oh": 8,
+                "orbs": 8,
+                "legend": 8,
+                "come": 7
+            },
+            "top_15_bigrams": {
+                "of the": 42,
+                "in the": 26,
+                "to the": 25,
+                "the orbs": 13,
+                "light warriors": 13,
+                "the power": 12,
+                "power of": 12,
+                "the earth": 12,
+                "years ago": 11,
+                "i am": 10,
+                "you the": 10,
+                "2000 years": 10,
+                "the world": 10,
+                "the fiend": 10,
+                "the prince": 9
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 5,
+                    "thank for": 3,
+                    "return to": 3,
+                    "look for": 2,
+                    "give for": 2,
+                    "pass from": 2,
+                    "repeat throughout": 2,
+                    "see in": 2,
+                    "live in": 2,
+                    "probe for": 2,
+                    "take to": 2,
+                    "draw from": 2,
+                    "speak with": 2,
+                    "stand in": 2,
+                    "join at": 1
+                },
+                "top_15_adjective_noun": {
+                    "light warrior": 9,
+                    "light warriors": 4,
+                    "true warrior": 4,
+                    "latter dialogue": 3,
+                    "due warrior": 2,
+                    "beautiful city": 1,
+                    "little snoopin": 1,
+                    "fine medal": 1,
+                    "good knight": 1,
+                    "evil gate": 1,
+                    "poor eyesight": 1,
+                    "true flow": 1,
+                    "magic spell": 1,
+                    "select button": 1,
+                    "scurvy dog": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "knock down": 1,
+                    "pass down": 1,
+                    "come out": 1,
+                    "burn up": 1,
+                    "check out": 1,
+                    "look out": 1,
+                    "pick up": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.2363,
+            "mtld": 63.0,
+            "avg_sentence_length": 7.92,
+            "median_sentence_length": 7.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.32,
+            "top_10_oov": {
+                "TCELES": 1,
+                "aaaaaaaaaaaaafter": 1,
+                "oooooooookay": 1,
+                "distrurbed": 1,
+                "glorifyed": 1,
+                "rephraseal": 1,
+                "oD": 1,
+                "LEFEIN": 1,
+                "phoneticverbal": 1,
+                "townsfolf": 1
+            },
+            "true_oov_list": [
+                "LEFEIN",
+                "TCELES",
+                "aaaaaaaaaaaaafter",
+                "distrurbed",
+                "glorifyed",
+                "oD",
+                "oooooooookay",
+                "phoneticverbal",
+                "rephraseal",
+                "stupo",
+                "townsfolf"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 51.61,
+            "density_excluding_proper_nouns": 40.56,
+            "proper_noun_density_contribution": 8.7285
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 2065,
+                    "unique_amount": 346,
+                    "total_percentage": 0.7428,
+                    "unique_percentage": 0.4154
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 366,
+                    "unique_amount": 237,
+                    "total_percentage": 0.1317,
+                    "unique_percentage": 0.2845
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 189,
+                    "unique_amount": 124,
+                    "total_percentage": 0.068,
+                    "unique_percentage": 0.1489
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 88,
+                    "unique_amount": 65,
+                    "total_percentage": 0.0317,
+                    "unique_percentage": 0.078
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 10,
+                    "unique_amount": 6,
+                    "total_percentage": 0.0036,
+                    "unique_percentage": 0.0072
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 45,
+                    "unique_amount": 39,
+                    "total_percentage": 0.0162,
+                    "unique_percentage": 0.0468
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 17,
+                    "unique_amount": 16,
+                    "total_percentage": 0.0061,
+                    "unique_percentage": 0.0192
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 2780,
+                    "unique_amount": 833,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "B2",
+                "unique_95": "C1",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.1298,
+                    "learned": 34,
+                    "unique": 262,
+                    "top_repeated_lemmas": {
+                        "the": 311,
+                        "be": 154,
+                        "to": 93,
+                        "of": 90,
+                        "you": 77
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 183,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0088,
+                    "learned": 1,
+                    "unique": 114,
+                    "top_repeated_lemmas": {
+                        "warrior": 13
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 60,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 5,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 37,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 290,
+                "A2": 148,
+                "B1": 27
+            },
+            "percentages": {
+                "A1": 0.6237,
+                "A2": 0.3183,
+                "B1": 0.0581
+            }
+        }
+    }
+}

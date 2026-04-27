@@ -1,0 +1,365 @@
+{
+    "game_info": {
+        "title": "Final Fantasy IX",
+        "series": "Final Fantasy",
+        "year": 2000,
+        "source": "http://www.finalfantasyquotes.com/ff9/script",
+        "source_features": null,
+        "total_lines_extracted": 4149
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 103.42,
+            "flesch_kincaid_grade": -0.4,
+            "smog_index": 4.72,
+            "dale_chall_score": 6.54,
+            "word_count": 42883
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0619,
+            "subordinate_clauses_per_sentence": 0.1462,
+            "conditionals_per_sentence": 0.0186
+        },
+        "register": {
+            "slang_density_percentage": 0.7563
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.6029,
+            "top_20_lemmas": {
+                "come": 255,
+                "go": 235,
+                "let": 205,
+                "know": 191,
+                "like": 155,
+                "think": 151,
+                "right": 124,
+                "look": 121,
+                "oh": 119,
+                "to": 118,
+                "time": 116,
+                "yeah": 111,
+                "way": 108,
+                "find": 105,
+                "hey": 96,
+                "okay": 96,
+                "alright": 93,
+                "want": 91,
+                "get": 90,
+                "tell": 89
+            },
+            "top_15_bigrams": {
+                "= =": 585,
+                "do n't": 225,
+                "i 'm": 218,
+                "it 's": 204,
+                "are you": 142,
+                "you 're": 141,
+                "let 's": 133,
+                "do you": 112,
+                "i do": 111,
+                "i 'll": 106,
+                "what 's": 106,
+                "that 's": 98,
+                "to the": 97,
+                "ca n't": 97,
+                "this is": 91
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "talk about": 28,
+                    "go to": 27,
+                    "come with": 25,
+                    "look for": 24,
+                    "return to": 21,
+                    "come to": 19,
+                    "worry about": 18,
+                    "look like": 17,
+                    "wait for": 17,
+                    "think about": 15,
+                    "take to": 14,
+                    "happen to": 13,
+                    "go with": 12,
+                    "get out": 12,
+                    "take of": 12
+                },
+                "top_15_adjective_noun": {
+                    "black mage": 45,
+                    "summon magic": 10,
+                    "long time": 7,
+                    "little girl": 6,
+                    "first time": 6,
+                    "good food": 6,
+                    "good luck": 5,
+                    "right way": 5,
+                    "old man": 5,
+                    "many people": 5,
+                    "same thing": 5,
+                    "beautiful princess": 4,
+                    "thou hast": 4,
+                    "black magic": 4,
+                    "good idea": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 36,
+                    "go on": 30,
+                    "find out": 16,
+                    "hurry up": 12,
+                    "shut up": 12,
+                    "wake up": 11,
+                    "hold on": 7,
+                    "get up": 6,
+                    "look out": 6,
+                    "jump off": 6,
+                    "figure out": 5,
+                    "go out": 5,
+                    "come along": 5,
+                    "check out": 5,
+                    "take off": 5
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0691,
+            "mtld": 52.93,
+            "avg_sentence_length": 6.13,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1669,
+            "top_10_oov": {
+                "gargant": 12,
+                "gwok": 11,
+                "oglop": 8,
+                "oglops": 7,
+                "gysahl": 2,
+                "ilicious": 1,
+                "dwopped": 1,
+                "darest": 1,
+                "Oglops": 1,
+                "Ngah": 1
+            },
+            "true_oov_list": [
+                "AAACHOOO",
+                "Cleyra",
+                "GRAAAHHHHHH",
+                "HUmans",
+                "Khehehe",
+                "Kupoo",
+                "Kupopopo",
+                "Kuuupoh",
+                "Ngah",
+                "OGLOP",
+                "Oglops",
+                "Steple",
+                "Urgurrrra",
+                "Yeeow",
+                "Yir",
+                "aroon",
+                "babysittin",
+                "cantheir",
+                "catheral",
+                "darest",
+                "deadweights",
+                "dukin",
+                "dwopped",
+                "eeyuck",
+                "gargant",
+                "gwok",
+                "gysahl",
+                "hametoon",
+                "ilicious",
+                "indictative",
+                "kweh",
+                "oglop",
+                "oglops",
+                "pimo",
+                "preimeter",
+                "straggles",
+                "telepod",
+                "telepods",
+                "trippd",
+                "understa",
+                "unentered",
+                "vermind"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.13,
+            "density_excluding_proper_nouns": 38.42,
+            "proper_noun_density_contribution": 4.7609
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 30772,
+                    "unique_amount": 1351,
+                    "total_percentage": 0.8147,
+                    "unique_percentage": 0.3211
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 3735,
+                    "unique_amount": 1010,
+                    "total_percentage": 0.0989,
+                    "unique_percentage": 0.24
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1441,
+                    "unique_amount": 742,
+                    "total_percentage": 0.0382,
+                    "unique_percentage": 0.1763
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 770,
+                    "unique_amount": 481,
+                    "total_percentage": 0.0204,
+                    "unique_percentage": 0.1143
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 155,
+                    "unique_amount": 63,
+                    "total_percentage": 0.0041,
+                    "unique_percentage": 0.015
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 711,
+                    "unique_amount": 438,
+                    "total_percentage": 0.0188,
+                    "unique_percentage": 0.1041
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 185,
+                    "unique_amount": 123,
+                    "total_percentage": 0.0049,
+                    "unique_percentage": 0.0292
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 37769,
+                    "unique_amount": 4208,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "master": 18,
+                "knight": 17,
+                "seal": 17,
+                "regent": 12,
+                "rally": 12
+            },
+            "c1_learned_vocab": {
+                "mage": 57,
+                "thou": 15
+            },
+            "c2_learned_vocab": {
+                "dagger": 47,
+                "eidolon": 31,
+                "heck": 20,
+                "summon": 19,
+                "summoner": 17,
+                "kidnap": 14,
+                "pendant": 13
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4051,
+                    "learned": 269,
+                    "unique": 664,
+                    "top_repeated_lemmas": {
+                        "be": 1751,
+                        "you": 1724,
+                        "the": 1490,
+                        "i": 1449,
+                        "to": 1181
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1262,
+                    "learned": 80,
+                    "unique": 634,
+                    "top_repeated_lemmas": {
+                        "so": 148,
+                        "more": 78,
+                        "even": 73,
+                        "need": 65,
+                        "still": 59
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.01,
+                    "learned": 6,
+                    "unique": 601,
+                    "top_repeated_lemmas": {
+                        "soul": 50,
+                        "protect": 33,
+                        "rest": 28,
+                        "enemy": 16,
+                        "jewel": 16
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0123,
+                    "learned": 5,
+                    "unique": 406,
+                    "top_repeated_lemmas": {
+                        "master": 18,
+                        "knight": 17,
+                        "seal": 17,
+                        "regent": 12,
+                        "rally": 12
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.037,
+                    "learned": 2,
+                    "unique": 54,
+                    "top_repeated_lemmas": {
+                        "mage": 57,
+                        "thou": 15
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.018,
+                    "learned": 7,
+                    "unique": 388,
+                    "top_repeated_lemmas": {
+                        "dagger": 47,
+                        "eidolon": 31,
+                        "heck": 20,
+                        "summon": 19,
+                        "summoner": 17
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 4385,
+                "A2": 3608,
+                "B1": 383,
+                "B2": 1,
+                "C1": 5
+            },
+            "percentages": {
+                "A1": 0.5231,
+                "A2": 0.4304,
+                "B1": 0.0457,
+                "B2": 0.0001,
+                "C1": 0.0006
+            }
+        }
+    }
+}

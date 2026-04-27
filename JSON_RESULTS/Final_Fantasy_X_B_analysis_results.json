@@ -1,0 +1,402 @@
+{
+    "game_info": {
+        "title": "Final Fantasy X",
+        "series": "Final Fantasy",
+        "year": 2001,
+        "source": "http://auronlu.istad.org/ffx-script/",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 7331
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 101.5,
+            "flesch_kincaid_grade": 0.38,
+            "smog_index": 5.2,
+            "dale_chall_score": 6.75,
+            "word_count": 86571
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0729,
+            "subordinate_clauses_per_sentence": 0.1895,
+            "conditionals_per_sentence": 0.0279
+        },
+        "register": {
+            "slang_density_percentage": 0.6718
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.5176,
+            "top_20_lemmas": {
+                "know": 471,
+                "sin": 418,
+                "go": 350,
+                "come": 342,
+                "like": 323,
+                "think": 313,
+                "right": 308,
+                "get": 276,
+                "time": 274,
+                "let": 272,
+                "good": 260,
+                "summoner": 258,
+                "want": 229,
+                "fiend": 224,
+                "hey": 221,
+                "way": 215,
+                "tell": 200,
+                "leave": 186,
+                "temple": 176,
+                "look": 166
+            },
+            "top_15_bigrams": {
+                "i 'm": 413,
+                "do n't": 355,
+                "it 's": 349,
+                "you 're": 240,
+                "of the": 199,
+                "that 's": 199,
+                "al bhed": 196,
+                "ca n't": 175,
+                "i 'll": 173,
+                "the crusaders": 170,
+                "you know": 161,
+                "to the": 155,
+                "we 're": 153,
+                "in the": 148,
+                "i do": 130
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 56,
+                    "think about": 37,
+                    "think of": 31,
+                    "pray for": 31,
+                    "come to": 28,
+                    "get to": 25,
+                    "look at": 23,
+                    "come from": 21,
+                    "live in": 21,
+                    "look like": 21,
+                    "take of": 20,
+                    "thank for": 19,
+                    "talk about": 19,
+                    "tell about": 19,
+                    "return to": 19
+                },
+                "top_15_adjective_noun": {
+                    "old man": 47,
+                    "good luck": 27,
+                    "first time": 22,
+                    "next time": 21,
+                    "high summoner": 19,
+                    "long time": 18,
+                    "more time": 13,
+                    "last year": 12,
+                    "other way": 10,
+                    "next year": 9,
+                    "last time": 8,
+                    "japanese bow": 8,
+                    "only hope": 8,
+                    "only thing": 7,
+                    "ancient machina": 7
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 35,
+                    "go on": 27,
+                    "give up": 22,
+                    "keep up": 15,
+                    "grow up": 14,
+                    "wake up": 14,
+                    "run off": 12,
+                    "come down": 11,
+                    "help out": 9,
+                    "show up": 9,
+                    "let down": 8,
+                    "go out": 8,
+                    "come out": 8,
+                    "make up": 8,
+                    "cheer up": 7
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0458,
+            "mtld": 65.73,
+            "avg_sentence_length": 6.84,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1644,
+            "top_10_oov": {
+                "shoopuf": 29,
+                "Yevon": 21,
+                "Ronso": 8,
+                "sinspawn": 7,
+                "maesters": 7,
+                "Hornless": 5,
+                "Guadosalam": 4,
+                "Chappu": 3,
+                "relyin": 2,
+                "Imposhibibble": 2
+            },
+            "true_oov_list": [
+                "AAAAAAAAAUUGH",
+                "Chappu",
+                "Dryhg",
+                "Evrae",
+                "Guado",
+                "Guadosalam",
+                "Hornless",
+                "Hrrumph",
+                "Imposhibibble",
+                "Keeheehee",
+                "Moonflow",
+                "Ochu",
+                "RRrrraaaaaaghhh",
+                "Ronso",
+                "Shoopuf",
+                "Shtatue",
+                "Urrp",
+                "Waaaaait",
+                "Yevon",
+                "aboardss",
+                "anshient",
+                "backt",
+                "beiqng",
+                "blitzin",
+                "ebullibody",
+                "elshe",
+                "fascinatin",
+                "gabbin",
+                "goatlings",
+                "gooooooaaaaallll",
+                "gurardian",
+                "launchin",
+                "loafin",
+                "lookss",
+                "lordless",
+                "losht",
+                "maesters",
+                "mashina",
+                "moonlilies",
+                "mudpuppies",
+                "myshterious",
+                "oscillo",
+                "peack",
+                "praty",
+                "reeceived",
+                "relyin",
+                "ribber",
+                "rockheads",
+                "sabotoage",
+                "servidce",
+                "shince",
+                "shlapping",
+                "shleeping",
+                "shmooshed",
+                "shomewhere",
+                "shong",
+                "shoopuf",
+                "shpeed",
+                "shtadium",
+                "shtatue",
+                "shumone",
+                "sinscale",
+                "sinspawn",
+                "snnnnoooore",
+                "thatsh",
+                "whoowee",
+                "wolven",
+                "wonderss"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 47.92,
+            "density_excluding_proper_nouns": 40.76,
+            "proper_noun_density_contribution": 6.3417
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 60503,
+                    "unique_amount": 1715,
+                    "total_percentage": 0.8087,
+                    "unique_percentage": 0.2868
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 6838,
+                    "unique_amount": 1468,
+                    "total_percentage": 0.0914,
+                    "unique_percentage": 0.2455
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3996,
+                    "unique_amount": 1161,
+                    "total_percentage": 0.0534,
+                    "unique_percentage": 0.1941
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1224,
+                    "unique_amount": 688,
+                    "total_percentage": 0.0164,
+                    "unique_percentage": 0.1151
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 131,
+                    "unique_amount": 93,
+                    "total_percentage": 0.0018,
+                    "unique_percentage": 0.0156
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1712,
+                    "unique_amount": 681,
+                    "total_percentage": 0.0229,
+                    "unique_percentage": 0.1139
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 411,
+                    "unique_amount": 174,
+                    "total_percentage": 0.0055,
+                    "unique_percentage": 0.0291
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 74815,
+                    "unique_amount": 5980,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "traitor": 50,
+                "dock": 26,
+                "tough": 18,
+                "specie": 16,
+                "faith": 14,
+                "defy": 14,
+                "grand": 14,
+                "damn": 14,
+                "deck": 13,
+                "seal": 12,
+                "await": 12
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "summoner": 256,
+                "fiend": 223,
+                "machina": 92,
+                "aeon": 44,
+                "toxin": 42,
+                "fayth": 38,
+                "blitz": 37,
+                "pilgrimage": 24,
+                "apprentice": 22,
+                "anytime": 15,
+                "precept": 14,
+                "lad": 14,
+                "summon": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4888,
+                    "learned": 371,
+                    "unique": 759,
+                    "top_repeated_lemmas": {
+                        "the": 3361,
+                        "be": 3181,
+                        "you": 2633,
+                        "to": 2430,
+                        "i": 2360
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1946,
+                    "learned": 159,
+                    "unique": 817,
+                    "top_repeated_lemmas": {
+                        "more": 193,
+                        "even": 162,
+                        "still": 131,
+                        "off": 114,
+                        "die": 94
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0753,
+                    "learned": 61,
+                    "unique": 810,
+                    "top_repeated_lemmas": {
+                        "guardian": 135,
+                        "monk": 128,
+                        "defeat": 105,
+                        "warrior": 104,
+                        "teaching": 83
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.021,
+                    "learned": 11,
+                    "unique": 525,
+                    "top_repeated_lemmas": {
+                        "traitor": 50,
+                        "dock": 26,
+                        "tough": 18,
+                        "specie": 16,
+                        "faith": 14
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 81,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0221,
+                    "learned": 13,
+                    "unique": 587,
+                    "top_repeated_lemmas": {
+                        "summoner": 256,
+                        "fiend": 223,
+                        "machina": 92,
+                        "aeon": 44,
+                        "toxin": 42
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 7439,
+                "A2": 6321,
+                "B1": 724,
+                "B2": 4,
+                "C1": 2
+            },
+            "percentages": {
+                "A1": 0.5134,
+                "A2": 0.4362,
+                "B1": 0.05,
+                "B2": 0.0003,
+                "C1": 0.0001
+            }
+        }
+    }
+}

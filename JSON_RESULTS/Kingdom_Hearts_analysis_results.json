@@ -1,0 +1,307 @@
+{
+    "game_info": {
+        "title": "Kingdom Hearts",
+        "series": "Kingdom Hearts",
+        "year": 2002,
+        "source": "https://transcripts.fandom.com/wiki/Kingdom_Hearts",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 2178
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 104.18,
+            "flesch_kincaid_grade": -0.14,
+            "smog_index": 4.79,
+            "dale_chall_score": 6.23,
+            "word_count": 20122
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0665,
+            "subordinate_clauses_per_sentence": 0.1616,
+            "conditionals_per_sentence": 0.0268
+        },
+        "register": {
+            "slang_density_percentage": 0.597
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.9082,
+            "top_20_lemmas": {
+                "heart": 118,
+                "know": 115,
+                "find": 111,
+                "come": 109,
+                "darkness": 95,
+                "world": 91,
+                "oh": 89,
+                "let": 87,
+                "right": 83,
+                "look": 80,
+                "get": 74,
+                "think": 74,
+                "help": 64,
+                "like": 63,
+                "go": 60,
+                "hey": 60,
+                "power": 50,
+                "okay": 47,
+                "friend": 47,
+                "tell": 45
+            },
+            "top_15_bigrams": {
+                "i 'm": 127,
+                "do n't": 116,
+                "it 's": 112,
+                "you 're": 84,
+                "are you": 65,
+                "let 's": 62,
+                "i 'll": 55,
+                "that 's": 51,
+                "the heartless": 51,
+                "the darkness": 48,
+                "ca n't": 45,
+                "what 's": 41,
+                "to the": 40,
+                "i do": 38,
+                "in the": 37
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look for": 31,
+                    "come with": 10,
+                    "talk about": 9,
+                    "get to": 8,
+                    "take of": 8,
+                    "look like": 8,
+                    "get out": 8,
+                    "come from": 7,
+                    "go to": 7,
+                    "come to": 7,
+                    "happen to": 7,
+                    "go with": 7,
+                    "return to": 7,
+                    "live in": 6,
+                    "take to": 6
+                },
+                "top_15_adjective_noun": {
+                    "other world": 15,
+                    "gummi ship": 9,
+                    "good luck": 8,
+                    "gummi block": 5,
+                    "summon gem": 5,
+                    "top juice": 5,
+                    "key bearer": 5,
+                    "next time": 4,
+                    "same stuff": 3,
+                    "last time": 3,
+                    "nice going": 3,
+                    "many world": 3,
+                    "young man": 3,
+                    "strong heart": 3,
+                    "wise man": 3
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 25,
+                    "hold on": 12,
+                    "give up": 7,
+                    "wake up": 7,
+                    "end up": 5,
+                    "check out": 4,
+                    "grow up": 3,
+                    "find out": 3,
+                    "rest up": 3,
+                    "keep up": 3,
+                    "give back": 3,
+                    "come out": 3,
+                    "get off": 3,
+                    "leave behind": 3,
+                    "hold back": 3
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0858,
+            "mtld": 58.48,
+            "avg_sentence_length": 6.12,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1492,
+            "top_10_oov": {
+                "Gawrsh": 10,
+                "paopu": 4,
+                "Bibbidi": 4,
+                "bobbidi": 4,
+                "smackeral": 2,
+                "Pinocch": 2,
+                "Leeeon": 1,
+                "Swoggle": 1,
+                "Squa": 1,
+                "momeraths": 1
+            },
+            "true_oov_list": [
+                "Bibbidi",
+                "Gawrsh",
+                "Interspace",
+                "Leeeon",
+                "Pinocch",
+                "Squa",
+                "Swoggle",
+                "bobbidi",
+                "bounceroonies",
+                "momeraths",
+                "paopu",
+                "smackeral"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.29,
+            "density_excluding_proper_nouns": 39.6,
+            "proper_noun_density_contribution": 4.2162
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 14753,
+                    "unique_amount": 943,
+                    "total_percentage": 0.8208,
+                    "unique_percentage": 0.3895
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1841,
+                    "unique_amount": 635,
+                    "total_percentage": 0.1024,
+                    "unique_percentage": 0.2623
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 714,
+                    "unique_amount": 381,
+                    "total_percentage": 0.0397,
+                    "unique_percentage": 0.1574
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 285,
+                    "unique_amount": 213,
+                    "total_percentage": 0.0159,
+                    "unique_percentage": 0.088
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 19,
+                    "unique_amount": 16,
+                    "total_percentage": 0.0011,
+                    "unique_percentage": 0.0066
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 264,
+                    "unique_amount": 184,
+                    "total_percentage": 0.0147,
+                    "unique_percentage": 0.076
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 98,
+                    "unique_amount": 49,
+                    "total_percentage": 0.0055,
+                    "unique_percentage": 0.0202
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 17974,
+                    "unique_amount": 2421,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "master": 14
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3655,
+                    "learned": 182,
+                    "unique": 498,
+                    "top_repeated_lemmas": {
+                        "you": 854,
+                        "the": 739,
+                        "be": 710,
+                        "i": 527,
+                        "to": 502
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0722,
+                    "learned": 32,
+                    "unique": 443,
+                    "top_repeated_lemmas": {
+                        "so": 104,
+                        "power": 50,
+                        "other": 46,
+                        "need": 40,
+                        "still": 34
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0122,
+                    "learned": 4,
+                    "unique": 328,
+                    "top_repeated_lemmas": {
+                        "darkness": 98,
+                        "bounce": 15,
+                        "suppose": 14,
+                        "gorilla": 13
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0053,
+                    "learned": 1,
+                    "unique": 188,
+                    "top_repeated_lemmas": {
+                        "master": 14
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 16,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 165,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 2160,
+                "A2": 1585,
+                "B1": 103
+            },
+            "percentages": {
+                "A1": 0.5613,
+                "A2": 0.4119,
+                "B1": 0.0268
+            }
+        }
+    }
+}

@@ -1,0 +1,469 @@
+{
+    "game_info": {
+        "title": "Horizon Forbidden West",
+        "series": "Horizon",
+        "year": 2022,
+        "source": "https://game-scripts-wiki.blogspot.com/2022/02/horizon-ii-forbidden-west-transcript.html",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "sample",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 6861
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 97.21,
+            "flesch_kincaid_grade": 1.42,
+            "smog_index": 5.95,
+            "dale_chall_score": 6.85,
+            "word_count": 118795
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0956,
+            "subordinate_clauses_per_sentence": 0.2484,
+            "conditionals_per_sentence": 0.0364
+        },
+        "register": {
+            "slang_density_percentage": 0.1966
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 9.9683,
+            "top_20_lemmas": {
+                "like": 609,
+                "know": 530,
+                "look": 471,
+                "need": 452,
+                "way": 441,
+                "find": 438,
+                "go": 418,
+                "think": 416,
+                "machine": 411,
+                "get": 344,
+                "come": 331,
+                "right": 315,
+                "let": 305,
+                "time": 304,
+                "good": 292,
+                "want": 264,
+                "okay": 258,
+                "help": 244,
+                "thing": 226,
+                "tell": 212
+            },
+            "top_15_bigrams": {
+                "it 's": 436,
+                "i 'm": 428,
+                "of the": 419,
+                "to the": 328,
+                "in the": 325,
+                "i 'll": 316,
+                "do n't": 285,
+                "i can": 280,
+                "you 're": 242,
+                "there 's": 238,
+                "that 's": 206,
+                "need to": 191,
+                "on the": 190,
+                "via focus": 188,
+                "to get": 176
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "get to": 86,
+                    "look like": 78,
+                    "look for": 55,
+                    "talk to": 42,
+                    "talk about": 41,
+                    "come from": 40,
+                    "deal with": 38,
+                    "look at": 35,
+                    "go to": 31,
+                    "know about": 30,
+                    "sound like": 29,
+                    "do with": 28,
+                    "come with": 26,
+                    "lead to": 25,
+                    "get out": 24
+                },
+                "top_15_adjective_noun": {
+                    "subordinate function": 37,
+                    "other side": 22,
+                    "more machine": 17,
+                    "good luck": 13,
+                    "new arm": 13,
+                    "good thing": 12,
+                    "dead end": 11,
+                    "long way": 10,
+                    "next time": 10,
+                    "good idea": 8,
+                    "whole place": 8,
+                    "whole thing": 7,
+                    "only thing": 7,
+                    "other way": 7,
+                    "only way": 7
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 48,
+                    "figure out": 35,
+                    "take down": 32,
+                    "pick up": 32,
+                    "go on": 32,
+                    "find out": 30,
+                    "take out": 24,
+                    "blow up": 21,
+                    "hold on": 18,
+                    "show up": 18,
+                    "check out": 16,
+                    "climb up": 16,
+                    "set up": 15,
+                    "end up": 14,
+                    "give up": 14
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0461,
+            "mtld": 74.68,
+            "avg_sentence_length": 7.63,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0936,
+            "top_10_oov": {
+                "Tenakth": 8,
+                "ashblood": 6,
+                "identiscan": 4,
+                "Chainscrape": 4,
+                "beamcast": 3,
+                "Itamen": 3,
+                "Bristlebacks": 3,
+                "wilded": 3,
+                "Elisabet": 3,
+                "lvvira": 3
+            },
+            "true_oov_list": [
+                "Atbay",
+                "Bristlebacks",
+                "Carja",
+                "Chainscrape",
+                "Clawstriders",
+                "Elika",
+                "Elisabet",
+                "Fashav",
+                "Firegleam",
+                "Frostclaw",
+                "Ginthawk",
+                "Ihat",
+                "Itamen",
+                "Korvend",
+                "Maybel",
+                "Omuramba",
+                "Parge",
+                "Payiv",
+                "Pivallo",
+                "Procurable",
+                "Scrappersap",
+                "Shieldwing",
+                "Starcity",
+                "Stormbird",
+                "Sylens",
+                "Tenakth",
+                "Tshould",
+                "Undrinkable",
+                "Utaru",
+                "Veah",
+                "Walloper",
+                "Widemaws",
+                "ashblood",
+                "beamcast",
+                "bootlicks",
+                "chuft",
+                "comreally",
+                "doces",
+                "ectogenic",
+                "elderflowers",
+                "fancyrobed",
+                "fatinut",
+                "filatning",
+                "fleabags",
+                "fonas",
+                "forgewoman",
+                "herhead",
+                "holotourism",
+                "humanite",
+                "identiscan",
+                "insiiiiiiiiiiiiide",
+                "intemal",
+                "labon",
+                "latineck",
+                "lihis",
+                "lvvira",
+                "maskmg",
+                "mentional",
+                "overfertilization",
+                "pawnsman",
+                "procurable",
+                "relicyou",
+                "scoutin",
+                "siback",
+                "sighe",
+                "steell",
+                "stingerfruit",
+                "stouting",
+                "substratal",
+                "tentory",
+                "thhhh",
+                "transpositional",
+                "tremblors",
+                "unseling",
+                "uranomission",
+                "wansmission",
+                "wenty",
+                "wilded",
+                "wilthold"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.34,
+            "density_excluding_proper_nouns": 40.49,
+            "proper_noun_density_contribution": 4.4179
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 84004,
+                    "unique_amount": 1905,
+                    "total_percentage": 0.7843,
+                    "unique_percentage": 0.2268
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 11325,
+                    "unique_amount": 1891,
+                    "total_percentage": 0.1057,
+                    "unique_percentage": 0.2251
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 5821,
+                    "unique_amount": 1819,
+                    "total_percentage": 0.0543,
+                    "unique_percentage": 0.2165
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 3467,
+                    "unique_amount": 1352,
+                    "total_percentage": 0.0324,
+                    "unique_percentage": 0.161
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 477,
+                    "unique_amount": 217,
+                    "total_percentage": 0.0045,
+                    "unique_percentage": 0.0258
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1817,
+                    "unique_amount": 1084,
+                    "total_percentage": 0.017,
+                    "unique_percentage": 0.129
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 198,
+                    "unique_amount": 132,
+                    "total_percentage": 0.0018,
+                    "unique_percentage": 0.0157
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 107109,
+                    "unique_amount": 8400,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "datum": 163,
+                "god": 78,
+                "tribe": 76,
+                "rebel": 75,
+                "core": 50,
+                "backup": 43,
+                "subordinate": 40,
+                "tunnel": 35,
+                "shield": 35,
+                "console": 32,
+                "gear": 30,
+                "squad": 29,
+                "merge": 28,
+                "node": 27,
+                "territory": 26,
+                "crew": 25,
+                "pulse": 23,
+                "combat": 23,
+                "energy": 22,
+                "database": 21,
+                "blast": 21,
+                "detect": 20,
+                "generator": 19,
+                "data": 18,
+                "sneak": 18,
+                "expedition": 18,
+                "commander": 18,
+                "archive": 18,
+                "damn": 17,
+                "blade": 17,
+                "accord": 17,
+                "wipe": 16,
+                "cable": 16,
+                "master": 15,
+                "spark": 15,
+                "contract": 15,
+                "battlefield": 15,
+                "willing": 14,
+                "coordinate": 13,
+                "transmission": 12,
+                "scan": 12,
+                "workbench": 12,
+                "slaughter": 12,
+                "concession": 12,
+                "refugee": 12,
+                "trial": 12,
+                "component": 12
+            },
+            "c1_learned_vocab": {
+                "clan": 58,
+                "forge": 30,
+                "salvage": 21,
+                "spear": 19,
+                "dome": 13,
+                "vine": 12
+            },
+            "c2_learned_vocab": {
+                "rig": 26,
+                "purge": 24,
+                "afar": 22,
+                "delve": 20,
+                "biosphere": 20,
+                "scout": 19,
+                "delver": 18,
+                "lure": 16,
+                "drone": 16,
+                "blight": 15,
+                "ale": 15,
+                "shard": 15,
+                "tinker": 14,
+                "heuristic": 13,
+                "ammo": 12,
+                "huntress": 12,
+                "watchtower": 12,
+                "stash": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.5031,
+                    "learned": 403,
+                    "unique": 801,
+                    "top_repeated_lemmas": {
+                        "the": 5472,
+                        "to": 4065,
+                        "be": 3895,
+                        "you": 3127,
+                        "i": 2812
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.2487,
+                    "learned": 244,
+                    "unique": 981,
+                    "top_repeated_lemmas": {
+                        "need": 452,
+                        "more": 317,
+                        "other": 240,
+                        "might": 193,
+                        "even": 157
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0892,
+                    "learned": 106,
+                    "unique": 1188,
+                    "top_repeated_lemmas": {
+                        "via": 191,
+                        "able": 132,
+                        "facility": 76,
+                        "rest": 69,
+                        "least": 65
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0488,
+                    "learned": 47,
+                    "unique": 963,
+                    "top_repeated_lemmas": {
+                        "datum": 163,
+                        "god": 78,
+                        "tribe": 76,
+                        "rebel": 75,
+                        "core": 50
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0355,
+                    "learned": 6,
+                    "unique": 169,
+                    "top_repeated_lemmas": {
+                        "clan": 58,
+                        "forge": 30,
+                        "salvage": 21,
+                        "spear": 19,
+                        "dome": 13
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.02,
+                    "learned": 18,
+                    "unique": 902,
+                    "top_repeated_lemmas": {
+                        "rig": 26,
+                        "purge": 24,
+                        "afar": 22,
+                        "delve": 20,
+                        "biosphere": 20
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 8065,
+                "A2": 7596,
+                "B1": 1455,
+                "B2": 49,
+                "C1": 19,
+                "C2": 9
+            },
+            "percentages": {
+                "A1": 0.4691,
+                "A2": 0.4418,
+                "B1": 0.0846,
+                "B2": 0.0028,
+                "C1": 0.0011,
+                "C2": 0.0005
+            }
+        }
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "game_info": {
+        "title": "Final Fantasy XIII-2",
+        "series": "Final Fantasy",
+        "year": 2011,
+        "source": "https://gamefaqs.gamespot.com/pc/846193-final-fantasy-xiii-2/faqs/64861",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "partial"
+        },
+        "total_lines_extracted": 4292
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 98.21,
+            "flesch_kincaid_grade": 1.08,
+            "smog_index": 5.79,
+            "dale_chall_score": 6.56,
+            "word_count": 72287
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.118,
+            "subordinate_clauses_per_sentence": 0.2349,
+            "conditionals_per_sentence": 0.0426
+        },
+        "register": {
+            "slang_density_percentage": 0.3731
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.873,
+            "top_20_lemmas": {
+                "talk": 463,
+                "know": 455,
+                "auto": 402,
+                "time": 363,
+                "like": 306,
+                "think": 257,
+                "future": 243,
+                "find": 239,
+                "right": 236,
+                "look": 234,
+                "go": 228,
+                "come": 209,
+                "want": 196,
+                "monster": 192,
+                "paradox": 185,
+                "way": 173,
+                "thing": 172,
+                "get": 166,
+                "let": 157,
+                "tell": 157
+            },
+            "top_15_bigrams": {
+                "auto talk": 402,
+                "it 's": 379,
+                "do n't": 318,
+                "i 'm": 288,
+                "in the": 253,
+                "of the": 225,
+                "that 's": 205,
+                "you 're": 188,
+                "the future": 178,
+                "i do": 174,
+                "ca n't": 167,
+                "this is": 149,
+                "if you": 127,
+                "to the": 125,
+                "have to": 122
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look for": 43,
+                    "look like": 26,
+                    "happen to": 25,
+                    "come from": 24,
+                    "wait for": 24,
+                    "deal with": 23,
+                    "talk about": 21,
+                    "get on": 20,
+                    "look at": 20,
+                    "thank for": 19,
+                    "see in": 18,
+                    "take of": 18,
+                    "talk to": 18,
+                    "get to": 17,
+                    "count on": 17
+                },
+                "top_15_adjective_noun": {
+                    "paradox effect": 19,
+                    "long time": 10,
+                    "many year": 9,
+                    "provisional government": 9,
+                    "last time": 9,
+                    "different time": 8,
+                    "first place": 8,
+                    "first time": 8,
+                    "good news": 8,
+                    "many people": 7,
+                    "new future": 7,
+                    "paradox source": 7,
+                    "artificial intelligence": 7,
+                    "many time": 6,
+                    "only one": 6
+                },
+                "top_15_phrasal_verbs": {
+                    "find out": 33,
+                    "come on": 28,
+                    "go on": 28,
+                    "check out": 19,
+                    "figure out": 18,
+                    "give up": 18,
+                    "get up": 14,
+                    "end up": 14,
+                    "wake up": 12,
+                    "help out": 10,
+                    "come out": 9,
+                    "look out": 8,
+                    "run off": 8,
+                    "make up": 8,
+                    "take out": 8
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0478,
+            "mtld": 60.69,
+            "avg_sentence_length": 7.65,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0369,
+            "top_10_oov": {
+                "faeryl": 4,
+                "Kupopopo": 2,
+                "shmonsters": 1,
+                "mooorning": 1,
+                "Stirrin": 1,
+                "Bodhum": 1,
+                "vidshows": 1,
+                "airbike": 1,
+                "Booored": 1,
+                "timequake": 1
+            },
+            "true_oov_list": [
+                "Bodhum",
+                "Booored",
+                "Hotheads",
+                "Kupopopo",
+                "Kupppo",
+                "Stirrin",
+                "airbike",
+                "chocotastic",
+                "dolin",
+                "faeryl",
+                "mooorning",
+                "neverthinks",
+                "nificient",
+                "prowlin",
+                "rematerializing",
+                "seeresses",
+                "shmonsters",
+                "skyfleet",
+                "timequake",
+                "unclinging",
+                "unsuspectedly",
+                "vidshows",
+                "wasclear",
+                "wouldchange"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.67,
+            "density_excluding_proper_nouns": 41.44,
+            "proper_noun_density_contribution": 3.7984
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 53002,
+                    "unique_amount": 1607,
+                    "total_percentage": 0.8017,
+                    "unique_percentage": 0.2889
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 6416,
+                    "unique_amount": 1409,
+                    "total_percentage": 0.097,
+                    "unique_percentage": 0.2533
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3405,
+                    "unique_amount": 1143,
+                    "total_percentage": 0.0515,
+                    "unique_percentage": 0.2055
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1986,
+                    "unique_amount": 734,
+                    "total_percentage": 0.03,
+                    "unique_percentage": 0.132
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 156,
+                    "unique_amount": 79,
+                    "total_percentage": 0.0024,
+                    "unique_percentage": 0.0142
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 861,
+                    "unique_amount": 496,
+                    "total_percentage": 0.013,
+                    "unique_percentage": 0.0892
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 285,
+                    "unique_amount": 94,
+                    "total_percentage": 0.0043,
+                    "unique_percentage": 0.0169
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 66111,
+                    "unique_amount": 5562,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "auto": 402,
+                "paradox": 185,
+                "datum": 35,
+                "fate": 33,
+                "energy": 30,
+                "nod": 30,
+                "distortion": 28,
+                "seal": 22,
+                "leap": 20,
+                "vanish": 18,
+                "legend": 16,
+                "hell": 16,
+                "investigate": 14,
+                "tough": 14,
+                "corporal": 12
+            },
+            "c1_learned_vocab": {
+                "pillar": 35,
+                "prophecy": 20
+            },
+            "c2_learned_vocab": {
+                "artefact": 59,
+                "seeress": 45,
+                "meteorite": 30,
+                "communicator": 21,
+                "eclipse": 17,
+                "rift": 15
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4318,
+                    "learned": 320,
+                    "unique": 741,
+                    "top_repeated_lemmas": {
+                        "the": 3260,
+                        "be": 2904,
+                        "you": 2187,
+                        "to": 2097,
+                        "i": 1766
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.2003,
+                    "learned": 155,
+                    "unique": 774,
+                    "top_repeated_lemmas": {
+                        "need": 140,
+                        "gate": 124,
+                        "still": 121,
+                        "other": 107,
+                        "even": 101
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0612,
+                    "learned": 49,
+                    "unique": 801,
+                    "top_repeated_lemmas": {
+                        "monster": 190,
+                        "narrate": 93,
+                        "protect": 70,
+                        "able": 63,
+                        "goddess": 60
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0265,
+                    "learned": 15,
+                    "unique": 566,
+                    "top_repeated_lemmas": {
+                        "auto": 402,
+                        "paradox": 185,
+                        "datum": 35,
+                        "fate": 33,
+                        "energy": 30
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0308,
+                    "learned": 2,
+                    "unique": 65,
+                    "top_repeated_lemmas": {
+                        "pillar": 35,
+                        "prophecy": 20
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0139,
+                    "learned": 6,
+                    "unique": 431,
+                    "top_repeated_lemmas": {
+                        "artefact": 59,
+                        "seeress": 45,
+                        "meteorite": 30,
+                        "communicator": 21,
+                        "eclipse": 17
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 4499,
+                "A2": 5123,
+                "B1": 1009,
+                "B2": 5,
+                "C1": 1,
+                "C2": 3
+            },
+            "percentages": {
+                "A1": 0.4228,
+                "A2": 0.4815,
+                "B1": 0.0948,
+                "B2": 0.0005,
+                "C1": 0.0001,
+                "C2": 0.0003
+            }
+        }
+    }
+}

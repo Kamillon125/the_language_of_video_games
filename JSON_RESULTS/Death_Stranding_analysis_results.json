@@ -1,0 +1,372 @@
+{
+    "game_info": {
+        "title": "Death Stranding",
+        "series": "Death Stranding",
+        "year": 2019,
+        "source": "https://game-scripts-wiki.blogspot.com/2019/12/death-stranding-full-transcript.html",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 1562
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 94.8,
+            "flesch_kincaid_grade": 1.96,
+            "smog_index": 6.54,
+            "dale_chall_score": 7.17,
+            "word_count": 47121
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1214,
+            "subordinate_clauses_per_sentence": 0.2703,
+            "conditionals_per_sentence": 0.0426
+        },
+        "register": {
+            "slang_density_percentage": 0.593
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 9.3328,
+            "top_20_lemmas": {
+                "like": 179,
+                "know": 178,
+                "come": 178,
+                "codec": 174,
+                "need": 173,
+                "get": 143,
+                "time": 139,
+                "right": 133,
+                "network": 133,
+                "chiral": 130,
+                "go": 121,
+                "look": 119,
+                "good": 112,
+                "want": 110,
+                "bring": 106,
+                "way": 106,
+                "think": 99,
+                "tell": 90,
+                "oh": 88,
+                "thank": 86
+            },
+            "top_15_bigrams": {
+                "it 's": 220,
+                "do n't": 186,
+                "i 'm": 178,
+                "via codec": 175,
+                "to the": 145,
+                "you 're": 141,
+                "of the": 127,
+                "on the": 110,
+                "in the": 109,
+                "that 's": 107,
+                "ca n't": 96,
+                "i 'll": 96,
+                "you 'll": 91,
+                "the beach": 88,
+                "if you": 86
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "connect to": 30,
+                    "get to": 27,
+                    "wait for": 20,
+                    "go to": 19,
+                    "look at": 15,
+                    "take to": 15,
+                    "bring into": 14,
+                    "get in": 13,
+                    "look for": 13,
+                    "take of": 12,
+                    "put in": 11,
+                    "put on": 11,
+                    "come to": 11,
+                    "deal with": 11,
+                    "wait on": 10
+                },
+                "top_15_adjective_noun": {
+                    "chiral network": 70,
+                    "other side": 20,
+                    "distro center": 20,
+                    "umbilical cord": 19,
+                    "private room": 12,
+                    "chiral density": 9,
+                    "cardiac arrest": 9,
+                    "last stranding": 9,
+                    "chiral matter": 8,
+                    "good work": 8,
+                    "only way": 7,
+                    "good luck": 7,
+                    "long time": 6,
+                    "perfect condition": 5,
+                    "chiral printer": 5
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 22,
+                    "hold on": 12,
+                    "pick up": 10,
+                    "keep on": 9,
+                    "figure out": 9,
+                    "link up": 9,
+                    "wake up": 9,
+                    "find out": 8,
+                    "get out": 7,
+                    "go on": 7,
+                    "hook up": 6,
+                    "carry on": 6,
+                    "take out": 6,
+                    "put down": 6,
+                    "show up": 5
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0672,
+            "mtld": 68.6,
+            "avg_sentence_length": 8.05,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.2101,
+            "top_10_oov": {
+                "timefall": 18,
+                "chiralium": 17,
+                "voidout": 12,
+                "voidouts": 9,
+                "hematic": 6,
+                "cryptobiotes": 4,
+                "waystations": 4,
+                "quipu": 4,
+                "cryptobiote": 2,
+                "Chiralium": 2
+            },
+            "true_oov_list": [
+                "Chiralium",
+                "Heartman",
+                "M\u00e5lingen",
+                "Surpriiise",
+                "Thave",
+                "autotoxemic",
+                "chiralgram",
+                "chiralgrams",
+                "chiralium",
+                "chirallum",
+                "chitralium",
+                "cordiformia",
+                "cryptobiote",
+                "cryptobiotes",
+                "demens",
+                "dicging",
+                "hematic",
+                "inerself",
+                "mi\u00e7anga",
+                "necrotises",
+                "necrotization",
+                "necrotize",
+                "odradek",
+                "pseudotachylite",
+                "quipu",
+                "stillmother",
+                "tarlike",
+                "timefall",
+                "umbilici",
+                "voidout",
+                "voidouts",
+                "waystations",
+                "youtside"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.09,
+            "density_excluding_proper_nouns": 41.1,
+            "proper_noun_density_contribution": 3.1327
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 32866,
+                    "unique_amount": 1433,
+                    "total_percentage": 0.7749,
+                    "unique_percentage": 0.2938
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 4263,
+                    "unique_amount": 1193,
+                    "total_percentage": 0.1005,
+                    "unique_percentage": 0.2446
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 2730,
+                    "unique_amount": 1020,
+                    "total_percentage": 0.0644,
+                    "unique_percentage": 0.2091
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1207,
+                    "unique_amount": 650,
+                    "total_percentage": 0.0285,
+                    "unique_percentage": 0.1333
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 239,
+                    "unique_amount": 85,
+                    "total_percentage": 0.0056,
+                    "unique_percentage": 0.0174
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 920,
+                    "unique_amount": 430,
+                    "total_percentage": 0.0217,
+                    "unique_percentage": 0.0882
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 187,
+                    "unique_amount": 67,
+                    "total_percentage": 0.0044,
+                    "unique_percentage": 0.0137
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 42412,
+                    "unique_amount": 4878,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "hell": 34,
+                "cord": 31,
+                "datum": 23,
+                "strand": 18,
+                "mask": 18,
+                "knot": 17,
+                "cuff": 14,
+                "crater": 12,
+                "nightmare": 12,
+                "battlefield": 12
+            },
+            "c1_learned_vocab": {
+                "fuck": 39,
+                "tar": 25,
+                "fragile": 23,
+                "shit": 20,
+                "bot": 14
+            },
+            "c2_learned_vocab": {
+                "codec": 175,
+                "chiral": 128,
+                "umbilical": 19,
+                "repatriate": 14,
+                "incinerator": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4357,
+                    "learned": 295,
+                    "unique": 677,
+                    "top_repeated_lemmas": {
+                        "the": 2016,
+                        "you": 1691,
+                        "to": 1608,
+                        "be": 1562,
+                        "it": 956
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1281,
+                    "learned": 92,
+                    "unique": 718,
+                    "top_repeated_lemmas": {
+                        "need": 172,
+                        "more": 115,
+                        "other": 81,
+                        "even": 70,
+                        "might": 63
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0421,
+                    "learned": 32,
+                    "unique": 760,
+                    "top_repeated_lemmas": {
+                        "via": 192,
+                        "network": 132,
+                        "connect": 59,
+                        "delivery": 57,
+                        "terminal": 48
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0186,
+                    "learned": 10,
+                    "unique": 539,
+                    "top_repeated_lemmas": {
+                        "hell": 34,
+                        "cord": 31,
+                        "datum": 23,
+                        "strand": 18,
+                        "mask": 18
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0685,
+                    "learned": 5,
+                    "unique": 73,
+                    "top_repeated_lemmas": {
+                        "fuck": 39,
+                        "tar": 25,
+                        "fragile": 23,
+                        "shit": 20,
+                        "bot": 14
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0128,
+                    "learned": 5,
+                    "unique": 392,
+                    "top_repeated_lemmas": {
+                        "codec": 175,
+                        "chiral": 128,
+                        "umbilical": 19,
+                        "repatriate": 14,
+                        "incinerator": 12
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 2926,
+                "A2": 2557,
+                "B1": 818,
+                "B2": 37,
+                "C1": 9,
+                "C2": 3
+            },
+            "percentages": {
+                "A1": 0.4608,
+                "A2": 0.4027,
+                "B1": 0.1288,
+                "B2": 0.0058,
+                "C1": 0.0014,
+                "C2": 0.0005
+            }
+        }
+    }
+}

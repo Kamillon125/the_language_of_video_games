@@ -1,0 +1,318 @@
+{
+    "game_info": {
+        "title": "Monkey Island 2: LeChuck's Revenge",
+        "series": "Monkey Island",
+        "year": 1991,
+        "source": "https://gamefaqs.gamespot.com/pc/562680-monkey-island-2-lechucks-revenge/faqs/79490",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "sample",
+            "dialogueOrder": true,
+            "choices": "Not included"
+        },
+        "total_lines_extracted": 875
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 103.85,
+            "flesch_kincaid_grade": -0.18,
+            "smog_index": 4.93,
+            "dale_chall_score": 6.32,
+            "word_count": 9308
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.049,
+            "subordinate_clauses_per_sentence": 0.1278,
+            "conditionals_per_sentence": 0.0232
+        },
+        "register": {
+            "slang_density_percentage": 0.6588
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.4119,
+            "top_20_lemmas": {
+                "bone": 53,
+                "like": 45,
+                "want": 45,
+                "look": 43,
+                "oh": 40,
+                "ok": 37,
+                "let": 35,
+                "piece": 34,
+                "know": 32,
+                "get": 31,
+                "go": 31,
+                "ha": 31,
+                "good": 30,
+                "come": 29,
+                "right": 29,
+                "hey": 29,
+                "think": 28,
+                "map": 26,
+                "connect": 25,
+                "find": 24
+            },
+            "top_15_bigrams": {
+                "i 'm": 55,
+                "to the": 43,
+                "i 'll": 39,
+                "do n't": 38,
+                "it 's": 37,
+                "do you": 36,
+                "that 's": 34,
+                "of the": 33,
+                "you 're": 28,
+                "connected to": 25,
+                "what 's": 24,
+                "bone 's": 24,
+                "'s connected": 24,
+                "i 've": 23,
+                "i do": 23
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "connect to": 25,
+                    "look for": 18,
+                    "look at": 7,
+                    "look like": 7,
+                    "get out": 4,
+                    "go over": 4,
+                    "go on": 3,
+                    "go in": 3,
+                    "talk about": 3,
+                    "rid of": 3,
+                    "put on": 3,
+                    "need for": 3,
+                    "see in": 3,
+                    "get to": 3,
+                    "do with": 3
+                },
+                "top_15_adjective_noun": {
+                    "long story": 2,
+                    "more time": 2,
+                    "new story": 2,
+                    "free lance": 2,
+                    "lucky necklace": 2,
+                    "long time": 2,
+                    "many people": 2,
+                    "other ingredient": 2,
+                    "last time": 2,
+                    "next number": 2,
+                    "temporary card": 2,
+                    "good fisherman": 2,
+                    "big fish": 2,
+                    "nice try": 2,
+                    "good coffin": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "check out": 8,
+                    "come on": 5,
+                    "go on": 4,
+                    "hunt down": 3,
+                    "help out": 2,
+                    "find out": 2,
+                    "pick up": 2,
+                    "look out": 2,
+                    "lock up": 2,
+                    "set up": 2,
+                    "run off": 2,
+                    "turn up": 1,
+                    "rough up": 1,
+                    "get off": 1,
+                    "go down": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.149,
+            "mtld": 52.39,
+            "avg_sentence_length": 6.53,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.2027,
+            "top_10_oov": {
+                "adveture": 1,
+                "piraty": 1,
+                "peoplea": 1,
+                "rbought": 1,
+                "AIIEEE": 1,
+                "sugarbear": 1,
+                "honeycakes": 1,
+                "Snugglepuss": 1,
+                "Humpf": 1,
+                "Aiieee": 1
+            },
+            "true_oov_list": [
+                "AIIEEE",
+                "Aaaiiiiieeee",
+                "Aiieee",
+                "Alrightly",
+                "Arggggg",
+                "Humpf",
+                "Snugglepuss",
+                "adveture",
+                "cacklings",
+                "fearsom",
+                "ghack",
+                "honeycakes",
+                "menow",
+                "nameis",
+                "peoplea",
+                "piraty",
+                "quakin",
+                "rbought",
+                "sugarbear",
+                "tinkerings"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.57,
+            "density_excluding_proper_nouns": 39.85,
+            "proper_noun_density_contribution": 3.4154
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 6549,
+                    "unique_amount": 702,
+                    "total_percentage": 0.8041,
+                    "unique_percentage": 0.4154
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 740,
+                    "unique_amount": 382,
+                    "total_percentage": 0.0909,
+                    "unique_percentage": 0.226
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 381,
+                    "unique_amount": 240,
+                    "total_percentage": 0.0468,
+                    "unique_percentage": 0.142
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 204,
+                    "unique_amount": 153,
+                    "total_percentage": 0.025,
+                    "unique_percentage": 0.0905
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 18,
+                    "unique_amount": 17,
+                    "total_percentage": 0.0022,
+                    "unique_percentage": 0.0101
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 213,
+                    "unique_amount": 157,
+                    "total_percentage": 0.0262,
+                    "unique_percentage": 0.0929
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 40,
+                    "unique_amount": 39,
+                    "total_percentage": 0.0049,
+                    "unique_percentage": 0.0231
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 8145,
+                    "unique_amount": 1690,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "pirate": 15,
+                "rib": 13
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "voodoo": 15
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2313,
+                    "learned": 102,
+                    "unique": 441,
+                    "top_repeated_lemmas": {
+                        "you": 395,
+                        "i": 311,
+                        "the": 309,
+                        "be": 262,
+                        "to": 261
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0197,
+                    "learned": 6,
+                    "unique": 304,
+                    "top_repeated_lemmas": {
+                        "so": 27,
+                        "treasure": 23,
+                        "more": 20,
+                        "need": 19,
+                        "off": 17
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0045,
+                    "learned": 1,
+                    "unique": 220,
+                    "top_repeated_lemmas": {
+                        "connect": 25
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0142,
+                    "learned": 2,
+                    "unique": 141,
+                    "top_repeated_lemmas": {
+                        "pirate": 15,
+                        "rib": 13
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 17,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0067,
+                    "learned": 1,
+                    "unique": 149,
+                    "top_repeated_lemmas": {
+                        "voodoo": 15
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 862,
+                "A2": 734,
+                "B1": 33
+            },
+            "percentages": {
+                "A1": 0.5292,
+                "A2": 0.4506,
+                "B1": 0.0203
+            }
+        }
+    }
+}

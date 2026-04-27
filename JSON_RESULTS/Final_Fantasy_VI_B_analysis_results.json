@@ -1,0 +1,394 @@
+{
+    "game_info": {
+        "title": "Final Fantasy VI",
+        "series": "Final Fantasy",
+        "year": 1994,
+        "source": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VI_SNES_script",
+        "source_features": null,
+        "total_lines_extracted": 8028
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 101.14,
+            "flesch_kincaid_grade": -0.18,
+            "smog_index": 4.85,
+            "dale_chall_score": 6.81,
+            "word_count": 74038
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0992,
+            "subordinate_clauses_per_sentence": 0.1463,
+            "conditionals_per_sentence": 0.024
+        },
+        "register": {
+            "slang_density_percentage": 0.7899
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.4137,
+            "top_20_lemmas": {
+                "go": 338,
+                "come": 294,
+                "like": 254,
+                "let": 252,
+                "right": 244,
+                "world": 234,
+                "select": 232,
+                "look": 222,
+                "know": 202,
+                "think": 202,
+                "power": 184,
+                "time": 176,
+                "leave": 170,
+                "want": 158,
+                "hear": 156,
+                "way": 152,
+                "ha": 152,
+                "find": 146,
+                "happen": 142,
+                "need": 134
+            },
+            "top_15_bigrams": {
+                "i 'm": 388,
+                "the empire": 272,
+                "do n't": 248,
+                "you 're": 248,
+                "to the": 218,
+                "upon selecting": 214,
+                "it 's": 210,
+                "i 'll": 198,
+                "of the": 190,
+                "ca n't": 178,
+                "let 's": 156,
+                "in the": 150,
+                "the world": 150,
+                "on the": 132,
+                "this is": 130
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look like": 46,
+                    "talk to": 44,
+                    "happen to": 40,
+                    "base on": 36,
+                    "come to": 34,
+                    "go to": 34,
+                    "come with": 28,
+                    "wait for": 26,
+                    "live in": 24,
+                    "look for": 22,
+                    "come from": 20,
+                    "look at": 20,
+                    "speak to": 20,
+                    "think of": 20,
+                    "depend on": 18
+                },
+                "top_15_adjective_noun": {
+                    "old man": 24,
+                    "magical power": 22,
+                    "splendid chest": 16,
+                    "imperial soldier": 14,
+                    "rich man": 14,
+                    "possible interest": 12,
+                    "shiny thing": 10,
+                    "human girl": 10,
+                    "non content": 10,
+                    "- content": 10,
+                    "advertising content": 10,
+                    "young woman": 8,
+                    "imperial troop": 8,
+                    "magic attack": 8,
+                    "many soldier": 8
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 32,
+                    "give up": 26,
+                    "go on": 26,
+                    "look out": 12,
+                    "pick up": 12,
+                    "welcome back": 12,
+                    "wake up": 10,
+                    "grow up": 8,
+                    "take off": 8,
+                    "get off": 8,
+                    "shut up": 8,
+                    "go in": 8,
+                    "pass away": 8,
+                    "move out": 6,
+                    "make up": 6
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0413,
+            "mtld": 63.17,
+            "avg_sentence_length": 6.31,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1611,
+            "top_10_oov": {
+                "Uwaaa": 12,
+                "Urgggh": 8,
+                "Magitek": 6,
+                "Uwee": 6,
+                "Shuddap": 4,
+                "Yeeeouch": 4,
+                "uhnn": 4,
+                "puuh": 4,
+                "Uwaaaaaaa": 2,
+                "Ackk": 2
+            },
+            "true_oov_list": [
+                "Ackk",
+                "Albrook",
+                "Awoooo",
+                "Bluuurp",
+                "Dddddddid",
+                "Fungahhh",
+                "Fwa",
+                "Hackack",
+                "Hurumph",
+                "Magitek",
+                "Narshe",
+                "Nikeah",
+                "Ouuuch",
+                "Pswswswsw",
+                "QSSI",
+                "Shuddap",
+                "Tzen",
+                "Uhnn",
+                "Unhh",
+                "Uooh",
+                "Urggggh",
+                "Urgggh",
+                "Uwa",
+                "Uwaaa",
+                "Uwaaaaaa",
+                "Uwaaaaaaa",
+                "Uwaaoo",
+                "Uwaooo",
+                "Uwee",
+                "Yaaaouch",
+                "Yaaooouch",
+                "Yahoooo",
+                "Yeeeouch",
+                "aooh",
+                "fffatherrr",
+                "gurururu",
+                "heeeeeres",
+                "magitek",
+                "onta",
+                "pswswswsw",
+                "puuh",
+                "squeakin",
+                "squidball",
+                "uhnn",
+                "unnnh",
+                "uwaooo",
+                "whadduya"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 48.58,
+            "density_excluding_proper_nouns": 41.16,
+            "proper_noun_density_contribution": 5.0592
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 50855,
+                    "unique_amount": 1429,
+                    "total_percentage": 0.7856,
+                    "unique_percentage": 0.3299
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 6865,
+                    "unique_amount": 1054,
+                    "total_percentage": 0.1061,
+                    "unique_percentage": 0.2434
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3706,
+                    "unique_amount": 806,
+                    "total_percentage": 0.0573,
+                    "unique_percentage": 0.1861
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1696,
+                    "unique_amount": 496,
+                    "total_percentage": 0.0262,
+                    "unique_percentage": 0.1145
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 199,
+                    "unique_amount": 62,
+                    "total_percentage": 0.0031,
+                    "unique_percentage": 0.0143
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1113,
+                    "unique_amount": 387,
+                    "total_percentage": 0.0172,
+                    "unique_percentage": 0.0894
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 298,
+                    "unique_amount": 97,
+                    "total_percentage": 0.0046,
+                    "unique_percentage": 0.0224
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 64732,
+                    "unique_amount": 4331,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "select": 64,
+                "seal": 34,
+                "cough": 28,
+                "mama": 28,
+                "relic": 26,
+                "energy": 22,
+                "odd": 22,
+                "trooper": 22,
+                "troop": 20,
+                "splendid": 20,
+                "profile": 20,
+                "glow": 18,
+                "equip": 18,
+                "user": 16,
+                "drain": 16,
+                "italicize": 14,
+                "ally": 14,
+                "master": 14,
+                "flee": 14,
+                "priority": 14,
+                "datum": 14,
+                "attribute": 12,
+                "idiot": 12,
+                "tough": 12,
+                "rip": 12,
+                "traitor": 12,
+                "realm": 12,
+                "smash": 12
+            },
+            "c1_learned_vocab": {
+                "dragon": 26,
+                "thou": 15,
+                "auction": 12
+            },
+            "c2_learned_vocab": {
+                "cider": 18,
+                "interceptor": 18,
+                "hack": 14,
+                "colosseum": 14,
+                "thou": 13,
+                "liege": 12,
+                "wheeze": 12,
+                "munch": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.5554,
+                    "learned": 381,
+                    "unique": 686,
+                    "top_repeated_lemmas": {
+                        "the": 3102,
+                        "be": 2442,
+                        "you": 2264,
+                        "to": 2202,
+                        "i": 2136
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.2214,
+                    "learned": 151,
+                    "unique": 682,
+                    "top_repeated_lemmas": {
+                        "power": 186,
+                        "magic": 120,
+                        "other": 110,
+                        "human": 96,
+                        "more": 94
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.112,
+                    "learned": 68,
+                    "unique": 607,
+                    "top_repeated_lemmas": {
+                        "select": 168,
+                        "battle": 94,
+                        "monster": 64,
+                        "general": 58,
+                        "press": 56
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0678,
+                    "learned": 28,
+                    "unique": 413,
+                    "top_repeated_lemmas": {
+                        "select": 64,
+                        "seal": 34,
+                        "cough": 28,
+                        "mama": 28,
+                        "relic": 26
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0545,
+                    "learned": 3,
+                    "unique": 55,
+                    "top_repeated_lemmas": {
+                        "dragon": 26,
+                        "thou": 15,
+                        "auction": 12
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0226,
+                    "learned": 8,
+                    "unique": 354,
+                    "top_repeated_lemmas": {
+                        "cider": 18,
+                        "interceptor": 18,
+                        "hack": 14,
+                        "colosseum": 14,
+                        "thou": 13
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 7732,
+                "A2": 5518,
+                "B1": 646,
+                "B2": 34
+            },
+            "percentages": {
+                "A1": 0.5551,
+                "A2": 0.3961,
+                "B1": 0.0464,
+                "B2": 0.0024
+            }
+        }
+    }
+}

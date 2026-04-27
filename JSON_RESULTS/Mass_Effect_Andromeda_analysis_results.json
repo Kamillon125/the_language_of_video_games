@@ -1,0 +1,322 @@
+{
+    "game_info": {
+        "title": "Mass Effect: Andromeda",
+        "series": "Mass Effect",
+        "year": 2017,
+        "source": "http://www.masseffectlore.com/transcripts/mass-effect-andromeda-transcripts/",
+        "source_features": null,
+        "total_lines_extracted": 1477
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 95.42,
+            "flesch_kincaid_grade": 1.34,
+            "smog_index": 6.09,
+            "dale_chall_score": 7.12,
+            "word_count": 17295
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.095,
+            "subordinate_clauses_per_sentence": 0.2016,
+            "conditionals_per_sentence": 0.0337
+        },
+        "register": {
+            "slang_density_percentage": 0.1421
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 10.0552,
+            "top_20_lemmas": {
+                "know": 75,
+                "like": 67,
+                "get": 62,
+                "good": 61,
+                "need": 60,
+                "look": 56,
+                "think": 54,
+                "right": 53,
+                "want": 52,
+                "find": 49,
+                "go": 46,
+                "people": 45,
+                "let": 41,
+                "way": 39,
+                "maybe": 36,
+                "ark": 34,
+                "sure": 34,
+                "thing": 33,
+                "work": 33,
+                "year": 31
+            },
+            "top_15_bigrams": {
+                "it 's": 109,
+                "do n't": 85,
+                "i 'm": 73,
+                "we 're": 70,
+                "of the": 58,
+                "in the": 46,
+                "that 's": 41,
+                "you 're": 39,
+                "this is": 38,
+                "on the": 38,
+                "the nexus": 37,
+                "to the": 36,
+                "i do": 32,
+                "we 'll": 30,
+                "let 's": 28
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "talk to": 11,
+                    "look like": 9,
+                    "get to": 8,
+                    "look for": 7,
+                    "wait for": 6,
+                    "know about": 6,
+                    "see on": 6,
+                    "move to": 6,
+                    "start with": 5,
+                    "do with": 5,
+                    "look at": 5,
+                    "happen to": 5,
+                    "see for": 5,
+                    "deal with": 5,
+                    "select as": 4
+                },
+                "top_15_adjective_noun": {
+                    "golden world": 11,
+                    "good luck": 9,
+                    "new galaxy": 6,
+                    "new home": 5,
+                    "good job": 5,
+                    "other ark": 5,
+                    "long way": 5,
+                    "deep breath": 4,
+                    "weird machine": 4,
+                    "alien machine": 4,
+                    "turian ark": 4,
+                    "potential planet": 3,
+                    "habitable planet": 3,
+                    "high ratio": 3,
+                    "potential candidate": 3
+                },
+                "top_15_phrasal_verbs": {
+                    "check out": 11,
+                    "come on": 8,
+                    "wake up": 7,
+                    "go on": 7,
+                    "find out": 6,
+                    "hang on": 5,
+                    "work out": 4,
+                    "move on": 4,
+                    "knock out": 3,
+                    "run out": 3,
+                    "give up": 3,
+                    "figure out": 3,
+                    "take out": 3,
+                    "set up": 3,
+                    "spin up": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1231,
+            "mtld": 81.73,
+            "avg_sentence_length": 7.09,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1148,
+            "top_10_oov": {
+                "navpoint": 4,
+                "Niad": 2,
+                "Ionisation": 1,
+                "shurid": 1,
+                "sarhos": 1,
+                "gosad": 1,
+                "todsurhanad": 1,
+                "lurok": 1,
+                "Nyro": 1,
+                "rekhet": 1
+            },
+            "true_oov_list": [
+                "Ionisation",
+                "Kellus",
+                "Niad",
+                "Nyro",
+                "QEC",
+                "Taila",
+                "Tolerad",
+                "gosad",
+                "lurok",
+                "malfuction",
+                "navpoint",
+                "ossilbir",
+                "pathfound",
+                "rekhet",
+                "sarhos",
+                "shurid",
+                "todsurhanad"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 47.03,
+            "density_excluding_proper_nouns": 41.93,
+            "proper_noun_density_contribution": 3.5193
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 12120,
+                    "unique_amount": 974,
+                    "total_percentage": 0.7602,
+                    "unique_percentage": 0.3294
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1817,
+                    "unique_amount": 754,
+                    "total_percentage": 0.114,
+                    "unique_percentage": 0.255
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 930,
+                    "unique_amount": 553,
+                    "total_percentage": 0.0583,
+                    "unique_percentage": 0.187
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 606,
+                    "unique_amount": 377,
+                    "total_percentage": 0.038,
+                    "unique_percentage": 0.1275
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 82,
+                    "unique_amount": 47,
+                    "total_percentage": 0.0051,
+                    "unique_percentage": 0.0159
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 305,
+                    "unique_amount": 206,
+                    "total_percentage": 0.0191,
+                    "unique_percentage": 0.0697
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 83,
+                    "unique_amount": 46,
+                    "total_percentage": 0.0052,
+                    "unique_percentage": 0.0156
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 15943,
+                    "unique_amount": 2957,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C1",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "scan": 21,
+                "alien": 18,
+                "energy": 13,
+                "colonist": 12
+            },
+            "c1_learned_vocab": {
+                "shuttle": 18
+            },
+            "c2_learned_vocab": {
+                "ark": 34,
+                "galaxy": 16
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.281,
+                    "learned": 154,
+                    "unique": 548,
+                    "top_repeated_lemmas": {
+                        "the": 769,
+                        "be": 608,
+                        "we": 451,
+                        "to": 444,
+                        "it": 398
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0477,
+                    "learned": 24,
+                    "unique": 503,
+                    "top_repeated_lemmas": {
+                        "need": 60,
+                        "more": 46,
+                        "other": 41,
+                        "up": 31,
+                        "still": 31
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0021,
+                    "learned": 1,
+                    "unique": 474,
+                    "top_repeated_lemmas": {
+                        "security": 18
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0127,
+                    "learned": 4,
+                    "unique": 316,
+                    "top_repeated_lemmas": {
+                        "scan": 21,
+                        "alien": 18,
+                        "energy": 13,
+                        "colonist": 12
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0233,
+                    "learned": 1,
+                    "unique": 43,
+                    "top_repeated_lemmas": {
+                        "shuttle": 18
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0107,
+                    "learned": 2,
+                    "unique": 187,
+                    "top_repeated_lemmas": {
+                        "ark": 34,
+                        "galaxy": 16
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1415,
+                "A2": 1133,
+                "B1": 207,
+                "B2": 12
+            },
+            "percentages": {
+                "A1": 0.5114,
+                "A2": 0.4095,
+                "B1": 0.0748,
+                "B2": 0.0043
+            }
+        }
+    }
+}

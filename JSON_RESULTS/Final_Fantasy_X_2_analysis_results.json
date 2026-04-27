@@ -1,0 +1,467 @@
+{
+    "game_info": {
+        "title": "Final Fantasy X-2",
+        "series": "Final Fantasy",
+        "year": 2003,
+        "source": "https://www.ffcompendium.com/h/faqs/ffx2scriptaschthehated.txt",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "partial"
+        },
+        "total_lines_extracted": 3199
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 101.24,
+            "flesch_kincaid_grade": 0.34,
+            "smog_index": 5.33,
+            "dale_chall_score": 6.86,
+            "word_count": 32404
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0816,
+            "subordinate_clauses_per_sentence": 0.1691,
+            "conditionals_per_sentence": 0.0232
+        },
+        "register": {
+            "slang_density_percentage": 0.7342
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 9.214,
+            "top_20_lemmas": {
+                "let": 155,
+                "like": 155,
+                "sphere": 154,
+                "right": 141,
+                "know": 140,
+                "think": 136,
+                "look": 117,
+                "get": 116,
+                "go": 115,
+                "come": 114,
+                "time": 100,
+                "want": 99,
+                "find": 91,
+                "thing": 90,
+                "oh": 86,
+                "good": 80,
+                "fiend": 78,
+                "hey": 77,
+                "way": 76,
+                "machina": 74
+            },
+            "top_15_bigrams": {
+                "it 's": 171,
+                "do n't": 147,
+                "i 'm": 123,
+                "that 's": 103,
+                "you 're": 96,
+                "let 's": 91,
+                "we 're": 77,
+                "of the": 63,
+                "this is": 62,
+                "lady yuna": 62,
+                "ca n't": 57,
+                "i do": 57,
+                "i 'll": 55,
+                "youth league": 54,
+                "in the": 52
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 18,
+                    "talk about": 17,
+                    "look at": 15,
+                    "look like": 14,
+                    "happen to": 11,
+                    "return to": 11,
+                    "look for": 11,
+                    "come from": 10,
+                    "get in": 9,
+                    "sound like": 9,
+                    "worry about": 8,
+                    "take of": 8,
+                    "leave to": 8,
+                    "talk to": 8,
+                    "think about": 7
+                },
+                "top_15_adjective_noun": {
+                    "high summoner": 12,
+                    "good luck": 9,
+                    "next time": 6,
+                    "sacred ground": 5,
+                    "good girl": 5,
+                    "only thing": 4,
+                    "next show": 4,
+                    "eerie voice": 4,
+                    "great idea": 4,
+                    "recent string": 4,
+                    "runaway drone": 4,
+                    "guilty party": 4,
+                    "little girl": 3,
+                    "incoming datum": 3,
+                    "next stop": 3
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 16,
+                    "go on": 14,
+                    "make up": 10,
+                    "give back": 9,
+                    "shut up": 8,
+                    "pick up": 8,
+                    "come in": 6,
+                    "find out": 6,
+                    "help out": 6,
+                    "move out": 6,
+                    "check out": 6,
+                    "figure out": 5,
+                    "show up": 5,
+                    "get out": 5,
+                    "keep up": 4
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0828,
+            "mtld": 66.63,
+            "avg_sentence_length": 6.39,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.5909,
+            "top_10_oov": {
+                "dressphere": 6,
+                "Fryd": 5,
+                "Gullwings": 5,
+                "cactuars": 4,
+                "drec": 3,
+                "shoopuf": 3,
+                "Ronso": 3,
+                "Ehlusehk": 2,
+                "tydy": 2,
+                "Disasterrific": 2
+            },
+            "true_oov_list": [
+                "Aqlica",
+                "Disasterrific",
+                "Duu",
+                "Ehlusehk",
+                "Famlusa",
+                "Femm",
+                "Fryd",
+                "Guadosalam",
+                "Gullwings",
+                "Hiyaaa",
+                "Ihdem",
+                "Kinderguardians",
+                "Marnela",
+                "Oac",
+                "Puo",
+                "Pyreflies",
+                "Rehearshal",
+                "Rogerrrrr",
+                "Ronso",
+                "Shpeak",
+                "Shplendid",
+                "Tyhkan",
+                "Tyrkih",
+                "Uha",
+                "Yeowch",
+                "Yevon",
+                "Yht",
+                "Ymm",
+                "Ynkr",
+                "Youshow",
+                "ajanouha",
+                "anudder",
+                "aycemo",
+                "ayco",
+                "backshide",
+                "bellyachin",
+                "bemudehk",
+                "blitzballs",
+                "bmuddehk",
+                "cactuars",
+                "cbrana",
+                "cduns",
+                "cdunsc",
+                "cekhym",
+                "cibanfaybuh",
+                "cmuf",
+                "comapaplicated",
+                "conshert",
+                "cryba",
+                "cunno",
+                "cyoehk",
+                "danshing",
+                "deshtiny",
+                "disasterrific",
+                "dneat",
+                "draca",
+                "drao",
+                "drec",
+                "drehgehk",
+                "dressphere",
+                "dresspheres",
+                "druikrd",
+                "dryd",
+                "dryhg",
+                "dyga",
+                "dygam",
+                "ehdanjeafat",
+                "fedr",
+                "fedreh",
+                "feshtibble",
+                "firsht",
+                "forewoman",
+                "forrit",
+                "frah",
+                "fryd",
+                "funneac",
+                "fyedehk",
+                "fyja",
+                "fyo",
+                "gatecrashers",
+                "ghuf",
+                "ghufehk",
+                "hanjuic",
+                "hurtfest",
+                "kadc",
+                "kiacc",
+                "kmyt",
+                "kuut",
+                "kyootzie",
+                "lmycc",
+                "luhcdnildeuh",
+                "luhdhym",
+                "luhdnum",
+                "luimt",
+                "luinca",
+                "lusbmada",
+                "lyh",
+                "meyvn",
+                "milg",
+                "mishing",
+                "muca",
+                "musishun",
+                "musishuns",
+                "nacaynlr",
+                "nakeuhc",
+                "nameav",
+                "nayto",
+                "oscillo",
+                "piemd",
+                "pnayg",
+                "pylg",
+                "pymteac",
+                "ryda",
+                "ryhtma",
+                "ryja",
+                "sekrd",
+                "sheeking",
+                "shellabebration",
+                "shight",
+                "shishter",
+                "shituation",
+                "shnack",
+                "shong",
+                "shoopuf",
+                "shpectatators",
+                "shpeshalty",
+                "shtarting",
+                "shtop",
+                "shunny",
+                "shweetie",
+                "silr",
+                "smasheriffic",
+                "swarmin",
+                "sweetcakes",
+                "sygehk",
+                "syh",
+                "syta",
+                "taab",
+                "tadaldat",
+                "tadyemc",
+                "tnub",
+                "trubbable",
+                "twaddled",
+                "tydy",
+                "tyoc",
+                "uhmo",
+                "vekrdehk",
+                "videma",
+                "vunafusyh",
+                "wootzie",
+                "xiead",
+                "xied",
+                "ycgat",
+                "yenrayt",
+                "yfacusa",
+                "yhaf",
+                "yhymocec",
+                "ymm",
+                "ymnayto",
+                "ypuid",
+                "zipall"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 47.15,
+            "density_excluding_proper_nouns": 40.23,
+            "proper_noun_density_contribution": 5.9672
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 22676,
+                    "unique_amount": 1223,
+                    "total_percentage": 0.7987,
+                    "unique_percentage": 0.3304
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 2812,
+                    "unique_amount": 904,
+                    "total_percentage": 0.099,
+                    "unique_percentage": 0.2442
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1400,
+                    "unique_amount": 639,
+                    "total_percentage": 0.0493,
+                    "unique_percentage": 0.1726
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 520,
+                    "unique_amount": 356,
+                    "total_percentage": 0.0183,
+                    "unique_percentage": 0.0962
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 65,
+                    "unique_amount": 49,
+                    "total_percentage": 0.0023,
+                    "unique_percentage": 0.0132
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 615,
+                    "unique_amount": 301,
+                    "total_percentage": 0.0217,
+                    "unique_percentage": 0.0813
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 304,
+                    "unique_amount": 230,
+                    "total_percentage": 0.0107,
+                    "unique_percentage": 0.0621
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 28392,
+                    "unique_amount": 3702,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "hover": 47
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "machina": 82,
+                "fiend": 78,
+                "summoner": 28
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.398,
+                    "learned": 240,
+                    "unique": 603,
+                    "top_repeated_lemmas": {
+                        "be": 1221,
+                        "the": 1080,
+                        "you": 1030,
+                        "to": 946,
+                        "i": 790
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0895,
+                    "learned": 52,
+                    "unique": 581,
+                    "top_repeated_lemmas": {
+                        "so": 172,
+                        "more": 58,
+                        "still": 56,
+                        "off": 47,
+                        "hunter": 38
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0156,
+                    "learned": 8,
+                    "unique": 514,
+                    "top_repeated_lemmas": {
+                        "sphere": 154,
+                        "narrate": 65,
+                        "suppose": 28,
+                        "lead": 16,
+                        "able": 13
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0032,
+                    "learned": 1,
+                    "unique": 311,
+                    "top_repeated_lemmas": {
+                        "hover": 47
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 42,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0108,
+                    "learned": 3,
+                    "unique": 278,
+                    "top_repeated_lemmas": {
+                        "machina": 82,
+                        "fiend": 78,
+                        "summoner": 28
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 3097,
+                "A2": 2417,
+                "B1": 327,
+                "B2": 3
+            },
+            "percentages": {
+                "A1": 0.5299,
+                "A2": 0.4136,
+                "B1": 0.056,
+                "B2": 0.0005
+            }
+        }
+    }
+}

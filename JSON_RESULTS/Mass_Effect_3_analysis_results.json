@@ -1,0 +1,342 @@
+{
+    "game_info": {
+        "title": "Mass Effect 3",
+        "series": "Mass Effect",
+        "year": 2012,
+        "source": "https://docs.google.com/document/pub?id=1O5sjL4pL0bTs1MNSmsrhAE-4WTTeE0foicqJrHpiOOg#h.n8e48vc5s8nz",
+        "source_features": null,
+        "total_lines_extracted": 1121
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 94.35,
+            "flesch_kincaid_grade": 1.45,
+            "smog_index": 6.12,
+            "dale_chall_score": 7.4,
+            "word_count": 49615
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0734,
+            "subordinate_clauses_per_sentence": 0.2054,
+            "conditionals_per_sentence": 0.035
+        },
+        "register": {
+            "slang_density_percentage": 0.5315
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.4671,
+            "top_20_lemmas": {
+                "shepard": 900,
+                "know": 344,
+                "like": 242,
+                "think": 241,
+                ">": 227,
+                "good": 214,
+                "go": 183,
+                "time": 182,
+                "get": 174,
+                "want": 174,
+                "right": 153,
+                "need": 142,
+                "come": 138,
+                "thing": 130,
+                "yeah": 128,
+                "let": 110,
+                "look": 105,
+                "people": 102,
+                "war": 101,
+                "sure": 100
+            },
+            "top_15_bigrams": {
+                "> >": 410,
+                "i 'm": 349,
+                "it 's": 253,
+                "do n't": 248,
+                "> shepard": 203,
+                "you 're": 196,
+                "shepard i": 177,
+                "that 's": 140,
+                "the reapers": 134,
+                "i do": 121,
+                "i 've": 107,
+                "shepard you": 107,
+                "ca n't": 105,
+                "but i": 98,
+                "did n't": 96
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "think about": 27,
+                    "talk to": 24,
+                    "talk about": 21,
+                    "look for": 15,
+                    "look at": 15,
+                    "do to": 14,
+                    "get out": 14,
+                    "think of": 14,
+                    "work with": 13,
+                    "tell about": 12,
+                    "see in": 12,
+                    "do with": 12,
+                    "go to": 11,
+                    "hear about": 11,
+                    "care about": 10
+                },
+                "top_15_adjective_noun": {
+                    "next time": 13,
+                    "last time": 9,
+                    "good thing": 7,
+                    "good luck": 7,
+                    "good time": 7,
+                    "good soldier": 6,
+                    "few year": 6,
+                    "first time": 6,
+                    "more time": 6,
+                    "illusive man": 6,
+                    "few thing": 5,
+                    "good friend": 5,
+                    "right thing": 5,
+                    "same thing": 4,
+                    "only thing": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 17,
+                    "go on": 14,
+                    "take down": 10,
+                    "find out": 10,
+                    "take out": 9,
+                    "stand down": 8,
+                    "pick up": 7,
+                    "catch up": 7,
+                    "figure out": 7,
+                    "take over": 6,
+                    "get out": 6,
+                    "work out": 6,
+                    "give up": 6,
+                    "wipe out": 6,
+                    "make up": 5
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0764,
+            "mtld": 59.17,
+            "avg_sentence_length": 7.27,
+            "median_sentence_length": 6.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1301,
+            "top_10_oov": {
+                "Aethyta": 20,
+                "Chakwas": 7,
+                "Udina": 5,
+                "Wreav": 4,
+                "Kurin": 4,
+                "eezo": 3,
+                "vorcha": 3,
+                "nonfunctionality": 3,
+                "batarians": 3,
+                "Morinth": 3
+            },
+            "true_oov_list": [
+                "Aethyta",
+                "Chakwas",
+                "Javik",
+                "Kurin",
+                "Morinth",
+                "Noveria",
+                "Transhumans",
+                "Udina",
+                "Wreav",
+                "batarians",
+                "datafeeds",
+                "dextros",
+                "disserve",
+                "eezo",
+                "graybox",
+                "liveships",
+                "microframe",
+                "nonfunctionality",
+                "pyjaks",
+                "sapients",
+                "tableup",
+                "tightbeam",
+                "vorcha"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.99,
+            "density_excluding_proper_nouns": 40.58,
+            "proper_noun_density_contribution": 6.277
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 34240,
+                    "unique_amount": 1473,
+                    "total_percentage": 0.7992,
+                    "unique_percentage": 0.2976
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 4221,
+                    "unique_amount": 1201,
+                    "total_percentage": 0.0985,
+                    "unique_percentage": 0.2427
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 2058,
+                    "unique_amount": 1047,
+                    "total_percentage": 0.048,
+                    "unique_percentage": 0.2116
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1099,
+                    "unique_amount": 619,
+                    "total_percentage": 0.0257,
+                    "unique_percentage": 0.1251
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 124,
+                    "unique_amount": 79,
+                    "total_percentage": 0.0029,
+                    "unique_percentage": 0.016
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 685,
+                    "unique_amount": 437,
+                    "total_percentage": 0.016,
+                    "unique_percentage": 0.0883
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 418,
+                    "unique_amount": 93,
+                    "total_percentage": 0.0098,
+                    "unique_percentage": 0.0188
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 42845,
+                    "unique_amount": 4949,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "hell": 46,
+                "damn": 33,
+                "commander": 25,
+                "crew": 21,
+                "ass": 19,
+                "specie": 18,
+                "fleet": 16,
+                "datum": 16,
+                "core": 12
+            },
+            "c1_learned_vocab": {
+                "shuttle": 20
+            },
+            "c2_learned_vocab": {
+                "galaxy": 43,
+                "joker": 40,
+                "biotic": 13
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4009,
+                    "learned": 275,
+                    "unique": 686,
+                    "top_repeated_lemmas": {
+                        "you": 1775,
+                        "the": 1728,
+                        "be": 1671,
+                        "to": 1447,
+                        "i": 1358
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.116,
+                    "learned": 84,
+                    "unique": 724,
+                    "top_repeated_lemmas": {
+                        "need": 141,
+                        "more": 115,
+                        "still": 81,
+                        "lose": 56,
+                        "even": 55
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0224,
+                    "learned": 18,
+                    "unique": 805,
+                    "top_repeated_lemmas": {
+                        "mission": 31,
+                        "least": 23,
+                        "rest": 23,
+                        "though": 23,
+                        "bomb": 18
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0178,
+                    "learned": 9,
+                    "unique": 506,
+                    "top_repeated_lemmas": {
+                        "hell": 46,
+                        "damn": 33,
+                        "commander": 25,
+                        "crew": 21,
+                        "ass": 19
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0147,
+                    "learned": 1,
+                    "unique": 68,
+                    "top_repeated_lemmas": {
+                        "shuttle": 20
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0077,
+                    "learned": 3,
+                    "unique": 388,
+                    "top_repeated_lemmas": {
+                        "galaxy": 43,
+                        "joker": 40,
+                        "biotic": 13
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 3166,
+                "A2": 3987,
+                "B1": 450,
+                "B2": 5,
+                "C1": 1
+            },
+            "percentages": {
+                "A1": 0.4161,
+                "A2": 0.524,
+                "B1": 0.0591,
+                "B2": 0.0007,
+                "C1": 0.0001
+            }
+        }
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "game_info": {
+        "title": "Final Fantasy II",
+        "series": "Final Fantasy",
+        "year": 1988,
+        "source": "https://gamefaqs.gamespot.com/ps/916670-final-fantasy-ii/faqs/61436",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "complete",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 794
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 99.85,
+            "flesch_kincaid_grade": 0.72,
+            "smog_index": 5.27,
+            "dale_chall_score": 6.76,
+            "word_count": 8749
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1485,
+            "subordinate_clauses_per_sentence": 0.1862,
+            "conditionals_per_sentence": 0.021
+        },
+        "register": {
+            "slang_density_percentage": 0.2526
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 5.2724,
+            "top_20_lemmas": {
+                "know": 45,
+                "come": 44,
+                "emperor": 42,
+                "go": 33,
+                "empire": 31,
+                "hear": 29,
+                "airship": 26,
+                "let": 24,
+                "thank": 23,
+                "princess": 23,
+                "die": 23,
+                "imperial": 22,
+                "return": 22,
+                "leave": 20,
+                "rebel": 20,
+                "destroy": 20,
+                "find": 19,
+                "oh": 19,
+                "army": 19,
+                "good": 17
+            },
+            "top_15_bigrams": {
+                "the dreadnought": 47,
+                "to the": 37,
+                "the emperor": 35,
+                "the empire": 31,
+                "in the": 29,
+                "do n't": 29,
+                "of the": 29,
+                "i 'm": 27,
+                "i am": 26,
+                "it is": 26,
+                "this is": 22,
+                "on the": 21,
+                "you 're": 19,
+                "is the": 19,
+                "princess hilda": 19
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 17,
+                    "take to": 13,
+                    "come to": 6,
+                    "take in": 6,
+                    "take of": 6,
+                    "look for": 6,
+                    "thank for": 5,
+                    "happen to": 5,
+                    "speak to": 4,
+                    "return to": 4,
+                    "speak with": 4,
+                    "come with": 4,
+                    "return from": 4,
+                    "find on": 3,
+                    "leave for": 3
+                },
+                "top_15_adjective_noun": {
+                    "imperial army": 12,
+                    "rebel force": 9,
+                    "imperial soldier": 7,
+                    "rebel army": 3,
+                    "long way": 2,
+                    "only airship": 2,
+                    "blue rock": 2,
+                    "first level": 2,
+                    "good job": 2,
+                    "safe return": 2,
+                    "real princess": 2,
+                    "great hall": 2,
+                    "hidden door": 2,
+                    "next emperor": 2,
+                    "imperial order": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "blow up": 4,
+                    "give up": 3,
+                    "hold up": 3,
+                    "keep up": 2,
+                    "bring back": 2,
+                    "take over": 2,
+                    "come on": 2,
+                    "go on": 2,
+                    "pull off": 2,
+                    "make out": 1,
+                    "get up": 1,
+                    "give out": 1,
+                    "report back": 1,
+                    "make up": 1,
+                    "help out": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1332,
+            "mtld": 61.89,
+            "avg_sentence_length": 7.64,
+            "median_sentence_length": 7.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1757,
+            "top_10_oov": {
+                "snowcraft": 3,
+                "rewin": 3,
+                "Paloom": 1,
+                "Mooooove": 1,
+                "snowlands": 1,
+                "sparin": 1,
+                "Rrgh": 1,
+                "princey": 1,
+                "understructure": 1,
+                "rewon": 1
+            },
+            "true_oov_list": [
+                "Mooooove",
+                "Paloom",
+                "Rrgh",
+                "Rrraaaagh",
+                "Rrrraaaaagh",
+                "princey",
+                "rewin",
+                "rewon",
+                "snowcraft",
+                "snowlands",
+                "sparin",
+                "understructure"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.52,
+            "density_excluding_proper_nouns": 37.75,
+            "proper_noun_density_contribution": 7.2715
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 5975,
+                    "unique_amount": 616,
+                    "total_percentage": 0.7877,
+                    "unique_percentage": 0.4082
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 798,
+                    "unique_amount": 389,
+                    "total_percentage": 0.1052,
+                    "unique_percentage": 0.2578
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 435,
+                    "unique_amount": 252,
+                    "total_percentage": 0.0574,
+                    "unique_percentage": 0.167
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 215,
+                    "unique_amount": 135,
+                    "total_percentage": 0.0283,
+                    "unique_percentage": 0.0895
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 24,
+                    "unique_amount": 16,
+                    "total_percentage": 0.0032,
+                    "unique_percentage": 0.0106
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 108,
+                    "unique_amount": 78,
+                    "total_percentage": 0.0142,
+                    "unique_percentage": 0.0517
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 30,
+                    "unique_amount": 23,
+                    "total_percentage": 0.004,
+                    "unique_percentage": 0.0152
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 7585,
+                    "unique_amount": 1509,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "imperial": 22,
+                "rebel": 21
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2237,
+                    "learned": 87,
+                    "unique": 389,
+                    "top_repeated_lemmas": {
+                        "the": 527,
+                        "be": 407,
+                        "you": 309,
+                        "to": 296,
+                        "i": 193
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.028,
+                    "learned": 8,
+                    "unique": 286,
+                    "top_repeated_lemmas": {
+                        "die": 24,
+                        "return": 22,
+                        "destroy": 20,
+                        "up": 18,
+                        "castle": 15
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0138,
+                    "learned": 3,
+                    "unique": 217,
+                    "top_repeated_lemmas": {
+                        "empire": 31,
+                        "army": 19,
+                        "monster": 14
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0169,
+                    "learned": 2,
+                    "unique": 118,
+                    "top_repeated_lemmas": {
+                        "imperial": 22,
+                        "rebel": 21
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 14,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 76,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 586,
+                "A2": 567,
+                "B1": 102
+            },
+            "percentages": {
+                "A1": 0.4669,
+                "A2": 0.4518,
+                "B1": 0.0813
+            }
+        }
+    }
+}

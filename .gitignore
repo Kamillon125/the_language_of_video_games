@@ -8,6 +8,7 @@
 !density.py
 !extracting.py
 !lore_filter.py
+!JSON_RESULTS/
 
 !.gitignore
 !requirements.txt

@@ -1,0 +1,359 @@
+{
+    "game_info": {
+        "title": "Kingdom Hearts III",
+        "series": "Kingdom Hearts",
+        "year": 2019,
+        "source": "https://gamefaqs.gamespot.com/ps4/718920-kingdom-hearts-iii/faqs/78466",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 5219
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 104.48,
+            "flesch_kincaid_grade": -0.33,
+            "smog_index": 4.88,
+            "dale_chall_score": 6.61,
+            "word_count": 40845
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0584,
+            "subordinate_clauses_per_sentence": 0.1424,
+            "conditionals_per_sentence": 0.0184
+        },
+        "register": {
+            "slang_density_percentage": 1.1657
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 9.1456,
+            "top_20_lemmas": {
+                "know": 242,
+                "yeah": 231,
+                "oh": 208,
+                "heart": 191,
+                "right": 186,
+                "go": 186,
+                "get": 177,
+                "look": 168,
+                "think": 166,
+                "let": 153,
+                "like": 153,
+                "come": 153,
+                "okay": 134,
+                "time": 132,
+                "find": 126,
+                "guy": 119,
+                "huh": 117,
+                "hey": 117,
+                "need": 117,
+                "way": 113
+            },
+            "top_15_bigrams": {
+                "it 's": 252,
+                "i 'm": 203,
+                "do n't": 176,
+                "you 're": 154,
+                "that 's": 143,
+                "we 're": 103,
+                "ca n't": 93,
+                "in the": 83,
+                "i 'll": 82,
+                "are you": 80,
+                "let 's": 74,
+                "he 's": 67,
+                "and i": 66,
+                "there 's": 65,
+                "i know": 65
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look for": 26,
+                    "come from": 17,
+                    "look like": 16,
+                    "look at": 16,
+                    "take of": 13,
+                    "get to": 13,
+                    "wait for": 13,
+                    "do with": 12,
+                    "return to": 11,
+                    "go to": 10,
+                    "go after": 9,
+                    "talk about": 8,
+                    "care about": 8,
+                    "go on": 7,
+                    "have in": 7
+                },
+                "top_15_adjective_noun": {
+                    "good luck": 8,
+                    "last time": 7,
+                    "black box": 6,
+                    "bad guy": 6,
+                    "first time": 5,
+                    "long story": 5,
+                    "little girl": 4,
+                    "old man": 4,
+                    "old mansion": 4,
+                    "only way": 4,
+                    "little while": 4,
+                    "black coat": 4,
+                    "real world": 4,
+                    "outside world": 4,
+                    "negative emotion": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 35,
+                    "go on": 20,
+                    "figure out": 14,
+                    "give up": 13,
+                    "hold on": 10,
+                    "end up": 8,
+                    "show up": 7,
+                    "wake up": 7,
+                    "look out": 7,
+                    "find out": 7,
+                    "get out": 6,
+                    "catch up": 6,
+                    "watch out": 6,
+                    "take over": 6,
+                    "put up": 5
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0709,
+            "mtld": 62.87,
+            "avg_sentence_length": 5.86,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1659,
+            "top_10_oov": {
+                "Gawrsh": 15,
+                "shugyo": 8,
+                "recompleted": 5,
+                "datascape": 3,
+                "Microbots": 3,
+                "traaails": 1,
+                "conquerin": 1,
+                "theeere": 1,
+                "agaaaaaain": 1,
+                "punier": 1
+            },
+            "true_oov_list": [
+                "Cheee",
+                "Elsaaa",
+                "Gawrsh",
+                "Microbots",
+                "Stopza",
+                "Taaake",
+                "Uhp",
+                "Zettaflare",
+                "aaarge",
+                "agaaaaaain",
+                "alized",
+                "apolitan",
+                "benchwarming",
+                "blippin",
+                "chorts",
+                "conquerin",
+                "datascape",
+                "divulgatory",
+                "downsy",
+                "eesy",
+                "fuuuuuun",
+                "gawrsh",
+                "heeelp",
+                "juuump",
+                "leggin",
+                "masqueraders",
+                "miiind",
+                "nemenies",
+                "punier",
+                "recomplete",
+                "recompleted",
+                "recompleting",
+                "reminicing",
+                "scrumptiously",
+                "shugyo",
+                "sleuthin",
+                "smackeral",
+                "somethiiing",
+                "swashbuckly",
+                "theeere",
+                "traaails",
+                "underprecedented",
+                "volunterring"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 45.27,
+            "density_excluding_proper_nouns": 38.74,
+            "proper_noun_density_contribution": 5.6071
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 29454,
+                    "unique_amount": 1373,
+                    "total_percentage": 0.8317,
+                    "unique_percentage": 0.3335
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 3146,
+                    "unique_amount": 994,
+                    "total_percentage": 0.0888,
+                    "unique_percentage": 0.2414
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1312,
+                    "unique_amount": 706,
+                    "total_percentage": 0.037,
+                    "unique_percentage": 0.1715
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 702,
+                    "unique_amount": 445,
+                    "total_percentage": 0.0198,
+                    "unique_percentage": 0.1081
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 61,
+                    "unique_amount": 50,
+                    "total_percentage": 0.0017,
+                    "unique_percentage": 0.0121
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 526,
+                    "unique_amount": 405,
+                    "total_percentage": 0.0149,
+                    "unique_percentage": 0.0984
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 215,
+                    "unique_amount": 144,
+                    "total_percentage": 0.0061,
+                    "unique_percentage": 0.035
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 35416,
+                    "unique_amount": 4117,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "replica": 25,
+                "master": 22,
+                "datum": 19,
+                "realm": 16,
+                "pirate": 14,
+                "tough": 13,
+                "mate": 13
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "heartless": 18,
+                "wielder": 14
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3949,
+                    "learned": 263,
+                    "unique": 666,
+                    "top_repeated_lemmas": {
+                        "you": 1548,
+                        "be": 1405,
+                        "the": 1246,
+                        "to": 1055,
+                        "i": 1035
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0909,
+                    "learned": 58,
+                    "unique": 638,
+                    "top_repeated_lemmas": {
+                        "need": 117,
+                        "more": 79,
+                        "other": 79,
+                        "still": 57,
+                        "might": 49
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0165,
+                    "learned": 9,
+                    "unique": 546,
+                    "top_repeated_lemmas": {
+                        "darkness": 73,
+                        "rest": 21,
+                        "vessel": 20,
+                        "protect": 17,
+                        "suppose": 14
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0188,
+                    "learned": 7,
+                    "unique": 373,
+                    "top_repeated_lemmas": {
+                        "replica": 25,
+                        "master": 22,
+                        "datum": 19,
+                        "realm": 16,
+                        "pirate": 14
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 42,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0055,
+                    "learned": 2,
+                    "unique": 361,
+                    "top_repeated_lemmas": {
+                        "heartless": 18,
+                        "wielder": 14
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 4861,
+                "A2": 3046,
+                "B1": 322,
+                "B2": 3,
+                "C2": 1
+            },
+            "percentages": {
+                "A1": 0.5904,
+                "A2": 0.37,
+                "B1": 0.0391,
+                "B2": 0.0004,
+                "C2": 0.0001
+            }
+        }
+    }
+}

@@ -1,0 +1,240 @@
+{
+    "game_info": {
+        "title": "Dragon Age: Inquisition",
+        "series": "Dragon Age",
+        "year": 1997,
+        "source": "http://www.finalfantasyquotes.com/ff7/script",
+        "source_features": null,
+        "total_lines_extracted": 50
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 96.51,
+            "flesch_kincaid_grade": 1.22,
+            "smog_index": 6.08,
+            "dale_chall_score": 6.87,
+            "word_count": 493
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0779,
+            "subordinate_clauses_per_sentence": 0.2987,
+            "conditionals_per_sentence": 0.0519
+        },
+        "register": {
+            "slang_density_percentage": 0.0
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 3.8685,
+            "top_20_lemmas": {
+                "pc": 7,
+                "think": 7,
+                "dead": 4,
+                "happen": 3,
+                "people": 3,
+                "stop": 3,
+                "choice": 3,
+                "kill": 2,
+                "mean": 2,
+                "know": 2,
+                "need": 2,
+                "confused": 2,
+                "understand": 2,
+                "remember": 2,
+                "woman": 2,
+                "rift": 2,
+                "world": 2,
+                "grow": 2,
+                "time": 2,
+                "mark": 2
+            },
+            "top_15_bigrams": {
+                "think i": 6,
+                "i \u2019m": 6,
+                "the breach": 6,
+                "i do": 4,
+                "if i": 4,
+                "i can": 4,
+                "have a": 4,
+                "do you": 3,
+                "you think": 3,
+                "i did": 3,
+                "ca n\u2019t": 3,
+                "do n\u2019t": 3,
+                "i will": 3,
+                "it is": 3,
+                "you still": 3
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "reach to": 1,
+                    "go to": 1,
+                    "take to": 1,
+                    "\u2019 into": 1,
+                    "yours.[back to": 1,
+                    "live through": 1,
+                    "lash like": 1,
+                    "think beyond": 1,
+                    "test on": 1
+                },
+                "top_15_adjective_noun": {
+                    "dead people": 1,
+                    "forward camp": 1,
+                    "massive rift": 1,
+                    "much time": 1,
+                    "only chance": 1,
+                    "only suspect": 1,
+                    "only way.[back": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "reach out": 1,
+                    "lash out": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.3946,
+            "mtld": 49.22,
+            "avg_sentence_length": 6.71,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1934,
+            "top_10_oov": {
+                "wrongPC": 1
+            },
+            "true_oov_list": [
+                "wrongPC"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 43.71,
+            "density_excluding_proper_nouns": 37.91,
+            "proper_noun_density_contribution": 1.9342
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 309,
+                    "unique_amount": 115,
+                    "total_percentage": 0.7592,
+                    "unique_percentage": 0.615
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 54,
+                    "unique_amount": 37,
+                    "total_percentage": 0.1327,
+                    "unique_percentage": 0.1979
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 30,
+                    "unique_amount": 23,
+                    "total_percentage": 0.0737,
+                    "unique_percentage": 0.123
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 7,
+                    "unique_amount": 6,
+                    "total_percentage": 0.0172,
+                    "unique_percentage": 0.0321
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 2,
+                    "unique_amount": 2,
+                    "total_percentage": 0.0049,
+                    "unique_percentage": 0.0107
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 4,
+                    "unique_amount": 3,
+                    "total_percentage": 0.0098,
+                    "unique_percentage": 0.016
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 1,
+                    "unique_amount": 1,
+                    "total_percentage": 0.0025,
+                    "unique_percentage": 0.0053
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 407,
+                    "unique_amount": 187,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "B2",
+                "unique_98": "C1"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.0638,
+                    "learned": 6,
+                    "unique": 94,
+                    "top_repeated_lemmas": {
+                        "be": 20,
+                        "do": 17,
+                        "it": 16,
+                        "you": 15,
+                        "the": 15
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 36,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 23,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 6,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 2,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 3,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 58,
+                "A2": 30,
+                "B1": 2
+            },
+            "percentages": {
+                "A1": 0.6444,
+                "A2": 0.3333,
+                "B1": 0.0222
+            }
+        }
+    }
+}

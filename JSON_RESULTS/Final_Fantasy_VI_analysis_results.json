@@ -1,0 +1,310 @@
+{
+    "game_info": {
+        "title": "Final Fantasy VI",
+        "series": "Final Fantasy",
+        "year": 1994,
+        "source": "https://gamefaqs.gamespot.com/snes/554041-final-fantasy-iii/faqs/70118",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 1578
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 102.77,
+            "flesch_kincaid_grade": -0.38,
+            "smog_index": 4.76,
+            "dale_chall_score": 6.68,
+            "word_count": 15565
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0902,
+            "subordinate_clauses_per_sentence": 0.1568,
+            "conditionals_per_sentence": 0.0282
+        },
+        "register": {
+            "slang_density_percentage": 0.7402
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 8.064,
+            "top_20_lemmas": {
+                "go": 84,
+                "let": 65,
+                "power": 62,
+                "know": 61,
+                "right": 60,
+                "come": 59,
+                "like": 58,
+                "think": 51,
+                "world": 49,
+                "help": 44,
+                "look": 41,
+                "terra": 41,
+                "time": 37,
+                "way": 36,
+                "ha": 36,
+                "thing": 35,
+                "want": 35,
+                "people": 35,
+                "wait": 31,
+                "tell": 30
+            },
+            "top_15_bigrams": {
+                "i 'm": 87,
+                "do n't": 70,
+                "it 's": 62,
+                "you 're": 61,
+                "i 'll": 59,
+                "the empire": 54,
+                "let 's": 46,
+                "ca n't": 39,
+                "what 's": 37,
+                "i have": 36,
+                "are you": 35,
+                "to the": 35,
+                "that 's": 35,
+                "we 're": 32,
+                "of the": 29
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "happen to": 14,
+                    "talk to": 10,
+                    "come with": 10,
+                    "come to": 9,
+                    "return to": 8,
+                    "look like": 7,
+                    "wait for": 7,
+                    "go with": 7,
+                    "do in": 5,
+                    "take of": 5,
+                    "go to": 5,
+                    "live in": 4,
+                    "look for": 4,
+                    "talk about": 4,
+                    "get on": 4
+                },
+                "top_15_adjective_noun": {
+                    "magical power": 7,
+                    "shiny thing": 6,
+                    "old man": 5,
+                    "last ray": 5,
+                    "only thing": 4,
+                    "big brother": 3,
+                    "only hope": 3,
+                    "cyan retainer": 3,
+                    "complete control": 2,
+                    "young woman": 2,
+                    "imperial soldier": 2,
+                    "tough one": 2,
+                    "good luck": 2,
+                    "innocent life": 2,
+                    "thou art": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "go on": 9,
+                    "come on": 9,
+                    "give up": 4,
+                    "wake up": 3,
+                    "shut up": 3,
+                    "stand back": 2,
+                    "leave behind": 2,
+                    "wipe out": 2,
+                    "make up": 2,
+                    "grow up": 2,
+                    "watch out": 2,
+                    "hold on": 2,
+                    "split up": 2,
+                    "get off": 2,
+                    "get out": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1212,
+            "mtld": 64.07,
+            "avg_sentence_length": 6.33,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1143,
+            "top_10_oov": {
+                "Uwee": 2,
+                "Shuddap": 2,
+                "Uwaaa": 2,
+                "Uwaaaaaaa": 1,
+                "Magitek": 1,
+                "Ackk": 1,
+                "reayd": 1,
+                "magitek": 1,
+                "Unhh": 1,
+                "gururururu": 1
+            },
+            "true_oov_list": [
+                "Ackk",
+                "Fwa",
+                "Magitek",
+                "Shuddap",
+                "Unhh",
+                "Uooh",
+                "Uwaaa",
+                "Uwaaaa",
+                "Uwaaaaaaa",
+                "Uwee",
+                "antertainment",
+                "gururururu",
+                "magitek",
+                "reayd",
+                "schooch",
+                "uwaooo"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.1,
+            "density_excluding_proper_nouns": 39.29,
+            "proper_noun_density_contribution": 5.356
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 10954,
+                    "unique_amount": 941,
+                    "total_percentage": 0.7947,
+                    "unique_percentage": 0.3755
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1485,
+                    "unique_amount": 616,
+                    "total_percentage": 0.1077,
+                    "unique_percentage": 0.2458
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 684,
+                    "unique_amount": 435,
+                    "total_percentage": 0.0496,
+                    "unique_percentage": 0.1736
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 332,
+                    "unique_amount": 249,
+                    "total_percentage": 0.0241,
+                    "unique_percentage": 0.0994
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 30,
+                    "unique_amount": 26,
+                    "total_percentage": 0.0022,
+                    "unique_percentage": 0.0104
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 229,
+                    "unique_amount": 191,
+                    "total_percentage": 0.0166,
+                    "unique_percentage": 0.0762
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 70,
+                    "unique_amount": 48,
+                    "total_percentage": 0.0051,
+                    "unique_percentage": 0.0192
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 13784,
+                    "unique_amount": 2506,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "thou": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2757,
+                    "learned": 142,
+                    "unique": 515,
+                    "top_repeated_lemmas": {
+                        "i": 559,
+                        "you": 543,
+                        "be": 535,
+                        "the": 534,
+                        "to": 459
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0414,
+                    "learned": 19,
+                    "unique": 459,
+                    "top_repeated_lemmas": {
+                        "power": 62,
+                        "so": 58,
+                        "human": 28,
+                        "understand": 24,
+                        "magic": 23
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.008,
+                    "learned": 3,
+                    "unique": 374,
+                    "top_repeated_lemmas": {
+                        "general": 17,
+                        "magical": 13,
+                        "shiny": 12
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 225,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 26,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0056,
+                    "learned": 1,
+                    "unique": 180,
+                    "top_repeated_lemmas": {
+                        "thou": 12
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1602,
+                "A2": 1277,
+                "B1": 144
+            },
+            "percentages": {
+                "A1": 0.5299,
+                "A2": 0.4224,
+                "B1": 0.0476
+            }
+        }
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "game_info": {
+        "title": "King's Quest IV: The Perils of Rosella",
+        "series": "King's Quest",
+        "year": 1988,
+        "source": "https://kingsquest.fandom.com/wiki/KQ4SCI_transcript",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": false,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 162
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 105.58,
+            "flesch_kincaid_grade": -0.17,
+            "smog_index": 5.01,
+            "dale_chall_score": 6.17,
+            "word_count": 1057
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0403,
+            "subordinate_clauses_per_sentence": 0.1544,
+            "conditionals_per_sentence": 0.0201
+        },
+        "register": {
+            "slang_density_percentage": 0.7246
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 3.6232,
+            "top_20_lemmas": {
+                "know": 8,
+                "help": 8,
+                "girl": 7,
+                "bring": 6,
+                "come": 5,
+                "away": 5,
+                "cheep": 5,
+                "want": 5,
+                "hen": 5,
+                "reward": 5,
+                "thank": 4,
+                "eye": 4,
+                "oh": 4,
+                "home": 4,
+                "look": 4,
+                "good": 4,
+                "find": 4,
+                "life": 3,
+                "need": 3,
+                "feel": 3
+            },
+            "top_15_bigrams": {
+                "do n't": 8,
+                "cheep cheep": 6,
+                "i do": 6,
+                "for you": 6,
+                "are you": 5,
+                "but i": 5,
+                "you 're": 5,
+                "help you": 5,
+                "it is": 4,
+                "i 'm": 4,
+                "our eye": 4,
+                "n't know": 4,
+                "take her": 4,
+                "you are": 4,
+                "you will": 4
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "help in": 2,
+                    "look like": 2,
+                    "come in": 1,
+                    "save from": 1,
+                    "feel on": 1,
+                    "hurt in": 1,
+                    "skedaddle on": 1,
+                    "skedaddle out": 1,
+                    "do to": 1,
+                    "get for": 1,
+                    "walk about": 1,
+                    "wander by": 1,
+                    "take to": 1,
+                    "search for": 1,
+                    "sleep in": 1
+                },
+                "top_15_adjective_noun": {
+                    "foolish girl": 2,
+                    "good girl": 2,
+                    "good luck": 2,
+                    "warm sun": 1,
+                    "golden egg": 1,
+                    "great reward": 1,
+                    "tiny bit": 1,
+                    "pure evil": 1,
+                    "pretty name": 1,
+                    "first thing": 1,
+                    "burdensome load": 1,
+                    "many year": 1,
+                    "magic mirror": 1,
+                    "magic fruit": 1,
+                    "great mountain": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "give back": 2,
+                    "come on": 1,
+                    "come over": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.2953,
+            "mtld": 49.58,
+            "avg_sentence_length": 7.41,
+            "median_sentence_length": 6
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0,
+            "top_10_oov": {},
+            "true_oov_list": []
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.92,
+            "density_excluding_proper_nouns": 39.31,
+            "proper_noun_density_contribution": 4.8007
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 748,
+                    "unique_amount": 201,
+                    "total_percentage": 0.8034,
+                    "unique_percentage": 0.5894
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 98,
+                    "unique_amount": 76,
+                    "total_percentage": 0.1053,
+                    "unique_percentage": 0.2229
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 35,
+                    "unique_amount": 31,
+                    "total_percentage": 0.0376,
+                    "unique_percentage": 0.0909
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 20,
+                    "unique_amount": 18,
+                    "total_percentage": 0.0215,
+                    "unique_percentage": 0.0528
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 1,
+                    "unique_amount": 1,
+                    "total_percentage": 0.0011,
+                    "unique_percentage": 0.0029
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 28,
+                    "unique_amount": 13,
+                    "total_percentage": 0.0301,
+                    "unique_percentage": 0.0381
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 1,
+                    "unique_amount": 1,
+                    "total_percentage": 0.0011,
+                    "unique_percentage": 0.0029
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 931,
+                    "unique_amount": 341,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "B2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.0769,
+                    "learned": 13,
+                    "unique": 169,
+                    "top_repeated_lemmas": {
+                        "you": 85,
+                        "i": 42,
+                        "be": 38,
+                        "the": 31,
+                        "to": 23
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 66,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 31,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 17,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 1,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 12,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 107,
+                "A2": 83,
+                "B1": 8
+            },
+            "percentages": {
+                "A1": 0.5404,
+                "A2": 0.4192,
+                "B1": 0.0404
+            }
+        }
+    }
+}

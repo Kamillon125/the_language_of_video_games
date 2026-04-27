@@ -1,0 +1,392 @@
+{
+    "game_info": {
+        "title": "Final Fantasy VIII",
+        "series": "Final Fantasy",
+        "year": 1999,
+        "source": "https://www.neoseeker.com/finalfantasy8/faqs/136092-final-fantasy-viii-script-a.html",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "partial"
+        },
+        "total_lines_extracted": 4258
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 100.35,
+            "flesch_kincaid_grade": 0.01,
+            "smog_index": 5.18,
+            "dale_chall_score": 6.78,
+            "word_count": 51983
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0869,
+            "subordinate_clauses_per_sentence": 0.155,
+            "conditionals_per_sentence": 0.0207
+        },
+        "register": {
+            "slang_density_percentage": 0.8972
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 10.3745,
+            "top_20_lemmas": {
+                "go": 300,
+                "know": 294,
+                "let": 275,
+                "come": 252,
+                "right": 239,
+                "like": 238,
+                "think": 194,
+                "want": 176,
+                "time": 170,
+                "look": 148,
+                "oh": 144,
+                "way": 131,
+                "sorceress": 131,
+                "hey": 126,
+                "to": 122,
+                "guy": 114,
+                "ok": 112,
+                "yeah": 111,
+                "good": 108,
+                "tell": 106
+            },
+            "top_15_bigrams": {
+                "i 'm": 298,
+                "it 's": 296,
+                "do n't": 292,
+                "you 're": 199,
+                "let 's": 198,
+                "that 's": 175,
+                "we 're": 159,
+                "i 'll": 135,
+                "i do": 133,
+                "this is": 132,
+                "ca n't": 131,
+                "to the": 129,
+                "are you": 125,
+                "have to": 123,
+                "what 's": 113
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 47,
+                    "talk about": 43,
+                    "take of": 35,
+                    "come with": 26,
+                    "happen to": 26,
+                    "look for": 25,
+                    "talk to": 23,
+                    "worry about": 22,
+                    "wait for": 19,
+                    "get to": 18,
+                    "come to": 17,
+                    "leave to": 17,
+                    "think about": 16,
+                    "go with": 14,
+                    "look at": 14
+                },
+                "top_15_adjective_noun": {
+                    "good luck": 14,
+                    "galbadian soldier": 12,
+                    "front gate": 11,
+                    "last time": 7,
+                    "2nd escort": 7,
+                    "elemental junction": 6,
+                    "2nd floor": 6,
+                    "dummy car": 6,
+                    "next time": 5,
+                    "squad leader": 5,
+                    "real thing": 5,
+                    "more time": 5,
+                    "little girl": 5,
+                    "only thing": 5,
+                    "new order": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 49,
+                    "go on": 29,
+                    "come up": 21,
+                    "end up": 13,
+                    "check out": 13,
+                    "find out": 13,
+                    "wake up": 12,
+                    "go up": 10,
+                    "carry out": 10,
+                    "shut up": 9,
+                    "get on": 8,
+                    "hold on": 8,
+                    "listen up": 6,
+                    "catch up": 6,
+                    "turn out": 6
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0569,
+            "mtld": 50.04,
+            "avg_sentence_length": 6.12,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1438,
+            "top_10_oov": {
+                "AAAHHHHHHHHHH": 4,
+                "SeeDs": 4,
+                "Galbadia": 3,
+                "Galbadian": 3,
+                "OuuuucHHHHH": 2,
+                "caref": 1,
+                "Huhhhh": 1,
+                "Huuuwahaah": 1,
+                "Dincht": 1,
+                "stuents": 1
+            },
+            "true_oov_list": [
+                "AAAHHHHHHHHHH",
+                "Arggghhh",
+                "Arrrrghhhh",
+                "BWAHA",
+                "Balamb",
+                "Deling",
+                "Dincht",
+                "Esthar",
+                "Galbadia",
+                "Galbadian",
+                "Galbadians",
+                "Ggghh",
+                "Huhhhh",
+                "Hunhhh",
+                "Huuuwahaah",
+                "Irvy",
+                "OOOUUCH",
+                "Ouuuch",
+                "OuuuucHHHHH",
+                "OuuuuuuucH",
+                "QuiTE",
+                "Rghaah",
+                "Rrready",
+                "SeeDs",
+                "Trabia",
+                "Ughaah",
+                "WHOOAA",
+                "WaaaaaaTTTS",
+                "YEEESSSS",
+                "aMUsing",
+                "aMusINg",
+                "akross",
+                "amAtEurs",
+                "baaaddd",
+                "beINg",
+                "cH",
+                "caref",
+                "cautous",
+                "clamorin",
+                "collecing",
+                "compressoin",
+                "daRe",
+                "disorganied",
+                "evacutate",
+                "fEll",
+                "feeeet",
+                "gentlemenn",
+                "itchessss",
+                "kompression",
+                "krusade",
+                "lokusts",
+                "patrollin",
+                "presIDent",
+                "resiSTED",
+                "roundin",
+                "sidin",
+                "sirrr",
+                "sirrrr",
+                "stORE",
+                "stuents",
+                "tHIs",
+                "tains",
+                "tawking",
+                "teLL",
+                "teurs",
+                "thouGH",
+                "throad",
+                "twouble",
+                "vonderful"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.07,
+            "density_excluding_proper_nouns": 39.36,
+            "proper_noun_density_contribution": 5.0632
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 37200,
+                    "unique_amount": 1388,
+                    "total_percentage": 0.8241,
+                    "unique_percentage": 0.3286
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 3922,
+                    "unique_amount": 1059,
+                    "total_percentage": 0.0869,
+                    "unique_percentage": 0.2507
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1968,
+                    "unique_amount": 778,
+                    "total_percentage": 0.0436,
+                    "unique_percentage": 0.1842
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 977,
+                    "unique_amount": 469,
+                    "total_percentage": 0.0216,
+                    "unique_percentage": 0.111
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 84,
+                    "unique_amount": 46,
+                    "total_percentage": 0.0019,
+                    "unique_percentage": 0.0109
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 698,
+                    "unique_amount": 326,
+                    "total_percentage": 0.0155,
+                    "unique_percentage": 0.0772
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 290,
+                    "unique_amount": 158,
+                    "total_percentage": 0.0064,
+                    "unique_percentage": 0.0374
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 45139,
+                    "unique_amount": 4224,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "junction": 40,
+                "hell": 39,
+                "missile": 29,
+                "select": 23,
+                "seal": 17,
+                "elemental": 15,
+                "commander": 14,
+                "squad": 13,
+                "sensor": 13,
+                "panel": 12,
+                "resistance": 12,
+                "gateway": 12
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "sorceress": 142,
+                "headmaster": 39,
+                "escort": 21,
+                "sniper": 15,
+                "orphanage": 13
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4414,
+                    "learned": 290,
+                    "unique": 657,
+                    "top_repeated_lemmas": {
+                        "be": 2173,
+                        "the": 1978,
+                        "to": 1713,
+                        "you": 1706,
+                        "i": 1489
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1214,
+                    "learned": 80,
+                    "unique": 659,
+                    "top_repeated_lemmas": {
+                        "need": 82,
+                        "still": 65,
+                        "more": 59,
+                        "understand": 57,
+                        "even": 55
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0433,
+                    "learned": 26,
+                    "unique": 600,
+                    "top_repeated_lemmas": {
+                        "battle": 49,
+                        "president": 42,
+                        "monster": 40,
+                        "mission": 39,
+                        "able": 35
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0314,
+                    "learned": 12,
+                    "unique": 382,
+                    "top_repeated_lemmas": {
+                        "junction": 40,
+                        "hell": 39,
+                        "missile": 29,
+                        "select": 23,
+                        "seal": 17
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 42,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0177,
+                    "learned": 5,
+                    "unique": 282,
+                    "top_repeated_lemmas": {
+                        "sorceress": 142,
+                        "headmaster": 39,
+                        "escort": 21,
+                        "sniper": 15,
+                        "orphanage": 13
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 5106,
+                "A2": 4337,
+                "B1": 391
+            },
+            "percentages": {
+                "A1": 0.5192,
+                "A2": 0.441,
+                "B1": 0.0398
+            }
+        }
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "game_info": {
+        "title": "Super Mario RPG: Legend of the Seven Stars",
+        "series": "Super Mario RPG",
+        "year": 1996,
+        "source": "https://gamefaqs.gamespot.com/snes/588739-super-mario-rpg-legend-of-the-seven-stars/faqs/30431",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 997
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 106.14,
+            "flesch_kincaid_grade": -0.83,
+            "smog_index": 4.61,
+            "dale_chall_score": 6.51,
+            "word_count": 13919
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0551,
+            "subordinate_clauses_per_sentence": 0.1144,
+            "conditionals_per_sentence": 0.0167
+        },
+        "register": {
+            "slang_density_percentage": 1.2721
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 9.5578,
+            "top_20_lemmas": {
+                "let": 92,
+                "come": 80,
+                "oh": 66,
+                "like": 65,
+                "go": 63,
+                "right": 60,
+                "look": 58,
+                "know": 54,
+                "get": 54,
+                "star": 51,
+                "find": 47,
+                "think": 43,
+                "help": 40,
+                "hey": 36,
+                "yes": 36,
+                "ha": 35,
+                "wait": 33,
+                "to": 31,
+                "time": 31,
+                "thank": 31
+            },
+            "top_15_bigrams": {
+                "i 'm": 96,
+                "you 're": 77,
+                "it 's": 75,
+                "let 's": 64,
+                "do n't": 61,
+                "this is": 60,
+                "i 'll": 47,
+                "the star": 39,
+                "that 's": 36,
+                "i 've": 35,
+                "are you": 32,
+                "ca n't": 30,
+                "gon na": 27,
+                "all right": 27,
+                "is n't": 25
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "play with": 8,
+                    "get out": 7,
+                    "go to": 7,
+                    "look like": 7,
+                    "look at": 6,
+                    "look for": 6,
+                    "know about": 5,
+                    "wait for": 5,
+                    "ask for": 5,
+                    "go with": 5,
+                    "get to": 5,
+                    "fall into": 5,
+                    "deal with": 4,
+                    "come from": 4,
+                    "take of": 4
+                },
+                "top_15_adjective_noun": {
+                    "dead end": 2,
+                    "ugly mustache": 2,
+                    "real family": 2,
+                    "other day": 2,
+                    "half wit": 2,
+                    "good day": 2,
+                    "mine car": 2,
+                    "poor baby": 2,
+                    "more time": 2,
+                    "more thing": 2,
+                    "big fish": 2,
+                    "dreadful news": 2,
+                    "good luck": 2,
+                    "large star": 2,
+                    "old man": 2
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 18,
+                    "take over": 6,
+                    "listen up": 5,
+                    "hand over": 5,
+                    "take along": 4,
+                    "give up": 4,
+                    "watch out": 3,
+                    "go on": 3,
+                    "keep up": 3,
+                    "drop in": 3,
+                    "get over": 3,
+                    "come by": 2,
+                    "beat up": 2,
+                    "get in": 2,
+                    "grow up": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1249,
+            "mtld": 59.33,
+            "avg_sentence_length": 5.5,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1952,
+            "top_10_oov": {
+                "Uwaaaaaah": 5,
+                "Guooooooo": 2,
+                "Eyaaaaa": 1,
+                "Fungah": 1,
+                "Oooouch": 1,
+                "groundling": 1,
+                "HAAALP": 1,
+                "Gunya": 1,
+                "Nyat": 1,
+                "mopin": 1
+            },
+            "true_oov_list": [
+                "Ayaaaaaaaaaaaaaaaiiiiiieeeeeeeeeeaaaaaaaaaaaaaaaiyaaaaaaaaaaaaaaaa",
+                "Chandeli",
+                "Eyaaaaa",
+                "Fungah",
+                "Gunya",
+                "Guooooooo",
+                "Gwaa",
+                "Gwah",
+                "Gwo",
+                "HAAALP",
+                "Hurrumph",
+                "Mariotta",
+                "Mwee",
+                "Nyat",
+                "Oooouch",
+                "Starbees",
+                "Uwaaaaaah",
+                "Yeouch",
+                "aaaaaaaaaaaaeeee",
+                "authograph",
+                "groundling",
+                "hoooonk",
+                "mopin",
+                "vaiting"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.75,
+            "density_excluding_proper_nouns": 38.53,
+            "proper_noun_density_contribution": 5.4452
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 9525,
+                    "unique_amount": 870,
+                    "total_percentage": 0.8154,
+                    "unique_percentage": 0.398
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1084,
+                    "unique_amount": 520,
+                    "total_percentage": 0.0928,
+                    "unique_percentage": 0.2379
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 496,
+                    "unique_amount": 344,
+                    "total_percentage": 0.0425,
+                    "unique_percentage": 0.1574
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 242,
+                    "unique_amount": 180,
+                    "total_percentage": 0.0207,
+                    "unique_percentage": 0.0823
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 19,
+                    "unique_amount": 18,
+                    "total_percentage": 0.0016,
+                    "unique_percentage": 0.0082
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 244,
+                    "unique_amount": 191,
+                    "total_percentage": 0.0209,
+                    "unique_percentage": 0.0874
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 72,
+                    "unique_amount": 63,
+                    "total_percentage": 0.0062,
+                    "unique_percentage": 0.0288
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 11682,
+                    "unique_amount": 2186,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.257,
+                    "learned": 129,
+                    "unique": 502,
+                    "top_repeated_lemmas": {
+                        "you": 533,
+                        "be": 499,
+                        "the": 443,
+                        "i": 428,
+                        "to": 335
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0308,
+                    "learned": 12,
+                    "unique": 390,
+                    "top_repeated_lemmas": {
+                        "need": 28,
+                        "so": 25,
+                        "more": 24,
+                        "enough": 17,
+                        "fall": 16
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 305,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 164,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 18,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 177,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 1651,
+                "A2": 1164,
+                "B1": 70
+            },
+            "percentages": {
+                "A1": 0.5723,
+                "A2": 0.4035,
+                "B1": 0.0243
+            }
+        }
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "game_info": {
+        "title": "The Curse of Monkey Island",
+        "series": "Monkey Island",
+        "year": 1997,
+        "source": "https://gamefaqs.gamespot.com/pc/29083-the-curse-of-monkey-island/faqs/60819",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "partial"
+        },
+        "total_lines_extracted": 2711
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 100.54,
+            "flesch_kincaid_grade": 0.25,
+            "smog_index": 5.29,
+            "dale_chall_score": 6.91,
+            "word_count": 30577
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0842,
+            "subordinate_clauses_per_sentence": 0.1509,
+            "conditionals_per_sentence": 0.021
+        },
+        "register": {
+            "slang_density_percentage": 1.1327
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 5.865,
+            "top_20_lemmas": {
+                "pirate": 129,
+                "oh": 128,
+                "like": 121,
+                "know": 118,
+                "get": 98,
+                "right": 91,
+                "think": 88,
+                "look": 86,
+                "good": 78,
+                "let": 76,
+                "want": 76,
+                "go": 74,
+                "come": 74,
+                "uh": 66,
+                "find": 64,
+                "ship": 61,
+                "time": 59,
+                "mean": 59,
+                "hey": 59,
+                "sea": 55
+            },
+            "top_15_bigrams": {
+                "i 'm": 218,
+                "it 's": 206,
+                "do n't": 124,
+                "you 're": 109,
+                "of the": 100,
+                "i 'll": 95,
+                "that 's": 92,
+                "i 've": 76,
+                "in the": 75,
+                "'s a": 74,
+                "i do": 70,
+                "to be": 62,
+                "ca n't": 61,
+                "i was": 57,
+                "i 'd": 56
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "look like": 16,
+                    "come from": 11,
+                    "look at": 11,
+                    "happen to": 11,
+                    "talk to": 10,
+                    "hear of": 10,
+                    "get to": 10,
+                    "go to": 9,
+                    "tell about": 8,
+                    "worry about": 8,
+                    "look for": 7,
+                    "work on": 7,
+                    "talk about": 7,
+                    "bury in": 7,
+                    "get out": 6
+                },
+                "top_15_adjective_noun": {
+                    "mighty pirate": 10,
+                    "little boy": 7,
+                    "evil pirate": 6,
+                    "last time": 6,
+                    "long time": 4,
+                    "broken heart": 4,
+                    "good thing": 4,
+                    "other special": 4,
+                    "new ship": 4,
+                    "good luck": 4,
+                    "more time": 3,
+                    "audio book": 3,
+                    "little guy": 3,
+                    "big ring": 3,
+                    "different island": 3
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 10,
+                    "pick up": 5,
+                    "get out": 5,
+                    "give back": 4,
+                    "give up": 4,
+                    "dig up": 4,
+                    "blow down": 3,
+                    "check out": 3,
+                    "sit down": 3,
+                    "hang on": 3,
+                    "carry around": 3,
+                    "cut out": 3,
+                    "lower down": 3,
+                    "put up": 2,
+                    "come over": 2
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1185,
+            "mtld": 61.07,
+            "avg_sentence_length": 7.05,
+            "median_sentence_length": 6
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.2017,
+            "top_10_oov": {
+                "Threepwood": 3,
+                "CHOOOO": 3,
+                "phrb": 2,
+                "Pappapisshu": 2,
+                "AIEEEEEE": 2,
+                "schnoobums": 2,
+                "Daaaargh": 1,
+                "Waaaaaaaaah": 1,
+                "Somewehere": 1,
+                "DAAAaarrr": 1
+            },
+            "true_oov_list": [
+                "AIEEEEEE",
+                "Aaaaaaaaaaa",
+                "Bluch",
+                "Brahz",
+                "CHOOOO",
+                "DAAAaarrr",
+                "Daaaargh",
+                "Eeeeeaaaaaaah",
+                "Euuu",
+                "Fearin",
+                "Ffrrrgghh",
+                "Gnk",
+                "Grrgghhhhh",
+                "Howwwwwl",
+                "Hwwaaaaccck",
+                "IVZ",
+                "LeCh",
+                "Litterbugs",
+                "Mmmffghh",
+                "Monkelectrics",
+                "Pappapisshu",
+                "Somewehere",
+                "ThankYouHaveaNiceDayGoodbye",
+                "Threepwood",
+                "Waaaaaaaaah",
+                "Yesyesyesyesyesyesyes",
+                "balladeers",
+                "bolied",
+                "bosz",
+                "brahas",
+                "chiseler",
+                "draj",
+                "escritoire",
+                "firewalking",
+                "grfklbt",
+                "hedgy",
+                "honeycakes",
+                "intendin",
+                "investigatin",
+                "knnk",
+                "lastin",
+                "loveably",
+                "mfggh",
+                "phrb",
+                "rememberin",
+                "repairin",
+                "scallawag",
+                "schnoobums",
+                "shrapnelizing",
+                "sneezin",
+                "swigger",
+                "swiggin",
+                "tannest",
+                "thrivin",
+                "trj",
+                "twoscore",
+                "voooz"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 47.71,
+            "density_excluding_proper_nouns": 41.84,
+            "proper_noun_density_contribution": 3.4507
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 20382,
+                    "unique_amount": 1297,
+                    "total_percentage": 0.7582,
+                    "unique_percentage": 0.2807
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 2778,
+                    "unique_amount": 1028,
+                    "total_percentage": 0.1033,
+                    "unique_percentage": 0.2225
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 1382,
+                    "unique_amount": 790,
+                    "total_percentage": 0.0514,
+                    "unique_percentage": 0.171
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1099,
+                    "unique_amount": 577,
+                    "total_percentage": 0.0409,
+                    "unique_percentage": 0.1249
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 127,
+                    "unique_amount": 98,
+                    "total_percentage": 0.0047,
+                    "unique_percentage": 0.0212
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 928,
+                    "unique_amount": 676,
+                    "total_percentage": 0.0345,
+                    "unique_percentage": 0.1463
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 187,
+                    "unique_amount": 154,
+                    "total_percentage": 0.007,
+                    "unique_percentage": 0.0333
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 26883,
+                    "unique_amount": 4620,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "pirate": 130,
+                "crew": 42,
+                "evil": 24,
+                "roam": 20,
+                "cannon": 18,
+                "cone": 18,
+                "skull": 15,
+                "mighty": 14
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {
+                "crypt": 16,
+                "babe": 13,
+                "voodoo": 12,
+                "fer": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.3017,
+                    "learned": 213,
+                    "unique": 706,
+                    "top_repeated_lemmas": {
+                        "i": 1091,
+                        "the": 1063,
+                        "be": 955,
+                        "you": 951,
+                        "a": 801
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0628,
+                    "learned": 45,
+                    "unique": 717,
+                    "top_repeated_lemmas": {
+                        "more": 70,
+                        "treasure": 51,
+                        "need": 44,
+                        "down": 35,
+                        "captain": 33
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0105,
+                    "learned": 7,
+                    "unique": 668,
+                    "top_repeated_lemmas": {
+                        "volcano": 22,
+                        "bet": 20,
+                        "trim": 18,
+                        "suppose": 17,
+                        "horrible": 14
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0163,
+                    "learned": 8,
+                    "unique": 491,
+                    "top_repeated_lemmas": {
+                        "pirate": 130,
+                        "crew": 42,
+                        "evil": 24,
+                        "roam": 20,
+                        "cannon": 18
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 89,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0066,
+                    "learned": 4,
+                    "unique": 608,
+                    "top_repeated_lemmas": {
+                        "crypt": 16,
+                        "babe": 13,
+                        "voodoo": 12,
+                        "fer": 12
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 2345,
+                "A2": 2268,
+                "B1": 285,
+                "B2": 5,
+                "C1": 2,
+                "C2": 2
+            },
+            "percentages": {
+                "A1": 0.4779,
+                "A2": 0.4622,
+                "B1": 0.0581,
+                "B2": 0.001,
+                "C1": 0.0004,
+                "C2": 0.0004
+            }
+        }
+    }
+}

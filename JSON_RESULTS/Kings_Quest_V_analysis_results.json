@@ -1,0 +1,313 @@
+{
+    "game_info": {
+        "title": "King's Quest V",
+        "series": "King's Quest",
+        "year": 1992,
+        "source": "https://kingsquest.fandom.com/wiki/KQ5NES_transcript",
+        "source_features": {
+            "type": "game data",
+            "completeness": "high",
+            "dialogueOrder": false,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 763
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 93.46,
+            "flesch_kincaid_grade": 2.18,
+            "smog_index": 6.18,
+            "dale_chall_score": 6.87,
+            "word_count": 10833
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1093,
+            "subordinate_clauses_per_sentence": 0.2203,
+            "conditionals_per_sentence": 0.0162
+        },
+        "register": {
+            "slang_density_percentage": 0.2413
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.7741,
+            "top_20_lemmas": {
+                "look": 58,
+                "old": 53,
+                "find": 44,
+                "small": 42,
+                "door": 38,
+                "large": 36,
+                "know": 34,
+                "little": 29,
+                "castle": 27,
+                "eye": 26,
+                "tree": 26,
+                "path": 26,
+                "notice": 25,
+                "good": 25,
+                "like": 24,
+                "help": 24,
+                "man": 24,
+                "inside": 23,
+                "forest": 23,
+                "way": 23
+            },
+            "top_15_bigrams": {
+                "of the": 84,
+                "in the": 55,
+                "to the": 42,
+                "graham 's": 36,
+                "graham can": 35,
+                "can see": 32,
+                "on the": 29,
+                "mordack 's": 29,
+                "a large": 28,
+                "at the": 27,
+                "is a": 25,
+                "a small": 24,
+                "from the": 24,
+                "to be": 24,
+                "through the": 21
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "lead to": 12,
+                    "lie on": 10,
+                    "look at": 10,
+                    "see through": 9,
+                    "see in": 7,
+                    "find in": 7,
+                    "lie in": 6,
+                    "lie near": 6,
+                    "lead into": 5,
+                    "do about": 5,
+                    "glow with": 5,
+                    "talk to": 4,
+                    "take with": 4,
+                    "sit in": 4,
+                    "pay to": 4
+                },
+                "top_15_adjective_noun": {
+                    "dark forest": 7,
+                    "old tree": 7,
+                    "old witch": 6,
+                    "young man": 5,
+                    "dry desert": 5,
+                    "sandy path": 5,
+                    "gloomy forest": 4,
+                    "small pond": 4,
+                    "burly man": 4,
+                    "open doorway": 4,
+                    "narrow path": 4,
+                    "snowy path": 4,
+                    "narrow beach": 4,
+                    "cold water": 4,
+                    "old wand": 4
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 6,
+                    "go on": 5,
+                    "bend down": 3,
+                    "pick up": 3,
+                    "make out": 3,
+                    "watch out": 3,
+                    "speak up": 3,
+                    "get on": 3,
+                    "lead up": 2,
+                    "wear out": 2,
+                    "burn down": 2,
+                    "continue on": 2,
+                    "keep out": 2,
+                    "leave over": 2,
+                    "fill up": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.1579,
+            "mtld": 58.48,
+            "avg_sentence_length": 9.56,
+            "median_sentence_length": 9
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.143,
+            "top_10_oov": {
+                "tailorshop": 3,
+                "Mooaaann": 2,
+                "shoeshop": 1,
+                "brushland": 1,
+                "Grham": 1,
+                "Ensnarling": 1,
+                "Grahan": 1,
+                "toadily": 1,
+                "pleasssee": 1,
+                "retirin": 1
+            },
+            "true_oov_list": [
+                "Ensnarling",
+                "Grahan",
+                "Grham",
+                "Mooaaann",
+                "Seet",
+                "brushland",
+                "mergency",
+                "pleasssee",
+                "retirin",
+                "shoeshop",
+                "somezink",
+                "tailorshop",
+                "toadily"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 52.65,
+            "density_excluding_proper_nouns": 47.66,
+            "proper_noun_density_contribution": 4.8789
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 7140,
+                    "unique_amount": 767,
+                    "total_percentage": 0.7139,
+                    "unique_percentage": 0.3475
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 1255,
+                    "unique_amount": 506,
+                    "total_percentage": 0.1255,
+                    "unique_percentage": 0.2293
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 678,
+                    "unique_amount": 349,
+                    "total_percentage": 0.0678,
+                    "unique_percentage": 0.1581
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 380,
+                    "unique_amount": 242,
+                    "total_percentage": 0.038,
+                    "unique_percentage": 0.1097
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 44,
+                    "unique_amount": 27,
+                    "total_percentage": 0.0044,
+                    "unique_percentage": 0.0122
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 455,
+                    "unique_amount": 275,
+                    "total_percentage": 0.0455,
+                    "unique_percentage": 0.1246
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 49,
+                    "unique_amount": 41,
+                    "total_percentage": 0.0049,
+                    "unique_percentage": 0.0186
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 10001,
+                    "unique_amount": 2207,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "C1",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "rocky": 14
+            },
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.2227,
+                    "learned": 110,
+                    "unique": 494,
+                    "top_repeated_lemmas": {
+                        "the": 737,
+                        "a": 374,
+                        "to": 294,
+                        "be": 283,
+                        "of": 244
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0344,
+                    "learned": 13,
+                    "unique": 378,
+                    "top_repeated_lemmas": {
+                        "seem": 30,
+                        "castle": 28,
+                        "path": 26,
+                        "notice": 25,
+                        "forest": 23
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0201,
+                    "learned": 6,
+                    "unique": 299,
+                    "top_repeated_lemmas": {
+                        "lead": 23,
+                        "wizard": 19,
+                        "cliff": 17,
+                        "narrow": 17,
+                        "huge": 14
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0044,
+                    "learned": 1,
+                    "unique": 225,
+                    "top_repeated_lemmas": {
+                        "rocky": 14
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 26,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 256,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 394,
+                "A2": 497,
+                "B1": 282,
+                "B2": 12,
+                "C1": 5
+            },
+            "percentages": {
+                "A1": 0.3311,
+                "A2": 0.4176,
+                "B1": 0.237,
+                "B2": 0.0101,
+                "C1": 0.0042
+            }
+        }
+    }
+}

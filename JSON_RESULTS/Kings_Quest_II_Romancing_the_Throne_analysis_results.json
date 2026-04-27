@@ -1,0 +1,240 @@
+{
+    "game_info": {
+        "title": "King's Quest II: Romancing the Throne",
+        "series": "King's Quest",
+        "year": 1987,
+        "source": "https://kingsquest.fandom.com/wiki/KQ2_transcript",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": false,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 38
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 104.61,
+            "flesch_kincaid_grade": -0.04,
+            "smog_index": 4.54,
+            "dale_chall_score": 5.74,
+            "word_count": 171
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0,
+            "subordinate_clauses_per_sentence": 0.1364,
+            "conditionals_per_sentence": 0.0
+        },
+        "register": {
+            "slang_density_percentage": 0.0
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 11.4286,
+            "top_20_lemmas": {
+                "come": 4,
+                "treasure": 3,
+                "say": 3,
+                "good": 2,
+                "thank": 2,
+                "kind": 2,
+                "flower": 2,
+                "ssssssssss": 1,
+                "away": 1,
+                "ssssssstrike": 1,
+                "help": 1,
+                "new": 1,
+                "item": 1,
+                "shop": 1,
+                "oil": 1,
+                "lamp": 1,
+                "expensive": 1,
+                "cost": 1,
+                "will": 1,
+                "precious": 1
+            },
+            "top_15_bigrams": {
+                "she says": 3,
+                "master master": 2,
+                "i will": 2,
+                "thank you": 2,
+                "you for": 2,
+                "for your": 2,
+                "master hello": 1,
+                "hello come": 1,
+                "come in": 1,
+                "in come": 1,
+                "come on": 1,
+                "on in": 1,
+                "in yecchhh": 1,
+                "yecchhh ssssssssss": 1,
+                "ssssssssss ssssstay": 1
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "thank for": 2,
+                    "come in": 1,
+                    "go by": 1,
+                    "join at": 1
+                },
+                "top_15_adjective_noun": {
+                    "new item": 1,
+                    "good luck": 1,
+                    "little bird": 1,
+                    "kind offer": 1,
+                    "enough flower": 1,
+                    "poor bone": 1,
+                    "old bone": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "come in": 1,
+                    "come on": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.5543,
+            "mtld": 51.95,
+            "avg_sentence_length": 7.95,
+            "median_sentence_length": 5.0
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 4.0,
+            "top_10_oov": {
+                "YECCHHH": 4,
+                "SSSsssssss": 1,
+                "SSssstay": 1,
+                "ssssssstrike": 1
+            },
+            "true_oov_list": [
+                "SSSsssssss",
+                "SSssstay",
+                "YECCHHH",
+                "ssssssstrike"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 47.43,
+            "density_excluding_proper_nouns": 40.0,
+            "proper_noun_density_contribution": 1.1429
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 120,
+                    "unique_amount": 68,
+                    "total_percentage": 0.7547,
+                    "unique_percentage": 0.6939
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 21,
+                    "unique_amount": 17,
+                    "total_percentage": 0.1321,
+                    "unique_percentage": 0.1735
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 4,
+                    "unique_amount": 4,
+                    "total_percentage": 0.0252,
+                    "unique_percentage": 0.0408
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 7,
+                    "unique_amount": 5,
+                    "total_percentage": 0.044,
+                    "unique_percentage": 0.051
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 0,
+                    "unique_amount": 0,
+                    "total_percentage": 0.0,
+                    "unique_percentage": 0.0
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 0,
+                    "unique_amount": 0,
+                    "total_percentage": 0.0,
+                    "unique_percentage": 0.0
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 7,
+                    "unique_amount": 4,
+                    "total_percentage": 0.044,
+                    "unique_percentage": 0.0408
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 159,
+                    "unique_amount": 98,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "B2",
+                "unique_98": "B2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 63,
+                    "top_repeated_lemmas": {}
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 16,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 4,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 5,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0,
+                    "learned": 0,
+                    "unique": 0,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0,
+                    "learned": 0,
+                    "unique": 0,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 19,
+                "A2": 20,
+                "B1": 1
+            },
+            "percentages": {
+                "A1": 0.475,
+                "A2": 0.5,
+                "B1": 0.025
+            }
+        }
+    }
+}

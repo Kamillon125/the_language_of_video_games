@@ -1,0 +1,473 @@
+{
+    "game_info": {
+        "title": "Final Fantasy IX",
+        "series": "Final Fantasy",
+        "year": 2000,
+        "source": "https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/42207",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "high",
+            "dialogueOrder": true,
+            "choices": "complete"
+        },
+        "total_lines_extracted": 9899
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 102.86,
+            "flesch_kincaid_grade": -0.27,
+            "smog_index": 4.84,
+            "dale_chall_score": 6.6,
+            "word_count": 101612
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0649,
+            "subordinate_clauses_per_sentence": 0.1522,
+            "conditionals_per_sentence": 0.0214
+        },
+        "register": {
+            "slang_density_percentage": 0.7981
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.7112,
+            "top_20_lemmas": {
+                "go": 530,
+                "come": 470,
+                "know": 467,
+                "like": 408,
+                "let": 387,
+                "think": 372,
+                "look": 310,
+                "oh": 307,
+                "to": 287,
+                "right": 273,
+                "want": 262,
+                "time": 262,
+                "get": 257,
+                "hey": 245,
+                "good": 240,
+                "find": 221,
+                "yeah": 219,
+                "thank": 219,
+                "way": 207,
+                "tell": 203
+            },
+            "top_15_bigrams": {
+                "i 'm": 656,
+                "do n't": 544,
+                "it 's": 487,
+                "are you": 311,
+                "you 're": 297,
+                "i do": 286,
+                "ca n't": 251,
+                "let 's": 250,
+                "that 's": 248,
+                "i 'll": 245,
+                "do you": 240,
+                "to the": 213,
+                "gon na": 211,
+                "this is": 200,
+                "what 's": 198
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "go to": 89,
+                    "talk about": 57,
+                    "look for": 57,
+                    "look like": 46,
+                    "come with": 40,
+                    "talk to": 36,
+                    "think about": 35,
+                    "wait for": 32,
+                    "come to": 32,
+                    "take of": 31,
+                    "return to": 31,
+                    "worry about": 28,
+                    "happen to": 28,
+                    "come from": 28,
+                    "go with": 26
+                },
+                "top_15_adjective_noun": {
+                    "black mage": 73,
+                    "long time": 18,
+                    "good luck": 16,
+                    "many people": 16,
+                    "good day": 16,
+                    "first time": 13,
+                    "good food": 11,
+                    "summon magic": 10,
+                    "la la": 10,
+                    "many thing": 9,
+                    "new airship": 9,
+                    "same thing": 9,
+                    "good hunting": 9,
+                    "little girl": 8,
+                    "royal chamber": 8
+                },
+                "top_15_phrasal_verbs": {
+                    "come on": 65,
+                    "go on": 50,
+                    "open up": 34,
+                    "find out": 24,
+                    "shut up": 19,
+                    "hurry up": 17,
+                    "hold on": 15,
+                    "wake up": 15,
+                    "come out": 15,
+                    "grow up": 13,
+                    "figure out": 12,
+                    "check out": 12,
+                    "get up": 10,
+                    "get out": 10,
+                    "end up": 10
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.046,
+            "mtld": 55.5,
+            "avg_sentence_length": 6.24,
+            "median_sentence_length": 5
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.2279,
+            "top_10_oov": {
+                "gwok": 32,
+                "oglop": 23,
+                "gargant": 21,
+                "Gwok": 11,
+                "oglops": 9,
+                "gysahl": 6,
+                "Gwahahaha": 5,
+                "Kweeeh": 4,
+                "zzzZZ": 4,
+                "wantae": 3
+            },
+            "true_oov_list": [
+                "AAAAAAAAARGH",
+                "AAACHOOO",
+                "Aiyaaa",
+                "Artania",
+                "Bletheration",
+                "Brrruuuum",
+                "Burmecia",
+                "Burmecian",
+                "Cleyra",
+                "Daguerreo",
+                "Dannit",
+                "Feuch",
+                "GAAAHHH",
+                "GRAAAHHHHHH",
+                "Gargants",
+                "Gwahahaha",
+                "Gwok",
+                "HUmans",
+                "Ignorin",
+                "KUPOOO",
+                "Khehehe",
+                "Kupoo",
+                "Kupopopo",
+                "Kuuupoh",
+                "Kweeeh",
+                "Ngah",
+                "OGLOP",
+                "Oglops",
+                "Speerits",
+                "Steple",
+                "Stilzkin",
+                "UGHUAAA",
+                "Urgurrrra",
+                "Yeeow",
+                "Yir",
+                "adamantoise",
+                "anoonce",
+                "aroon",
+                "artillerist",
+                "astoondin",
+                "awive",
+                "babysittin",
+                "brrrruuum",
+                "brrrum",
+                "cairry",
+                "cantheir",
+                "catheral",
+                "chamer",
+                "constructoin",
+                "converence",
+                "coorse",
+                "couldnae",
+                "cwothes",
+                "darest",
+                "ddnae",
+                "deadweights",
+                "dizzzzzzzzy",
+                "dowith",
+                "duggy",
+                "dukin",
+                "dwarfes",
+                "dwop",
+                "dwopped",
+                "eeyuck",
+                "enscribe",
+                "everbuddy",
+                "famiwy",
+                "foontain",
+                "gabbin",
+                "gargant",
+                "gargants",
+                "gwok",
+                "gysahl",
+                "hadnae",
+                "hametoon",
+                "hsip",
+                "hungert",
+                "ilicious",
+                "isnae",
+                "kupokupo",
+                "kupos",
+                "kweh",
+                "kwoh",
+                "likesay",
+                "loiterin",
+                "mejick",
+                "misht",
+                "moontain",
+                "nearhaun",
+                "oglop",
+                "oglops",
+                "ootsider",
+                "ootsiders",
+                "pashtime",
+                "picles",
+                "pimo",
+                "preimeter",
+                "rambustious",
+                "shiponly",
+                "shipsh",
+                "shouldnae",
+                "shtubborn",
+                "shunny",
+                "shupposhed",
+                "shwimming",
+                "spae",
+                "suroonded",
+                "telepod",
+                "telepods",
+                "thenhead",
+                "toughter",
+                "traidition",
+                "trippd",
+                "troublin",
+                "twaveling",
+                "understa",
+                "unentered",
+                "vermind",
+                "wantae",
+                "warld",
+                "woggy",
+                "wouldnae",
+                "zzzZ",
+                "zzzZZ"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 46.99,
+            "density_excluding_proper_nouns": 39.83,
+            "proper_noun_density_contribution": 5.3644
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 72302,
+                    "unique_amount": 1881,
+                    "total_percentage": 0.8196,
+                    "unique_percentage": 0.2818
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 8134,
+                    "unique_amount": 1541,
+                    "total_percentage": 0.0922,
+                    "unique_percentage": 0.2309
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3674,
+                    "unique_amount": 1267,
+                    "total_percentage": 0.0416,
+                    "unique_percentage": 0.1898
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 1768,
+                    "unique_amount": 822,
+                    "total_percentage": 0.02,
+                    "unique_percentage": 0.1232
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 296,
+                    "unique_amount": 106,
+                    "total_percentage": 0.0034,
+                    "unique_percentage": 0.0159
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 1456,
+                    "unique_amount": 766,
+                    "total_percentage": 0.0165,
+                    "unique_percentage": 0.1148
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 585,
+                    "unique_amount": 291,
+                    "total_percentage": 0.0066,
+                    "unique_percentage": 0.0436
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 88215,
+                    "unique_amount": 6674,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B1",
+                "total_98": "B2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "master": 54,
+                "tae": 44,
+                "regent": 42,
+                "seal": 31,
+                "knight": 27,
+                "noble": 25,
+                "pickle": 22,
+                "rally": 21,
+                "opponent": 19,
+                "tough": 18,
+                "sniff": 18,
+                "hell": 16,
+                "dock": 15,
+                "await": 15,
+                "mansion": 15,
+                "tribe": 15,
+                "darling": 15,
+                "inspect": 13,
+                "underground": 12,
+                "hunting": 12
+            },
+            "c1_learned_vocab": {
+                "mage": 90,
+                "dragon": 16,
+                "thou": 15
+            },
+            "c2_learned_vocab": {
+                "dagger": 72,
+                "eidolon": 60,
+                "heck": 40,
+                "summon": 25,
+                "summoner": 22,
+                "sandstorm": 19,
+                "bastard": 18,
+                "pendant": 17,
+                "kidnap": 15,
+                "dammit": 13,
+                "thy": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4982,
+                    "learned": 410,
+                    "unique": 823,
+                    "top_repeated_lemmas": {
+                        "be": 3901,
+                        "you": 3789,
+                        "the": 3553,
+                        "i": 3450,
+                        "to": 2834
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.1869,
+                    "learned": 166,
+                    "unique": 888,
+                    "top_repeated_lemmas": {
+                        "need": 186,
+                        "so": 173,
+                        "more": 162,
+                        "still": 141,
+                        "even": 138
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0661,
+                    "learned": 60,
+                    "unique": 908,
+                    "top_repeated_lemmas": {
+                        "protect": 90,
+                        "soul": 66,
+                        "rest": 63,
+                        "ye": 56,
+                        "deliver": 50
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.0312,
+                    "learned": 20,
+                    "unique": 642,
+                    "top_repeated_lemmas": {
+                        "master": 54,
+                        "tae": 44,
+                        "regent": 42,
+                        "seal": 31,
+                        "knight": 27
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0349,
+                    "learned": 3,
+                    "unique": 86,
+                    "top_repeated_lemmas": {
+                        "mage": 90,
+                        "dragon": 16,
+                        "thou": 15
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0165,
+                    "learned": 11,
+                    "unique": 665,
+                    "top_repeated_lemmas": {
+                        "dagger": 72,
+                        "eidolon": 60,
+                        "heck": 40,
+                        "summon": 25,
+                        "summoner": 22
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 10409,
+                "A2": 8137,
+                "B1": 705,
+                "B2": 1,
+                "C1": 1
+            },
+            "percentages": {
+                "A1": 0.5406,
+                "A2": 0.4226,
+                "B1": 0.0366,
+                "B2": 0.0001,
+                "C1": 0.0001
+            }
+        }
+    }
+}

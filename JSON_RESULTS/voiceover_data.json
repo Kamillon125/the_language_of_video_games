@@ -1,0 +1,256 @@
+{
+  "Chrono_Trigger_analysis_results": {
+    "proper_title": "Chrono Trigger",
+    "voice_acting": "None"
+  },
+  "Death_Stranding_analysis_results": {
+    "proper_title": "Death Stranding",
+    "voice_acting": "Full"
+  },
+  "Disco_Elysium_analysis_results": {
+    "proper_title": "Disco Elysium",
+    "voice_acting": "Full",
+    "comment": "Final Cut version includes voice acting for all lines."
+  },
+  "Dragon_Age_Inquisition_analysis_results": {
+    "proper_title": "Dragon Age: Inquisition",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_analysis_results": {
+    "proper_title": "Final Fantasy",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_II_analysis_results": {
+    "proper_title": "Final Fantasy II",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_IV_DS_analysis_results": {
+    "proper_title": "Final Fantasy IV (DS Version)",
+    "voice_acting": "Partial",
+    "comment": "Voiced cutscenes; standard dialogue is text."
+  },
+  "Final_Fantasy_IX_analysis_results": {
+    "proper_title": "Final Fantasy IX",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_IX_B_analysis_results": {
+    "proper_title": "Final Fantasy IX",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_VI_analysis_results": {
+    "proper_title": "Final Fantasy VI",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_VI_B_analysis_results": {
+    "proper_title": "Final Fantasy VI",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_VII_analysis_results": {
+    "proper_title": "Final Fantasy VII",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_VII_Remake_analysis_results": {
+    "proper_title": "Final Fantasy VII Remake",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_VIII_analysis_results": {
+    "proper_title": "Final Fantasy VIII",
+    "voice_acting": "None"
+  },
+  "Final_Fantasy_X_2_analysis_results": {
+    "proper_title": "Final Fantasy X-2",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_X_B_analysis_results": {
+    "proper_title": "Final Fantasy X",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_XII_B_analysis_results": {
+    "proper_title": "Final Fantasy XII",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_XIII_analysis_results": {
+    "proper_title": "Final Fantasy XIII",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_XIII_2_analysis_results": {
+    "proper_title": "Final Fantasy XIII-2",
+    "voice_acting": "Full"
+  },
+  "Final_Fantasy_XIV_with_ACTION_analysis_results": {
+    "proper_title": "Final Fantasy XIV",
+    "voice_acting": "Partial",
+    "comment": "Voicing primarily in Main Scenario Quests; side content is text."
+  },
+  "Final_Fantasy_XIV_without_ACTION_analysis_results": {
+    "proper_title": "Final Fantasy XIV",
+    "voice_acting": "Partial"
+  },
+  "Final_Fantasy_XV_analysis_results": {
+    "proper_title": "Final Fantasy XV",
+    "voice_acting": "Full"
+  },
+  "Fire_Emblem_Three_Houses_analysis_results": {
+    "proper_title": "Fire Emblem: Three Houses",
+    "voice_acting": "Full"
+  },
+  "Hades_analysis_results": {
+    "proper_title": "Hades",
+    "voice_acting": "Full"
+  },
+  "Horizon_Forbidden_West_analysis_results": {
+    "proper_title": "Horizon Forbidden West",
+    "voice_acting": "Full"
+  },
+  "Horizon_Zero_Dawn_analysis_results": {
+    "proper_title": "Horizon Zero Dawn",
+    "voice_acting": "Full"
+  },
+  "Kingdom_Hearts_3D_Dream_Drop_Distance_analysis_results": {
+    "proper_title": "Kingdom Hearts 3D: Dream Drop Distance",
+    "voice_acting": "Full"
+  },
+  "Kingdom_Hearts_analysis_results": {
+    "proper_title": "Kingdom Hearts",
+    "voice_acting": "Full"
+  },
+  "Kingdom_Hearts__B_analysis_results": {
+    "proper_title": "Kingdom Hearts",
+    "voice_acting": "Full"
+  },
+  "Kingdom_Hearts_III_analysis_results": {
+    "proper_title": "Kingdom Hearts III",
+    "voice_acting": "Full"
+  },
+  "Kings_Quest_Chapters_analysis_results": {
+    "proper_title": "King's Quest (2015)",
+    "voice_acting": "Full"
+  },
+  "Kings_Quest_I_Quest_for_the_Crown_analysis_results": {
+    "proper_title": "King's Quest I: Quest for the Crown",
+    "voice_acting": "None"
+  },
+  "Kings_Quest_II_Romancing_the_Throne_analysis_results": {
+    "proper_title": "King's Quest II: Romancing the Throne",
+    "voice_acting": "None"
+  },
+  "Kings_Quest_III_To_Heir_Is_Human_analysis_results": {
+    "proper_title": "King's Quest III: To Heir Is Human",
+    "voice_acting": "None"
+  },
+  "Kings_Quest_IV_The_Perils_of_Rosella_analysis_results": {
+    "proper_title": "King's Quest IV: The Perils of Rosella",
+    "voice_acting": "None"
+  },
+  "Kings_Quest_V_analysis_results": {
+    "proper_title": "King's Quest V",
+    "voice_acting": "Partial",
+    "comment": "Voice acting limited to CD-ROM version dialogue."
+  },
+  "Kings_Quest_VI_analysis_results": {
+    "proper_title": "King's Quest VI",
+    "voice_acting": "Partial"
+  },
+  "Kings_Quest_VII_The_Princeless_Bride_analysis_results": {
+    "proper_title": "King's Quest VII: The Princeless Bride",
+    "voice_acting": "Full"
+  },
+  "Kings_Quest_VIII_analysis_results": {
+    "proper_title": "King's Quest: Mask of Eternity",
+    "voice_acting": "Full"
+  },
+  "Mass_Effect_analysis_results": {
+    "proper_title": "Mass Effect",
+    "voice_acting": "Full"
+  },
+  "Mass_Effect_3_analysis_results": {
+    "proper_title": "Mass Effect 3",
+    "voice_acting": "Full"
+  },
+  "Mass_Effect_Andromeda_analysis_results": {
+    "proper_title": "Mass Effect: Andromeda",
+    "voice_acting": "Full"
+  },
+  "Monkey_Island_2_LeChucks_Revenge_analysis_results": {
+    "proper_title": "Monkey Island 2: LeChuck's Revenge",
+    "voice_acting": "Full",
+    "comment": "Special Edition; original was unvoiced."
+  },
+  "Persona_3_analysis_results": {
+    "proper_title": "Persona 3",
+    "voice_acting": "Partial",
+    "comment": "Major story and social link scenes voiced."
+  },
+  "Persona_3_B_analysis_results": {
+    "proper_title": "Persona 3",
+    "voice_acting": "Partial"
+  },
+  "Persona_4_analysis_results": {
+    "proper_title": "Persona 4",
+    "voice_acting": "Partial"
+  },
+  "Persona_5_B_analysis_results": {
+    "proper_title": "Persona 5",
+    "voice_acting": "Partial"
+  },
+  "Phoenix_Wright_Ace_Attorney_analysis_results": {
+    "proper_title": "Phoenix Wright: Ace Attorney",
+    "voice_acting": "Minimal",
+    "comment": "Voice interjections only."
+  },
+  "Phoenix_Wright_Ace_Attorney_Justice_for_All_analysis_results": {
+    "proper_title": "Phoenix Wright: Ace Attorney − Justice for All",
+    "voice_acting": "Minimal",
+    "comment": "Voice interjections only."
+  },
+  "Phoenix_Wright_Ace_Attorney_Trials_and_Tribulations_analysis_results": {
+    "proper_title": "Phoenix Wright: Ace Attorney − Trials and Tribulations",
+    "voice_acting": "Minimal",
+    "comment": "Voice interjections only."
+  },
+  "Star_Wars_Knights_of_the_Old_Republic_analysis_results": {
+    "proper_title": "Star Wars: Knights of the Old Republic",
+    "voice_acting": "Full"
+  },
+  "Stardew_Valley_analysis_results": {
+    "proper_title": "Stardew Valley",
+    "voice_acting": "None"
+  },
+  "Super_Mario_RPG_Legend_of_the_Seven_Stars_analysis_results": {
+    "proper_title": "Super Mario RPG: Legend of the Seven Stars",
+    "voice_acting": "None"
+  },
+  "Tales_of_Vesperia_analysis_results": {
+    "proper_title": "Tales of Vesperia",
+    "voice_acting": "Full"
+  },
+  "The_Curse_of_Monkey_Island_analysis_results": {
+    "proper_title": "The Curse of Monkey Island",
+    "voice_acting": "Full"
+  },
+  "The_Elder_Scrolls_II_Daggerfall_analysis_results": {
+    "proper_title": "The Elder Scrolls II: Daggerfall",
+    "voice_acting": "None"
+  },
+  "The_Elder_Scrolls_IV_Oblivion_analysis_results": {
+    "proper_title": "The Elder Scrolls IV: Oblivion",
+    "voice_acting": "Full"
+  },
+  "The_Elder_Scrolls_V_Skyrim_analysis_results": {
+    "proper_title": "The Elder Scrolls V: Skyrim",
+    "voice_acting": "Full"
+  },
+  "The_Secret_of_Monkey_Island_analysis_results": {
+    "proper_title": "The Secret of Monkey Island",
+    "voice_acting": "Full",
+    "comment": "Special Edition; original was unvoiced."
+  },
+  "The_Witcher_2_Assassins_of_Kings_analysis_results": {
+    "proper_title": "The Witcher 2: Assassins of Kings",
+    "voice_acting": "Full"
+  },
+  "The_Witcher_3_Wild_Hunt_analysis_results": {
+    "proper_title": "The Witcher 3: Wild Hunt",
+    "voice_acting": "Full"
+  }
+}

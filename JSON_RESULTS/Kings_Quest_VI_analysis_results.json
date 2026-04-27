@@ -1,0 +1,413 @@
+{
+    "game_info": {
+        "title": "King's Quest VI",
+        "series": "King's Quest",
+        "year": 1992,
+        "source": "https://kingsquest.fandom.com/wiki/KQ6_transcript",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": true,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 4968
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 94.6,
+            "flesch_kincaid_grade": 2.07,
+            "smog_index": 6.01,
+            "dale_chall_score": 6.63,
+            "word_count": 72074
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1173,
+            "subordinate_clauses_per_sentence": 0.2317,
+            "conditionals_per_sentence": 0.0311
+        },
+        "register": {
+            "slang_density_percentage": 0.2041
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 5.049,
+            "top_20_lemmas": {
+                "wall": 242,
+                "guard": 240,
+                "look": 238,
+                "door": 236,
+                "want": 222,
+                "use": 191,
+                "like": 181,
+                "reason": 159,
+                "good": 158,
+                "castle": 153,
+                "man": 140,
+                "think": 132,
+                "little": 131,
+                "dog": 131,
+                "book": 128,
+                "need": 125,
+                "know": 125,
+                "find": 120,
+                "path": 117,
+                "stand": 117
+            },
+            "top_15_bigrams": {
+                "of the": 622,
+                "in the": 473,
+                "on the": 468,
+                "to the": 337,
+                "there 's": 286,
+                "'s no": 182,
+                "does n't": 182,
+                "alexander 's": 158,
+                "the castle": 153,
+                "to use": 150,
+                "want to": 149,
+                "that on": 146,
+                "from the": 145,
+                "to be": 145,
+                "reason to": 145
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "use on": 160,
+                    "do with": 70,
+                    "stand in": 51,
+                    "look at": 44,
+                    "talk to": 40,
+                    "lead to": 36,
+                    "come from": 29,
+                    "make of": 24,
+                    "return to": 23,
+                    "put in": 22,
+                    "click on": 22,
+                    "stand on": 19,
+                    "think of": 18,
+                    "look like": 17,
+                    "tell about": 17
+                },
+                "top_15_adjective_noun": {
+                    "good day": 27,
+                    "other side": 22,
+                    "old man": 22,
+                    "magic map": 20,
+                    "young man": 17,
+                    "good idea": 17,
+                    "other island": 13,
+                    "royal ring": 13,
+                    "mechanical nightingale": 13,
+                    "wooden door": 12,
+                    "small table": 12,
+                    "old lamp": 11,
+                    "grand hall": 10,
+                    "secret passage": 10,
+                    "new lamp": 9
+                },
+                "top_15_phrasal_verbs": {
+                    "pick up": 28,
+                    "hold out": 25,
+                    "reach out": 10,
+                    "swoop down": 9,
+                    "come on": 8,
+                    "find out": 8,
+                    "fly off": 7,
+                    "lead up": 7,
+                    "make out": 7,
+                    "check out": 6,
+                    "make up": 6,
+                    "lead down": 6,
+                    "look out": 5,
+                    "give up": 5,
+                    "go on": 4
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.0613,
+            "mtld": 51.92,
+            "avg_sentence_length": 9.66,
+            "median_sentence_length": 9
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0591,
+            "top_10_oov": {
+                "Alhazred": 4,
+                "Darlou": 1,
+                "obsermving": 1,
+                "obstained": 1,
+                "bickly": 1,
+                "unsculptured": 1,
+                "illuminaries": 1,
+                "Poofed": 1,
+                "abustle": 1,
+                "descry": 1
+            },
+            "true_oov_list": [
+                "AAAIIEEE",
+                "AAoooUU",
+                "AEIIII",
+                "Alhazred",
+                "Allaria",
+                "Darlou",
+                "GooEEEoo",
+                "Gwydion",
+                "HHHOOOOTTTTTTTT",
+                "Jowels",
+                "LOnely",
+                "Poofed",
+                "RRRRRED",
+                "YIIiikkeesssss",
+                "abustle",
+                "aileth",
+                "bickly",
+                "blurps",
+                "centidrils",
+                "crankily",
+                "descry",
+                "dulcimas",
+                "fiddlewacker",
+                "finemackels",
+                "flitmice",
+                "fungimentally",
+                "halfdulcimas",
+                "hotheadedly",
+                "illuminaries",
+                "lIKe",
+                "mournin",
+                "mouthache",
+                "neous",
+                "obsermving",
+                "obstained",
+                "putred",
+                "rantin",
+                "teaCUP",
+                "travelogs",
+                "unsculptured",
+                "unvocal"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 49.73,
+            "density_excluding_proper_nouns": 43.51,
+            "proper_noun_density_contribution": 5.3149
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 49554,
+                    "unique_amount": 1699,
+                    "total_percentage": 0.7558,
+                    "unique_percentage": 0.2663
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 7732,
+                    "unique_amount": 1460,
+                    "total_percentage": 0.1179,
+                    "unique_percentage": 0.2288
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 3820,
+                    "unique_amount": 1232,
+                    "total_percentage": 0.0583,
+                    "unique_percentage": 0.1931
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 2083,
+                    "unique_amount": 897,
+                    "total_percentage": 0.0318,
+                    "unique_percentage": 0.1406
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 278,
+                    "unique_amount": 137,
+                    "total_percentage": 0.0042,
+                    "unique_percentage": 0.0215
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 2009,
+                    "unique_amount": 886,
+                    "total_percentage": 0.0306,
+                    "unique_percentage": 0.1389
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 89,
+                    "unique_amount": 69,
+                    "total_percentage": 0.0014,
+                    "unique_percentage": 0.0108
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 65565,
+                    "unique_amount": 6380,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {
+                "icon": 68,
+                "hedge": 47,
+                "skull": 45,
+                "ceiling": 42,
+                "throne": 31,
+                "trunk": 31,
+                "gear": 27,
+                "knight": 24,
+                "odd": 23,
+                "master": 22,
+                "mint": 22,
+                "mortal": 19,
+                "doorway": 19,
+                "shield": 19,
+                "intruder": 17,
+                "counter": 16,
+                "pearl": 16,
+                "torch": 16,
+                "evil": 15,
+                "dock": 15,
+                "granite": 14,
+                "scythe": 14,
+                "realm": 14,
+                "grand": 13,
+                "copper": 13,
+                "archer": 12
+            },
+            "c1_learned_vocab": {
+                "lump": 22,
+                "pillar": 21,
+                "vine": 17,
+                "maiden": 12
+            },
+            "c2_learned_vocab": {
+                "vizier": 109,
+                "hallway": 63,
+                "swamp": 51,
+                "pawn": 38,
+                "genie": 38,
+                "catacomb": 37,
+                "teacup": 24,
+                "ooze": 24,
+                "gnome": 23,
+                "ferryman": 23,
+                "dungeon": 22,
+                "lair": 22,
+                "staircase": 21,
+                "maze": 16,
+                "keyhole": 16,
+                "teapot": 15,
+                "tinder": 15,
+                "catacombs": 15,
+                "dagger": 15,
+                "footstep": 14,
+                "wallflower": 14,
+                "peppermint": 13,
+                "alcove": 13,
+                "gauntlet": 12
+            },
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.4839,
+                    "learned": 390,
+                    "unique": 806,
+                    "top_repeated_lemmas": {
+                        "the": 5609,
+                        "be": 2513,
+                        "to": 2367,
+                        "a": 1597,
+                        "of": 1546
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.183,
+                    "learned": 159,
+                    "unique": 869,
+                    "top_repeated_lemmas": {
+                        "guard": 240,
+                        "castle": 162,
+                        "might": 154,
+                        "more": 120,
+                        "path": 117
+                    }
+                },
+                "B1": {
+                    "utility_score": 0.0805,
+                    "learned": 73,
+                    "unique": 907,
+                    "top_repeated_lemmas": {
+                        "spirit": 56,
+                        "cliff": 46,
+                        "though": 43,
+                        "skeleton": 39,
+                        "coal": 34
+                    }
+                },
+                "B2": {
+                    "utility_score": 0.037,
+                    "learned": 26,
+                    "unique": 702,
+                    "top_repeated_lemmas": {
+                        "icon": 68,
+                        "hedge": 47,
+                        "skull": 45,
+                        "ceiling": 42,
+                        "throne": 31
+                    }
+                },
+                "C1": {
+                    "utility_score": 0.0348,
+                    "learned": 4,
+                    "unique": 115,
+                    "top_repeated_lemmas": {
+                        "lump": 22,
+                        "pillar": 21,
+                        "vine": 17,
+                        "maiden": 12
+                    }
+                },
+                "C2": {
+                    "utility_score": 0.0305,
+                    "learned": 24,
+                    "unique": 786,
+                    "top_repeated_lemmas": {
+                        "vizier": 109,
+                        "hallway": 63,
+                        "swamp": 51,
+                        "pawn": 38,
+                        "genie": 38
+                    }
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 2804,
+                "A2": 3781,
+                "B1": 1383,
+                "B2": 29,
+                "C1": 4,
+                "C2": 1
+            },
+            "percentages": {
+                "A1": 0.3504,
+                "A2": 0.4725,
+                "B1": 0.1728,
+                "B2": 0.0036,
+                "C1": 0.0005,
+                "C2": 0.0001
+            }
+        }
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "game_info": {
+        "title": "King's Quest III: To Heir Is Human",
+        "series": "King's Quest",
+        "year": 1986,
+        "source": "https://kingsquest.fandom.com/wiki/KQ3_transcript",
+        "source_features": {
+            "type": "game data",
+            "completeness": "complete",
+            "dialogueOrder": false,
+            "choices": "NA"
+        },
+        "total_lines_extracted": 255
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 104.14,
+            "flesch_kincaid_grade": 0.31,
+            "smog_index": 5.12,
+            "dale_chall_score": 6.49,
+            "word_count": 1720
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.0961,
+            "subordinate_clauses_per_sentence": 0.1616,
+            "conditionals_per_sentence": 0.0175
+        },
+        "register": {
+            "slang_density_percentage": 1.4428
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 4.4395,
+            "top_20_lemmas": {
+                "boy": 24,
+                "know": 20,
+                "ya": 10,
+                "think": 8,
+                "get": 8,
+                "day": 7,
+                "happen": 7,
+                "like": 7,
+                "gold": 7,
+                "coin": 7,
+                "assign": 7,
+                "chore": 7,
+                "hear": 6,
+                "learn": 6,
+                "good": 5,
+                "little": 5,
+                "go": 5,
+                "need": 5,
+                "sir": 5,
+                "let": 5
+            },
+            "top_15_bigrams": {
+                "you know": 9,
+                "gwydion you": 9,
+                "i 'll": 8,
+                "will be": 8,
+                "will you": 8,
+                "do n't": 7,
+                "be one": 7,
+                "one gold": 7,
+                "gold coin": 7,
+                "he 's": 6,
+                "do you": 6,
+                "'ll be": 6,
+                "a chore": 6,
+                "know what": 6,
+                "the sorcery": 5
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "happen to": 7,
+                    "do about": 2,
+                    "get for": 2,
+                    "come with": 2,
+                    "talk about": 2,
+                    "seem at": 1,
+                    "stay out": 1,
+                    "jabber at": 1,
+                    "fall down": 1,
+                    "take to": 1,
+                    "be from": 1,
+                    "do in": 1,
+                    "try across": 1,
+                    "come aboard": 1,
+                    "get aboard": 1
+                },
+                "top_15_adjective_noun": {
+                    "lazy boy": 5,
+                    "young man": 3,
+                    "poor boy": 2,
+                    "old wizard": 2,
+                    "ornery buzzard": 2,
+                    "little devil": 1,
+                    "little pet": 1,
+                    "fine oak": 1,
+                    "beautiful day": 1,
+                    "lovely walk": 1,
+                    "stupid creature": 1,
+                    "tasty bug": 1,
+                    "little bug": 1,
+                    "last batch": 1,
+                    "fine choice": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "keep on": 2,
+                    "find out": 1,
+                    "come out": 1,
+                    "carry off": 1,
+                    "go on": 1,
+                    "damp down": 1,
+                    "work off": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.278,
+            "mtld": 51.61,
+            "avg_sentence_length": 7.87,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.1665,
+            "top_10_oov": {
+                "Hhrrummph": 1,
+                "smallfry": 1,
+                "Screeeeeeeeeeeeech": 1
+            },
+            "true_oov_list": [
+                "Hhrrummph",
+                "Screeeeeeeeeeeeech",
+                "smallfry"
+            ]
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 48.22,
+            "density_excluding_proper_nouns": 41.84,
+            "proper_noun_density_contribution": 4.5505
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 1179,
+                    "unique_amount": 273,
+                    "total_percentage": 0.7767,
+                    "unique_percentage": 0.5151
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 180,
+                    "unique_amount": 129,
+                    "total_percentage": 0.1186,
+                    "unique_percentage": 0.2434
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 68,
+                    "unique_amount": 47,
+                    "total_percentage": 0.0448,
+                    "unique_percentage": 0.0887
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 34,
+                    "unique_amount": 34,
+                    "total_percentage": 0.0224,
+                    "unique_percentage": 0.0642
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 1,
+                    "unique_amount": 1,
+                    "total_percentage": 0.0007,
+                    "unique_percentage": 0.0019
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 50,
+                    "unique_amount": 40,
+                    "total_percentage": 0.0329,
+                    "unique_percentage": 0.0755
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 6,
+                    "unique_amount": 6,
+                    "total_percentage": 0.004,
+                    "unique_percentage": 0.0113
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 1518,
+                    "unique_amount": 530,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.1028,
+                    "learned": 22,
+                    "unique": 214,
+                    "top_repeated_lemmas": {
+                        "you": 90,
+                        "i": 69,
+                        "be": 68,
+                        "to": 53,
+                        "the": 42
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 112,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 44,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 31,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 1,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 40,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 143,
+                "A2": 169,
+                "B1": 5
+            },
+            "percentages": {
+                "A1": 0.4511,
+                "A2": 0.5331,
+                "B1": 0.0158
+            }
+        }
+    }
+}

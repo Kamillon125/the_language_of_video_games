@@ -1,0 +1,270 @@
+{
+    "game_info": {
+        "title": "Horizon Zero Dawn",
+        "series": "Horizon",
+        "year": 2017,
+        "source": "https://game-scripts.fandom.com/wiki/Horizon_Zero_Dawn",
+        "source_features": {
+            "type": "fan transcript",
+            "completeness": "sample",
+            "dialogueOrder": true,
+            "choices": "not included"
+        },
+        "total_lines_extracted": 58
+    },
+    "analysis_results": {
+        "readability": {
+            "flesch_reading_ease": 93.17,
+            "flesch_kincaid_grade": 1.77,
+            "smog_index": 6.29,
+            "dale_chall_score": 7.27,
+            "word_count": 1606
+        },
+        "syntactic_complexity": {
+            "passives_per_sentence": 0.1186,
+            "subordinate_clauses_per_sentence": 0.2881,
+            "conditionals_per_sentence": 0.0282
+        },
+        "register": {
+            "slang_density_percentage": 0.6035
+        },
+        "vocabulary": {
+            "phrasal_verbs_density_per_1000_words": 7.242,
+            "top_20_lemmas": {
+                "like": 10,
+                "know": 10,
+                "get": 9,
+                "want": 8,
+                "go": 8,
+                "come": 6,
+                "think": 5,
+                "place": 5,
+                "long": 4,
+                "room": 4,
+                "hear": 4,
+                "bed": 4,
+                "day": 4,
+                "maybe": 4,
+                "call": 4,
+                "bad": 3,
+                "week": 3,
+                "right": 3,
+                "live": 3,
+                "sit": 3
+            },
+            "top_15_bigrams": {
+                "it 's": 10,
+                "in the": 9,
+                "of the": 7,
+                "la la": 6,
+                "going to": 6,
+                "do n't": 5,
+                "this place": 5,
+                "it was": 4,
+                "i 've": 4,
+                "and i": 4,
+                "i was": 4,
+                "to be": 4,
+                "i can": 4,
+                "that 's": 4,
+                "came in": 3
+            },
+            "collocations": {
+                "top_15_verb_preposition": {
+                    "keep for": 2,
+                    "have to": 1,
+                    "scramble to": 1,
+                    "torch on": 1,
+                    "print after": 1,
+                    "print until": 1,
+                    "run with": 1,
+                    "run in": 1,
+                    "buy into": 1,
+                    "pester with": 1,
+                    "do like": 1,
+                    "learn from": 1,
+                    "rout to": 1,
+                    "rout for": 1,
+                    "come from": 1
+                },
+                "top_15_adjective_noun": {
+                    "first battle": 1,
+                    "long up": 1,
+                    "coastal burg": 1,
+                    "prefab barrack": 1,
+                    "main force": 1,
+                    "3rd battle": 1,
+                    "local minuteman": 1,
+                    "first wave": 1,
+                    "standard procedure": 1,
+                    "last time": 1,
+                    "vintage filter": 1,
+                    "social filter": 1,
+                    "net filter": 1,
+                    "happy year": 1,
+                    "new year": 1
+                },
+                "top_15_phrasal_verbs": {
+                    "come in": 2,
+                    "scramble out": 1,
+                    "get through": 1,
+                    "push out": 1,
+                    "stand down": 1,
+                    "swell up": 1,
+                    "swallow up": 1,
+                    "call out": 1,
+                    "lock down": 1,
+                    "blast out": 1,
+                    "show up": 1
+                }
+            }
+        },
+        "diversity_syntax": {
+            "ttr": 0.3965,
+            "mtld": 75.81,
+            "avg_sentence_length": 9.36,
+            "median_sentence_length": 7
+        },
+        "oov_analysis": {
+            "oov_rate_percent": 0.0,
+            "top_10_oov": {},
+            "true_oov_list": []
+        },
+        "lexical_density": {
+            "density_including_proper_nouns": 49.37,
+            "density_excluding_proper_nouns": 43.93,
+            "proper_noun_density_contribution": 3.1382
+        },
+        "cefr_vocabulary": {
+            "level_distribution": [
+                {
+                    "cefr_level": "A1",
+                    "total_amount": 1047,
+                    "unique_amount": 319,
+                    "total_percentage": 0.7137,
+                    "unique_percentage": 0.4637
+                },
+                {
+                    "cefr_level": "A2",
+                    "total_amount": 191,
+                    "unique_amount": 158,
+                    "total_percentage": 0.1302,
+                    "unique_percentage": 0.2297
+                },
+                {
+                    "cefr_level": "B1",
+                    "total_amount": 100,
+                    "unique_amount": 88,
+                    "total_percentage": 0.0682,
+                    "unique_percentage": 0.1279
+                },
+                {
+                    "cefr_level": "B2",
+                    "total_amount": 58,
+                    "unique_amount": 56,
+                    "total_percentage": 0.0395,
+                    "unique_percentage": 0.0814
+                },
+                {
+                    "cefr_level": "C1",
+                    "total_amount": 16,
+                    "unique_amount": 14,
+                    "total_percentage": 0.0109,
+                    "unique_percentage": 0.0203
+                },
+                {
+                    "cefr_level": "C2",
+                    "total_amount": 53,
+                    "unique_amount": 51,
+                    "total_percentage": 0.0361,
+                    "unique_percentage": 0.0741
+                },
+                {
+                    "cefr_level": "UNKNOWN",
+                    "total_amount": 2,
+                    "unique_amount": 2,
+                    "total_percentage": 0.0014,
+                    "unique_percentage": 0.0029
+                },
+                {
+                    "cefr_level": "TOTAL",
+                    "total_amount": 1467,
+                    "unique_amount": 688,
+                    "total_percentage": 1.0,
+                    "unique_percentage": 1.0
+                }
+            ],
+            "thresholds": {
+                "total_95": "B2",
+                "total_98": "C2",
+                "unique_95": "C2",
+                "unique_98": "C2"
+            },
+            "b2_learned_vocab": {},
+            "c1_learned_vocab": {},
+            "c2_learned_vocab": {},
+            "learning_utility": {
+                "A1": {
+                    "utility_score": 0.0747,
+                    "learned": 18,
+                    "unique": 241,
+                    "top_repeated_lemmas": {
+                        "the": 81,
+                        "be": 53,
+                        "to": 52,
+                        "you": 40,
+                        "it": 33
+                    }
+                },
+                "A2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 145,
+                    "top_repeated_lemmas": {}
+                },
+                "B1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 85,
+                    "top_repeated_lemmas": {}
+                },
+                "B2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 56,
+                    "top_repeated_lemmas": {}
+                },
+                "C1": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 14,
+                    "top_repeated_lemmas": {}
+                },
+                "C2": {
+                    "utility_score": 0.0,
+                    "learned": 0,
+                    "unique": 49,
+                    "top_repeated_lemmas": {}
+                }
+            }
+        },
+        "cefr_sentences": {
+            "counts": {
+                "A1": 83,
+                "A2": 83,
+                "B1": 13,
+                "B2": 3,
+                "C1": 5,
+                "C2": 1
+            },
+            "percentages": {
+                "A1": 0.4415,
+                "A2": 0.4415,
+                "B1": 0.0691,
+                "B2": 0.016,
+                "C1": 0.0266,
+                "C2": 0.0053
+            }
+        }
+    }
+}
