@@ -20,7 +20,7 @@ print("Loading models... (This may take a moment)")
 try:
     nlp = spacy.load("en_core_web_md") # medium model
 except OSError:
-    print("spaCy model not found. Please run: python -m spacy download en_core_web_sm")
+    print("spaCy model not found. Please run: python -m spacy download en_core_web_md")
     exit(1)
 
 # Load the Hugging Face CEFR classifier
