@@ -90,4 +90,4 @@ Niewiarowski, K. (2026). “Press A to Confirm”. Gry wideo jako narzędzie prz
 Niewiarowski, K. (2026). The Language of Video Games: [Source code]. GitHub. https://github.com/Kamillon125/the_language_of_video_games (this repository)
 Niewiarowski, K. (2026). kniew [Source code]. GitHub. https://github.com/Kamillon125/kniew
 
-# To run this project, create a .env file and add your Hugging Face token:\n\n\`HF_TOKEN=hf_... \`
+## To run this project, create a .env file and add your Hugging Face token:\n\n\`HF_TOKEN=hf_... \`
