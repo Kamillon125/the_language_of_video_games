@@ -14,6 +14,7 @@
 !requirements.txt
 !README.md
 !.env.example
+!Methodology_and_limitations.pdf
 
 .venv/
 .env
