@@ -60,7 +60,7 @@ To run this project, create a `.env` file and add your Hugging Face token:
 
 ## Methodology & Limitations
 
-A comprehensive breakdown of the entire process can be found in Methodology_and_limitations.pdf. The document also covers the limitations and areas of improvement of this project.
+A comprehensive breakdown of the entire process can be found in `Methodology_and_limitations.pdf`. The document also covers the limitations and areas of improvement of this project.
 
 ## Disclaimer & Fair Use
 
