@@ -58,6 +58,17 @@ According to Stephen Krashen's Monitor Theory languages are best acquired when a
 To run this project, create a `.env` file and add your Hugging Face token:
 `HF_TOKEN=hf_...`
 
+## Retrospective and Future Improvements
+
+Full disclosure: This was built primarily as an academic/research project focused on data extraction and linguistics, with a "make it work first" approach. If I was to rebuild this pipeline today for a production environment, here's what I would change:
+
+* The current code relies too much on monolithic, procedural scripts and utilizes `runpy`. I would break this down into modular, testable classes and functions.
+* Currently, input files are hardcoded at the top of individual scripts. this would be replaced with dynamic config parsing.
+* The scripts currently use generic except `Exception as e:` blocks and standard `print()` statements for debugging. I would implement targeted exception handling and a standardized logging module to track pipeline execution.
+* To align with commercial engineering standards, I would introduce strict type hints and use formatters to ensure readability, which is just totally absent from this research-focused code.
+* While the project does utilise a standard `requirements.txt`, migrating to a modern manager like `Poetry` or `uv` would provide better environment reproducibility
+* A lot of code changes: Unifying the slang filters as they're in many files now and I had to update them manually each time, experimenting with larger batches for parallel processing to see how far I could push it, etc.
+
 ## Methodology & Limitations
 
 A comprehensive breakdown of the entire process can be found in `Methodology_and_limitations.pdf`. The document also covers the limitations and areas of improvement of this project.
